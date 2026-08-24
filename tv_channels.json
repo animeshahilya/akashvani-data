@@ -30,6 +30,16 @@
     "backup_url": "https://gjvtv.nellaiiptv.com/live/SHYGKW/index.m3u8"
   },
   {
+    "name": "114 RJ TAMIL TV",
+    "stream_url": "https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8",
+    "language": "Tamil",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "",
+    "stationuuid": "5b8339c3-44a5-376c-a38d-b8269b78af7d",
+    "backup_url": ""
+  },
+  {
     "name": "128 DIAMOND TALKIES",
     "stream_url": "https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8",
     "language": "",
@@ -71,12 +81,12 @@
   },
   {
     "name": "144 Sri Sankara Tamil",
-    "stream_url": "https://d2gvyg6lvauoko.cloudfront.net/230226/srisankaratamil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557178~exp=1787578778~acl=!*/230226/srisankaratamil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_144_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_144_-1~hmac=74fd5f83b6ed3bb4f562cf0f804d7c0ed6bad9e9b6ebc1bca2b575918ade6a13&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SriSankaraTamil&ads.language=TAM&ads.user=0",
+    "stream_url": "https://d2gvyg6lvauoko.cloudfront.net/230226/srisankaratamil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561684~exp=1787583284~acl=!*/230226/srisankaratamil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_144_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_144_-1~hmac=fd503a03d7159cf9cab5b0502bf2843d2e2a37bb5a4843ca643bd947c00c0b9d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SriSankaraTamil&ads.language=TAM&ads.user=0",
     "language": "Tamil",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-tamil.png",
-    "stationuuid": "31b490f6-d511-3b44-8218-34a0370ecdd6",
+    "stationuuid": "5de1dcac-14e9-329e-948f-f8f10a2ee1d4",
     "backup_url": ""
   },
   {
@@ -111,12 +121,12 @@
   },
   {
     "name": "180 Mangalmay TV",
-    "stream_url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:mangalmay.smil/playlist.m3u8?hdnts=st=1787557168~exp=1787578768~acl=!*/100823/smil:mangalmay.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_180_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_180_-1~hmac=fe0a7f01134892c89caea133bfa14f2f90ce2b57f6157f732c1fcb0e5ed55ef6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=MangalmayTV&ads.language=HIN&ads.user=0",
+    "stream_url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:mangalmay.smil/playlist.m3u8?hdnts=st=1787561675~exp=1787583275~acl=!*/100823/smil:mangalmay.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_180_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_180_-1~hmac=507c19ef503a48f0f2e4169c35c935c76b15464cccf612029a2c1e79ccaaec6d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=MangalmayTV&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mangalmay-tv.png",
-    "stationuuid": "12ff9e0f-2fb9-306e-ba50-e1b84515a2f3",
+    "stationuuid": "ac9fe950-87de-3be2-9774-87c1f00f3bdd",
     "backup_url": ""
   },
   {
@@ -171,12 +181,12 @@
   },
   {
     "name": "202 Swasthik TV",
-    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:swasthiktv.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557179~exp=1787578779~acl=!*/28072023/smil:swasthiktv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_202_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_202_-1~hmac=8220546f053b86d02d84d68fc365f646170f12242f4f27aa9278ed5043a19769&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SwasthikTV&ads.language=TAM&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:swasthiktv.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561685~exp=1787583285~acl=!*/28072023/smil:swasthiktv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_202_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_202_-1~hmac=825126cdede1d83c75979816b55912c6cd93fccad62b26e8052e521cc55cfce1&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SwasthikTV&ads.language=TAM&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/swasthik-tv.png",
-    "stationuuid": "81514ca9-0762-358a-86c6-a11b93b95d3e",
+    "stationuuid": "9bad6f38-6a21-3670-91bd-bdd860c3a7da",
     "backup_url": "https://livegeoroueu.akamaized.net/28072023/smil:swasthiktv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
   },
   {
@@ -201,12 +211,12 @@
   },
   {
     "name": "219 IBC Radio",
-    "stream_url": "https://yuppindottclorigin.akamaized.net/120723/ibcradio_test/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557181~exp=1787578781~acl=!*/120723/ibcradio_test/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_219_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_219_-1~hmac=044cb5d536c367d9517438ce9cd23f29985f3d277aeeb920941b12c078c9a4b2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=IBCRadio&ads.language=TAM&ads.user=0",
+    "stream_url": "https://yuppindottclorigin.akamaized.net/120723/ibcradio_test/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561687~exp=1787583287~acl=!*/120723/ibcradio_test/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_219_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_219_-1~hmac=73918208f3fb1171f57985d524263a856174392ff375746f4a357309e0c5e1a9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=IBCRadio&ads.language=TAM&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ibc-radio.png",
-    "stationuuid": "ffb10194-11c4-37d2-8406-ab2a12afb9d4",
+    "stationuuid": "c6e5a0d3-3b44-3f4f-a832-dfa97243be35",
     "backup_url": ""
   },
   {
@@ -227,6 +237,16 @@
     "tags": "Tamil Nadu Channels",
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1784825225_Comp%201_00136.png",
     "stationuuid": "f3d46a4d-0787-32bb-b6b6-8eafe26fa61e",
+    "backup_url": ""
+  },
+  {
+    "name": "228 sidhar isai",
+    "stream_url": "http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL",
+    "language": "Tamil",
+    "country": "India",
+    "tags": "Tamil Nadu Channels",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1785676992_WhatsApp%20Image%202026-08-02%20at%206.52.40%20PM.jpeg",
+    "stationuuid": "09322011-8dfb-316e-9dcb-d988fd2a8412",
     "backup_url": ""
   },
   {
@@ -251,52 +271,52 @@
   },
   {
     "name": "252 Turito NEET",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?ads.channel=4721&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557152~exp=1787578752~acl=!*/181224/smil:ymcc12thneet.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_252_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_252_-1~hmac=2192bc6f85533159c4f6547d1d4c00b1407896529e47b47d70ccfdd6573d3118&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=EDUCATION&ads.channel_name=TuritoNEET&ads.language=ENG&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?ads.channel=4721&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561660~exp=1787583260~acl=!*/181224/smil:ymcc12thneet.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_252_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_252_-1~hmac=85380f1e8711dcc6f12518fc292c777b4df7200f5f204862bc5bec4e61cb54cf&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=EDUCATION&ads.channel_name=TuritoNEET&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png",
-    "stationuuid": "02c29af1-5c67-31c0-aaee-82142027eb56",
+    "stationuuid": "ec758a1d-f3bc-3f64-86ea-e53007fa2ad7",
     "backup_url": "https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
   },
   {
     "name": "267 ESCAPE TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8?ads.channel=6944&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557149~exp=1787578749~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_267_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_267_-1~hmac=8cd48e3161f46ae61b8692157c1ed278454bb142f573aef8bbb0434ff000876f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=LIFESTYLE&ads.channel_name=ESCAPETV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8?ads.channel=6944&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561657~exp=1787583257~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_267_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_267_-1~hmac=43e7ccd70ec86de114052a9db5839f97283e8e0c129a9bffd7dd6e947bc4ce46&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=LIFESTYLE&ads.channel_name=ESCAPETV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png",
-    "stationuuid": "1b6c1614-3ef6-3a94-84d4-444e79aecf29",
+    "stationuuid": "9cc74923-ad18-38db-a9bc-7f2e024e49b9",
     "backup_url": "https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8"
   },
   {
     "name": "27 Zee Salaam",
-    "stream_url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8?ads.channel=6345&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557204~exp=1787578804~acl=!*/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_27_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_27_-1~hmac=a47815a8fb194e49bc915550d6c864e5339f7af21e912cc854210e8fb15395ec&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeSalaam&ads.language=URD&ads.user=0",
+    "stream_url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8?ads.channel=6345&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561710~exp=1787583310~acl=!*/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_27_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_27_-1~hmac=97d0afec00d64cd5d605658dd7e8cb7b9ba9a590fe7c3544c4a08ac5f376f28d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeSalaam&ads.language=URD&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uudnpd.png",
-    "stationuuid": "2265e679-18e2-3705-9364-1974ed013c33",
+    "stationuuid": "44c7b385-9084-3e5c-b916-bcbc1e56c24b",
     "backup_url": "https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-zeesalaam&u=Stream-star"
   },
   {
     "name": "279 JUST FOR LAUGHS GAGS",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8?ads.channel=6956&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557147~exp=1787578747~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_279_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_279_-1~hmac=12dbe018812be2ee278b8621b459d2e18eba6a2fdc023e35be07bad1e69cd9aa&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=JUSTFORLAUGHSGAGS&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8?ads.channel=6956&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561656~exp=1787583256~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_279_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_279_-1~hmac=07214376cbee5c3f2464fd03e390fbf7c80c4ceda3713b75a8c5c8f91c3d642c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=JUSTFORLAUGHSGAGS&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inxhvg.png",
-    "stationuuid": "67caaca6-d96e-33e5-b94c-5702b1032b61",
+    "stationuuid": "fa7139a7-8926-3ffa-92e9-bf26d2a53c7c",
     "backup_url": ""
   },
   {
     "name": "284 Willow Sports",
-    "stream_url": "https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?ads.channel=6910&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557133~exp=1787578733~acl=!*/playlist/amg01269-willowtvfast-willowplus-yupptvus/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_284_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_284_-1~hmac=e122019d61ff676c9e8de22a3c8a8e3ebf3b82f7ece514accf7faeab6e7cf7e5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=WillowSports&ads.language=ENG&ads.user=0",
+    "stream_url": "https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?ads.channel=6910&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561641~exp=1787583241~acl=!*/playlist/amg01269-willowtvfast-willowplus-yupptvus/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_284_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_284_-1~hmac=2fa33ddb25ee1b12f3221ad57e86661bedf6b90056b5c692741bf1b149be5dff&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=WillowSports&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png",
-    "stationuuid": "69ca84ce-1037-3030-a246-b141d9989fdf",
+    "stationuuid": "addb04e3-ab2f-3604-b2b9-3285516748ca",
     "backup_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
   },
   {
@@ -320,13 +340,23 @@
     "backup_url": ""
   },
   {
+    "name": "33 CTN Channel",
+    "stream_url": "http://217.216.79.247/ctn/channel/index.m3u8",
+    "language": "Tamil",
+    "country": "India",
+    "tags": "Tamil Nadu Channels",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1762496906_ctn%20channel%20log%20copy.png",
+    "stationuuid": "b9c56f00-c3aa-396e-8ee8-4eb9bb87b95f",
+    "backup_url": "https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8"
+  },
+  {
     "name": "33 Zee News Telugu",
-    "stream_url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/main.m3u8?ads.channel=6372&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557188~exp=1787578788~acl=!*/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_33_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_33_-1~hmac=504edbae1e615a877f99a7d5cdfbb389d7e29df0f71458ba113876226b9c2bf5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeNewsTelugu&ads.language=TEL&ads.user=0",
+    "stream_url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/main.m3u8?ads.channel=6372&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561694~exp=1787583294~acl=!*/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_33_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_33_-1~hmac=1867752e68eccb0a6f87f0d66241342220b4fb4c5096904044f4bf960eebe43e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeNewsTelugu&ads.language=TEL&ads.user=0",
     "language": "Telugu",
     "country": "India",
     "tags": "News",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aquwob.png",
-    "stationuuid": "40b97176-2b9f-327c-aa51-d4bef6b2fa77",
+    "stationuuid": "c098a409-8458-30e0-b37b-7f60174248cf",
     "backup_url": ""
   },
   {
@@ -371,12 +401,12 @@
   },
   {
     "name": "38 NDTV MP",
-    "stream_url": "https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8?ads.channel=6577&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557159~exp=1787578759~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_38_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_38_-1~hmac=5e509ff16602c74b8fecb8327a464e2b87b501828f66004ec0426ed5ea698271&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTVMP&ads.language=HIN&ads.user=0",
+    "stream_url": "https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8?ads.channel=6577&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561667~exp=1787583267~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_38_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_38_-1~hmac=fd4ec07749bf2b2a3af0a3cfedfc22feec391599b322430dd3e035cc23673ca5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTVMP&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png",
-    "stationuuid": "670b5398-2613-392e-b690-6faedbf6a348",
+    "stationuuid": "7756f53c-d0e8-357d-989b-98bc25dd48f7",
     "backup_url": ""
   },
   {
@@ -397,16 +427,6 @@
     "tags": "News",
     "favicon": "",
     "stationuuid": "3229898b-5e0a-3305-bae7-6c859401c38f",
-    "backup_url": ""
-  },
-  {
-    "name": "40 PN TV",
-    "stream_url": "https://stream.onecloudlive.in/pntv/pntv/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "",
-    "stationuuid": "ae22c788-dccd-3f86-abeb-1f6565616f77",
     "backup_url": ""
   },
   {
@@ -451,32 +471,32 @@
   },
   {
     "name": "45 Bang Bang TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8?ads.channel=6590&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557142~exp=1787578742~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_45_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_45_-1~hmac=912f47e66ab77f05727785988772c576bfac1a1001db33f78550b3b465dce5e6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=BangBangTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8?ads.channel=6590&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561650~exp=1787583250~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_45_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_45_-1~hmac=01da8c019005be4d582ff30eae624fb47fa560457d63ebd365ff4f00b43e2e78&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=BangBangTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png",
-    "stationuuid": "dcba84d7-c7b9-3abf-a529-e0cf07e2adbb",
+    "stationuuid": "226e6cbf-3e8d-3952-8dc0-eff3654f9c9c",
     "backup_url": ""
   },
   {
     "name": "48 Cartoon TV Classics",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?ads.channel=6591&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557136~exp=1787578736~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_48_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_48_-1~hmac=8cdf65d6f9abe8f19b3f69b5801f93a07e293f43bf3303fa69bfdebcfa622179&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=CartoonTVClassics&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?ads.channel=6591&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561645~exp=1787583245~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_48_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_48_-1~hmac=22f578aa43e6d1e1891783e203b558adca2a75a77bd6e4bbc8a8cc9054cf198e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=CartoonTVClassics&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png",
-    "stationuuid": "f8dd79b2-0c0a-3422-85b5-315db4e50d02",
+    "stationuuid": "6909a642-57f1-3491-a623-e7b2c692760a",
     "backup_url": ""
   },
   {
     "name": "49 ChronoTV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8?ads.channel=6592&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557146~exp=1787578746~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_49_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_49_-1~hmac=4ad775196d504f1ec24ecbc25decbcb06e1650834aee7e098d1b255f771fb0ea&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=ChronoTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8?ads.channel=6592&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561654~exp=1787583254~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_49_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_49_-1~hmac=154c510de190cd8c3d9eb3559322ec31beb510f9eb61cab43c9f11a64346b5a1&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=ChronoTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png",
-    "stationuuid": "2edd3f2b-1a88-34f4-9cc9-448329a3bd4c",
+    "stationuuid": "e7eb18f0-de96-3c1d-acea-bfaca1f2ea69",
     "backup_url": ""
   },
   {
@@ -501,22 +521,22 @@
   },
   {
     "name": "51 Colour Blind",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8?ads.channel=6464&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557145~exp=1787578745~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_51_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_51_-1~hmac=ae2598ac699ac61fc38eed018a28a516ed468ace560403cd9a15cffaf54d175f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=ColourBlind&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8?ads.channel=6464&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561654~exp=1787583254~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_51_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_51_-1~hmac=9cc154c3d0faa3b6fc0a2d89219eece828b325815314338880c5b98af4e4850f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=ColourBlind&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png",
-    "stationuuid": "6a93804e-e179-348b-946e-2a5453c919d0",
+    "stationuuid": "3f980335-ec26-360e-9fe7-6e5fbb247a00",
     "backup_url": "https://streams2.sofast.tv/ptnr-yupptv/title-COLOUR-BLIND-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8"
   },
   {
     "name": "52 Cowboy Movie Channel",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8?ads.channel=6593&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557137~exp=1787578737~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_52_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_52_-1~hmac=d33d6d048b937c9eb018a776e8c36f50507415a59d38b5cd0522fa9d1d49232e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=CowboyMovieChannel&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8?ads.channel=6593&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561646~exp=1787583246~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_52_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_52_-1~hmac=ac2144994b40cabed560dd9f8138a79a1b096b1550b6b9498b48180f77cfec23&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=CowboyMovieChannel&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png",
-    "stationuuid": "b8e0690c-5100-3d81-a03f-e5e2088e71df",
+    "stationuuid": "68c3c5eb-15ae-3a33-9197-33a9b65da44c",
     "backup_url": "https://streams2.sofast.tv/ptnr-yupptv/title-COWBOY-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8"
   },
   {
@@ -541,32 +561,22 @@
   },
   {
     "name": "55 Drive In Movie Channel",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8?ads.channel=6594&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557138~exp=1787578738~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_55_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_55_-1~hmac=141e661aeb5409c5138e213517ad5afeb2c57c305b194b873578ab4e29628b9f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=DriveInMovieChannel&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8?ads.channel=6594&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561647~exp=1787583247~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_55_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_55_-1~hmac=b638533f2b1f30e7b9e531f3aecc0cef3fdc82e95462115a167f2714d69f45d3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=DriveInMovieChannel&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png",
-    "stationuuid": "efe4010a-c4d7-3377-aebf-af984963aff2",
+    "stationuuid": "95a94334-225e-317b-b921-b1b04cdecf90",
     "backup_url": "https://streams2.sofast.tv/ptnr-yupptv/title-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8"
   },
   {
-    "name": "551 VIMAL TV",
-    "stream_url": "https://stream.onecloudlive.in/karthick/vimaltv/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "",
-    "stationuuid": "64a55da2-60b5-3826-9991-e9ee86322243",
-    "backup_url": ""
-  },
-  {
     "name": "56 Edgy TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8?ads.channel=6587&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557147~exp=1787578747~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_56_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_56_-1~hmac=b3810e8ba9de6de297492d3bd21274ebb04bbb16adfabef4a6398c64df7d2817&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=EdgyTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8?ads.channel=6587&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561655~exp=1787583255~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_56_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_56_-1~hmac=a87744f003d7850f82b774214a72c07482f1c31f13c82ef2f906bf492f1ac68c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=EdgyTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tlmbwv.png",
-    "stationuuid": "95ea1d0e-e1e0-31cf-89be-38cc342d1b21",
+    "stationuuid": "53528cb0-0688-3f1c-828c-34608ee1beeb",
     "backup_url": ""
   },
   {
@@ -601,12 +611,12 @@
   },
   {
     "name": "6 24 Taas",
-    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/main.m3u8?hdnts=st=1787557182~exp=1787578782~acl=!*/vglive-sk-580995/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_6_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_6_-1~hmac=9cf5e974335ccbcccac297054803d7902fdd9865d5b8c8899f0263c3c91eff06&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=24Taas&ads.language=MAR&ads.user=0",
+    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/main.m3u8?hdnts=st=1787561688~exp=1787583288~acl=!*/vglive-sk-580995/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_6_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_6_-1~hmac=0c44c29f6f717dbf1d97c34a011590826b03905e6a9190be5d14baad5660b421&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=24Taas&ads.language=MAR&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png",
-    "stationuuid": "00db1739-bc2c-367c-b01f-cc119b28100f",
+    "stationuuid": "3376400e-e73c-3fc9-b06a-0a4d2ae7f592",
     "backup_url": ""
   },
   {
@@ -661,12 +671,12 @@
   },
   {
     "name": "62 Trufa",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/manifest.m3u8?ads.channel=6618&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557144~exp=1787578744~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_62_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_62_-1~hmac=7fa4570a55b81ed5cf2de4e6a76bc5b8c22412a0b6ebd57751008f297c4b7e25&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Trufa&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/manifest.m3u8?ads.channel=6618&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561652~exp=1787583252~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_62_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_62_-1~hmac=9efdfd9053ca3078544a678284bae0f73bea65bb2960cc6a7c589518b1476ca2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Trufa&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/trufa.png",
-    "stationuuid": "feeb0803-1628-38b7-8a15-7cd033c98ab1",
+    "stationuuid": "10ceeb4c-0f00-3faa-a72a-84fb56d2aa0a",
     "backup_url": ""
   },
   {
@@ -681,12 +691,12 @@
   },
   {
     "name": "7 24 Ghanta",
-    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-778421/main.m3u8?hdnts=st=1787557184~exp=1787578784~acl=!*/vglive-sk-778421/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_7_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_7_-1~hmac=7bd6898a2d4a8293cc7be92c57b579e880c08b958e9796dd6746ca80b58ba515&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=24Ghanta&ads.language=BEN&ads.user=0",
+    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-778421/main.m3u8?hdnts=st=1787561690~exp=1787583290~acl=!*/vglive-sk-778421/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_7_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_7_-1~hmac=234e2c972c0b9999595751fddcaba1638c98178b5fea6c9e490613c306b7f6af&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=24Ghanta&ads.language=BEN&ads.user=0",
     "language": "Bengali",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uperuc.png",
-    "stationuuid": "19e3b34d-a617-319e-8441-680294d7856d",
+    "stationuuid": "35fece83-260b-3348-8e4c-4a2d2b42083c",
     "backup_url": ""
   },
   {
@@ -711,12 +721,12 @@
   },
   {
     "name": "77 Horror TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?ads.channel=6607&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557137~exp=1787578737~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_77_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_77_-1~hmac=67a48e2f983787872123866e62bc000bd774cb9cdae06abe9f76e07d2c5b7855&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=HorrorTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?ads.channel=6607&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561646~exp=1787583246~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_77_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_77_-1~hmac=8c44e3d178462a7292a1327c644ab7b0e4871eadb110da327c2c506e17bca8ce&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=HorrorTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png",
-    "stationuuid": "7e0bad07-8620-3799-a2a0-c0a7be3908ea",
+    "stationuuid": "7f33f1aa-196d-39f6-a1fa-7df8136d377f",
     "backup_url": ""
   },
   {
@@ -731,12 +741,12 @@
   },
   {
     "name": "78 Scifi World",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8?ads.channel=6599&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557139~exp=1787578739~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_78_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_78_-1~hmac=aab6b59490e7db94e73f48bb201ef1a541b2c708ffc686de9386a986d59453ef&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=ScifiWorld&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8?ads.channel=6599&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561648~exp=1787583248~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_78_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_78_-1~hmac=31fc379453b39a45c56c9ca62e11c348fedae23367144d1013379f6e430a59ff&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=ScifiWorld&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png",
-    "stationuuid": "cdb1e99e-c710-3b18-9b26-ca7976cfdf76",
+    "stationuuid": "990de413-1aa0-3675-8cfb-6cc2c110295e",
     "backup_url": ""
   },
   {
@@ -751,52 +761,42 @@
   },
   {
     "name": "80 Jupiter TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8?ads.channel=6597&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557140~exp=1787578740~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_80_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_80_-1~hmac=baac7176c9f6be9b843c5cfea4fb4fac88c5314b3d3ef74e3389072746b2c579&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=JupiterTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8?ads.channel=6597&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561648~exp=1787583248~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_80_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_80_-1~hmac=93cc4ec86870eb0d23b4abf55171a00fa022a472efcc289347ac86cf73910e07&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=JupiterTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jupiter-tv.png",
-    "stationuuid": "4cd12538-344a-3f5e-ac2c-2f1cd5e4a163",
+    "stationuuid": "0f0d5bde-eb68-3d5a-98e8-ffb0afe3168c",
     "backup_url": ""
   },
   {
     "name": "82 Nitro TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3265a84f-1238-4439-bb40-cc0b716719f7/manifest.m3u8?ads.channel=6582&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557144~exp=1787578744~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3265a84f-1238-4439-bb40-cc0b716719f7/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_82_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_82_-1~hmac=68e5c12813e1fb43b8c67d9b45c6939595651d50471dc5e994862a3b6b313cf5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=NitroTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3265a84f-1238-4439-bb40-cc0b716719f7/manifest.m3u8?ads.channel=6582&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561653~exp=1787583253~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3265a84f-1238-4439-bb40-cc0b716719f7/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_82_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_82_-1~hmac=9ef069cf425b2699d894917628fc10100211d04ea50c2d47dcd42c17259673ce&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=NitroTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uohdua.png",
-    "stationuuid": "88f3affa-9b2d-3421-92ab-629f762d9f14",
-    "backup_url": ""
-  },
-  {
-    "name": "83 chola rv",
-    "stream_url": "https://stream.olidigital.in/cholatv/cholatv/index.m3u8",
-    "language": "Tamil",
-    "country": "India",
-    "tags": "Tamil Nadu Channels",
-    "favicon": "https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png",
-    "stationuuid": "010673b9-8f86-3f0b-bc8c-c15b5adb4a96",
+    "stationuuid": "92a10ecb-262e-3945-89cc-1f2a8ad9791d",
     "backup_url": ""
   },
   {
     "name": "83 Kiddo",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?ads.channel=6471&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557136~exp=1787578736~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_83_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_83_-1~hmac=65df3bf1e47de7ac714888bd7c5ef5b1e64867af2820285528855cf972d983b5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=Kiddo&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?ads.channel=6471&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561645~exp=1787583245~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_83_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_83_-1~hmac=12a43e595c7f53481e45f2b2ef3fb6df8ba664583e3f8f70e0099fdb710d5201&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=Kiddo&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png",
-    "stationuuid": "de8348c6-bc15-31ac-999e-9ebb83b1f52b",
+    "stationuuid": "6d84887d-7732-301e-a381-1508b210333b",
     "backup_url": ""
   },
   {
     "name": "85 Kung Fu",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8?ads.channel=6614&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557139~exp=1787578739~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_85_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_85_-1~hmac=53118fe8d355094ff8acd7feebdff36d22ff8769de02a126354a0614b305b3ff&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=KungFu&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8?ads.channel=6614&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561647~exp=1787583247~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_85_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_85_-1~hmac=49fac729e7e7045fae05902453ecdd3e81fef0276e8963714c30c50cb8faa54f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=KungFu&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png",
-    "stationuuid": "74ba32d6-62de-3623-9463-10f4af039b67",
+    "stationuuid": "48e517e2-f42a-347f-82a4-77f94a3d9d6f",
     "backup_url": "https://streams2.sofast.tv/ptnr-yupptv/title-KUNG-FU-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8"
   },
   {
@@ -901,7 +901,7 @@
   },
   {
     "name": "ABP Ananda",
-    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st=1787557184~exp=1787578784~acl=!*/vglive-sk-664562/ananda/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_226_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_226_-1~hmac=e352715655c2185da0cdaffa424c084dfdd02d19e3342d3c985e06cc661a5f26&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ABPAnanda&ads.language=BEN&ads.user=0",
+    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st=1787561690~exp=1787583290~acl=!*/vglive-sk-664562/ananda/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_226_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_226_-1~hmac=e91d8c8d9e06750c43f56348f9f2d5287b76485aa2a2c32a374d0335d090c3f8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ABPAnanda&ads.language=BEN&ads.user=0",
     "language": "Hindi",
     "country": "India",
     "tags": "Entertainment",
@@ -1370,6 +1370,16 @@
     "backup_url": ""
   },
   {
+    "name": "JKC",
+    "stream_url": "https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://amigofx.com/livetvlogo/jkc.png",
+    "stationuuid": "0906e9ca-b28f-353c-b262-7a9baacb4135",
+    "backup_url": ""
+  },
+  {
     "name": "Joshua Music TV",
     "stream_url": "https://joshuamusic-hls.tamilstream.in/joshuamusic/joshua/playlist.m3u8",
     "language": "",
@@ -1470,24 +1480,14 @@
     "backup_url": ""
   },
   {
-    "name": "LOVE JOY TV",
-    "stream_url": "https://ipcloud.live/novamani/lovejoytv/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "http://phoenixcreations.online/ott/joshuaott/uploads/1761144558_1000002302.png",
-    "stationuuid": "ab69c1f4-aeda-39de-a12f-e076d493c262",
-    "backup_url": ""
-  },
-  {
     "name": "Mahimai TV",
-    "stream_url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
+    "stream_url": "https://ktismaservers.in:3161/live/mahimaitvlive.m3u8",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "http://phoenixcreations.online/ott/joshuaott/uploads/1780564329_1758118153_images (8).jpeg",
     "stationuuid": "35cdbc43-d112-3184-9ebc-26651693d3f1",
-    "backup_url": "https://ktismaservers.in:3161/live/mahimaitvlive.m3u8"
+    "backup_url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8"
   },
   {
     "name": "Mangalam TV",
@@ -1505,8 +1505,18 @@
     "language": "",
     "country": "India",
     "tags": "Overseas",
-    "favicon": "https://tataprime.files.wordpress.com/2024/03/20240314_0401425841398939739572268.png",
+    "favicon": "",
     "stationuuid": "ced7c87e-3e83-3af7-abfa-094bc44b12fa",
+    "backup_url": ""
+  },
+  {
+    "name": "Mei Alai TV",
+    "stream_url": "https://thendralstream.in/Meialaitv/meihd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://www.meialai.in/logo.png",
+    "stationuuid": "89caa585-7f68-3ad8-a133-7ffddc194a61",
     "backup_url": ""
   },
   {
@@ -1540,6 +1550,16 @@
     "backup_url": "https://account19.livebox.co.in/mmtvhls/live.m3u8"
   },
   {
+    "name": "MN+ HD",
+    "stream_url": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
+    "language": "",
+    "country": "India",
+    "tags": "Movies",
+    "favicon": "https://tatalogo.pages.dev/210.png",
+    "stationuuid": "ab2bf499-adde-3139-bc67-d929576ab2f3",
+    "backup_url": ""
+  },
+  {
     "name": "MNTV",
     "stream_url": "https://mumbai-edge.smartplaytv.in/MNTV/index.m3u8",
     "language": "Telugu",
@@ -1570,6 +1590,26 @@
     "backup_url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
   },
   {
+    "name": "Mullai TV",
+    "stream_url": "https://ipcloud.live/mullaitv/mullaitv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "",
+    "stationuuid": "97dbd423-8f89-3158-bfed-7e754ada875d",
+    "backup_url": ""
+  },
+  {
+    "name": "N vision music",
+    "stream_url": "https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Music",
+    "favicon": "http://phoenixcreations.online/ott/jayamott/uploads/1781011714_WhatsApp Image 2026-06-09 at 10.18.18 AM.jpeg",
+    "stationuuid": "0bdfef2a-5b76-34f7-8156-3699210e8cbd",
+    "backup_url": ""
+  },
+  {
     "name": "Nat Geo Wild HD",
     "stream_url": "http://202.70.146.135:8000/play/a05j/index.m3u8",
     "language": "",
@@ -1587,7 +1627,7 @@
     "tags": "News",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png",
     "stationuuid": "42df24f3-0d3d-34f2-a453-800e1b3152f8",
-    "backup_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787547610~exp=1787569210~acl=/*~hmac=db2163f5ccb31d4f816a323ea653dcc58f611678ba8113f76bf76c3d105ed52d"
+    "backup_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787558403~exp=1787580003~acl=/*~hmac=72ec3e68632104fc04ef3944eb0cc9884ab36d9357b8f00287d509db6366bad0"
   },
   {
     "name": "News India 24x7",
@@ -1800,6 +1840,16 @@
     "backup_url": "http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega"
   },
   {
+    "name": "Sooriyan Cinema",
+    "stream_url": "https://live20.bozztv.com/giatv/giatv-Sooriyantv/Sooriyantv/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Movies",
+    "favicon": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+    "stationuuid": "7046a40b-b270-3376-b618-74ba21b81849",
+    "backup_url": ""
+  },
+  {
     "name": "SS TV",
     "stream_url": "http://mangalamtv.phoenixcreations.online/sstv/sstv/playlist.m3u8",
     "language": "",
@@ -1880,6 +1930,16 @@
     "backup_url": "https://mumt05.tangotv.in/TEHZEEBTV/index.m3u8"
   },
   {
+    "name": "Thulir TV",
+    "stream_url": "https://live.apcloud.in/thulirtv/thulirtv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://play-lh.googleusercontent.com/S6MD35-0HPGHtJhAPTP5sFJZcsgH_WvCxjq53OruWKcPpDqg9pqffK0BHzIdbf15ksSWucKQBlIFQ1nVgzwFDc4",
+    "stationuuid": "cce580bb-2164-3f5e-85ec-e24cfa6473e9",
+    "backup_url": ""
+  },
+  {
     "name": "Tirumala",
     "stream_url": "https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8",
     "language": "Telugu",
@@ -1897,16 +1957,6 @@
     "tags": "Music",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png",
     "stationuuid": "969b7139-b444-3d8e-b5fa-a18bfbab6517",
-    "backup_url": ""
-  },
-  {
-    "name": "Vani Visuals",
-    "stream_url": "https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://tataprime.files.wordpress.com/2024/04/20240403_0936351769201621059355755.png",
-    "stationuuid": "5719113d-fca5-3fad-86d2-2cd318300a74",
     "backup_url": ""
   },
   {
@@ -2061,12 +2111,12 @@
   },
   {
     "name": "106 Mahaa TV",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?ads.channel=194&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557187~exp=1787578787~acl=!*/181224/smil:mahatv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_106_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_106_-1~hmac=9dc079c6071a3ee3ddec770257c28337c7d840ea85621ac9a2125e3d78ba5db1&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=MahaaTV&ads.language=TEL&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?ads.channel=194&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561693~exp=1787583293~acl=!*/181224/smil:mahatv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_106_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_106_-1~hmac=05cf28bd3b2ceaafd903d0ce83b7e70a565450a5d117a0961603faa6e5ad7d67&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=MahaaTV&ads.language=TEL&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahaa-tv.png",
-    "stationuuid": "17713281-bbc6-3bb9-af33-a3fc7e51bcea",
+    "stationuuid": "6de79821-514b-337e-95f3-f5f1be4ff902",
     "backup_url": ""
   },
   {
@@ -2081,22 +2131,22 @@
   },
   {
     "name": "109 Protidin Time",
-    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8?ads.channel=6648&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557204~exp=1787578804~acl=!*/fta/protidintime/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_109_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_109_-1~hmac=7646515f340fb9cfb7cec8019512664e76afa0745a813ef8bb6e55d9907192be&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ProtidinTime&ads.language=ASS&ads.user=0",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8?ads.channel=6648&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561709~exp=1787583309~acl=!*/fta/protidintime/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_109_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_109_-1~hmac=5611c2c3c81ed4fb21ca7a6e540e8dba93cb57bfaa539476e518be4664a28f79&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ProtidinTime&ads.language=ASS&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/protidin-time.png",
-    "stationuuid": "481f6f40-d51e-37f9-84fc-2d687a2370fa",
+    "stationuuid": "c339d708-08cc-3fbb-9645-66d45d9e2517",
     "backup_url": ""
   },
   {
     "name": "110 Bhakti TV",
-    "stream_url": "https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?ads.channel=206&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557189~exp=1787578789~acl=!*/240122/bhakti/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_110_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_110_-1~hmac=ce5daf45069d808f040fbdd58eb3faec6857f3be84ee78cbd6046e061d466751&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=BhaktiTV&ads.language=TEL&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?ads.channel=206&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561695~exp=1787583295~acl=!*/240122/bhakti/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_110_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_110_-1~hmac=b8a40ba339b2cdacd07cf62d46d449f4f8d3d5a41654d8f4e878658ee6e79a34&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=BhaktiTV&ads.language=TEL&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Devotional",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bhakti-tv.png",
-    "stationuuid": "4165dede-185e-365e-b67d-8a7630405f5e",
+    "stationuuid": "fe9dd55c-38d5-38ea-aa2c-e4ea97b026c1",
     "backup_url": ""
   },
   {
@@ -2131,12 +2181,12 @@
   },
   {
     "name": "115 News Time",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?ads.channel=237&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557185~exp=1787578785~acl=!*/181224/smil:newstime.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_115_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_115_-1~hmac=d8108ea3b6446af8d8126c486cf91795e9e0b15e914917784dc606a53d08b575&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NewsTime&ads.language=BEN&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?ads.channel=237&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561691~exp=1787583291~acl=!*/181224/smil:newstime.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_115_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_115_-1~hmac=3ebfa12841bca7783e01cffb6dc103d4083aef334472e21f9ab6e5d11a55364f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NewsTime&ads.language=BEN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "News",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png",
-    "stationuuid": "863d2a91-cc43-3dd2-b08e-275e6252d121",
+    "stationuuid": "7b488f5d-2d94-38b1-8dc1-a8ed11daef64",
     "backup_url": ""
   },
   {
@@ -2181,12 +2231,12 @@
   },
   {
     "name": "119 Seithigal TV",
-    "stream_url": "https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557177~exp=1787578777~acl=!*/120723/smil:seithagal.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_119_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_119_-1~hmac=87e63507feafdab9d2bdb0311cede0d54671cca24a8c18e452bbc608da282d72&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SeithigalTV&ads.language=TAM&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561683~exp=1787583283~acl=!*/120723/smil:seithagal.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_119_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_119_-1~hmac=6f4cb9308dd5b2947a1c883982537ca83bbbdacff1bd984760f1c8e46d2b96a9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SeithigalTV&ads.language=TAM&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png",
-    "stationuuid": "00bf933e-be56-35e3-9bd8-61e9fcc03e9a",
+    "stationuuid": "eee5e815-f146-33a9-9f4f-083256b5a714",
     "backup_url": ""
   },
   {
@@ -2301,12 +2351,12 @@
   },
   {
     "name": "128 Total TV",
-    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8?ads.channel=6629&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557162~exp=1787578762~acl=!*/fta/totaltv/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_128_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_128_-1~hmac=ffd84d31be56977d43fbd6369c9f88e67f88670ce1cb3d02ec4e91f48d48896d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TotalTV&ads.language=HIN&ads.user=0",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8?ads.channel=6629&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561669~exp=1787583269~acl=!*/fta/totaltv/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_128_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_128_-1~hmac=ccb88a678775d7ff10c258eb93467911e7a42808e47e502c35547fdc083cb6e0&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TotalTV&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png",
-    "stationuuid": "93250ae2-8a4c-318d-9fe0-fd16998d2da7",
+    "stationuuid": "5715305c-1e36-34a3-82f4-a290359477f4",
     "backup_url": ""
   },
   {
@@ -2321,12 +2371,12 @@
   },
   {
     "name": "136 Santwani",
-    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8?ads.channel=6438&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557168~exp=1787578768~acl=!*/fta/santwani/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_136_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_136_-1~hmac=eb26cd2d6800556392ad6cbfcebced65da8235b0992d9092c8f99bb8f73cc5c5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=Santwani&ads.language=HIN&ads.user=0",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8?ads.channel=6438&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561675~exp=1787583275~acl=!*/fta/santwani/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_136_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_136_-1~hmac=a1fb48f4b08e3acfdac616348606735388e6cd719678404219c0d67bb392c93b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=Santwani&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipesag.png",
-    "stationuuid": "649f774a-f10a-3f81-88e1-2f674537f1b4",
+    "stationuuid": "07947ceb-1fd4-3cde-b2a0-feb070dd619c",
     "backup_url": ""
   },
   {
@@ -2361,12 +2411,12 @@
   },
   {
     "name": "145 Sri Sankara Kannada",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:srisankarakan.smil/playlist.m3u8?ads.channel=729&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557197~exp=1787578797~acl=!*/181224/smil:srisankarakan.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_145_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_145_-1~hmac=26b2e538590945d9ad872f9c49b79862cea0292f58780814e403f6bb5feae56b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SriSankaraKannada&ads.language=KAN&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:srisankarakan.smil/playlist.m3u8?ads.channel=729&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561703~exp=1787583303~acl=!*/181224/smil:srisankarakan.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_145_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_145_-1~hmac=b372f2b644d338de46c9cf621742669918694830fb6e41ec12a2d2990f80e2df&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SriSankaraKannada&ads.language=KAN&ads.user=0",
     "language": "Kannada",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-kannada.png",
-    "stationuuid": "9a44825c-9dd2-38ad-a14d-32f1c27ebf7f",
+    "stationuuid": "89569c2d-855e-39b1-ba44-8ffcb01579f7",
     "backup_url": ""
   },
   {
@@ -2451,12 +2501,12 @@
   },
   {
     "name": "176 God TV",
-    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8?ads.channel=2576&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557147~exp=1787578747~acl=!*/211125/godtv/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_176_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_176_-1~hmac=d69b8a4985bc88c864a5c791b8743e4a7044811c1f908cb8a2bcc87ef973d9db&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=GodTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8?ads.channel=2576&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561655~exp=1787583255~acl=!*/211125/godtv/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_176_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_176_-1~hmac=be520f207ef06370da2ea6bd1980ab305b235d32ce0a2bc034e1e0b600c506f0&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=GodTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jjhfoz.png",
-    "stationuuid": "9ef4477a-cd1e-379f-97d4-66968a04c91d",
+    "stationuuid": "1705ee76-d437-3f30-a786-c6084bd7f0cf",
     "backup_url": ""
   },
   {
@@ -2481,12 +2531,12 @@
   },
   {
     "name": "189 Brahma Kumaris",
-    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:bhramakumari.smil/playlist.m3u8?ads.channel=3524&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557168~exp=1787578768~acl=!*/28072023/smil:bhramakumari.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_189_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_189_-1~hmac=b9a167ec317eb322faace7f802dc1c60fe73cf1121adb409b665b433b8197279&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=BrahmaKumaris&ads.language=HIN&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:bhramakumari.smil/playlist.m3u8?ads.channel=3524&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561675~exp=1787583275~acl=!*/28072023/smil:bhramakumari.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_189_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_189_-1~hmac=81fb60436b1c95a17f595afc4deb414e34e6d62f9e03d549c05a3c0b2a3a1c28&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=BrahmaKumaris&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brahma-kumaris.png",
-    "stationuuid": "a812d126-2e3d-3e41-b9ac-b677934d5dd0",
+    "stationuuid": "8a45b608-6699-3a6e-8f55-d3df46896c65",
     "backup_url": ""
   },
   {
@@ -2511,12 +2561,12 @@
   },
   {
     "name": "197 Hare Krishna TV",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?ads.channel=3619&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557167~exp=1787578767~acl=!*/181224/smil:harekrishna.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_197_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_197_-1~hmac=4fdd83f7e094e435368ac31cfca8a235234a00472f254e976da369f642a2f42e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=HareKrishnaTV&ads.language=HIN&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?ads.channel=3619&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561674~exp=1787583274~acl=!*/181224/smil:harekrishna.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_197_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_197_-1~hmac=e3e02c462f5dedecfcd340177f81a9958432ed5dbada12f3a8a546e2abc7fee0&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=HareKrishnaTV&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Devotional",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png",
-    "stationuuid": "562a7f37-7591-3f84-9094-314e302b8ceb",
+    "stationuuid": "7785a1ad-a687-35cf-abad-f9457012c2fb",
     "backup_url": ""
   },
   {
@@ -2531,22 +2581,22 @@
   },
   {
     "name": "200 Parvasi TV HD",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?ads.channel=4908&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557203~exp=1787578803~acl=!*/181224/smil:pravasi.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_200_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_200_-1~hmac=34da4f1f2a5aca989955659849f733b9f79bdf04be19e669ca3f3aa7fbdb1f36&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=ParvasiTVHD&ads.language=PUN&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?ads.channel=4908&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561708~exp=1787583308~acl=!*/181224/smil:pravasi.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_200_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_200_-1~hmac=578bb2b8d9b01f451bf2d61c4026c586b87b7e02a4c6938fc7773c0bee4e6233&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=ParvasiTVHD&ads.language=PUN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/parvasi-tv-hd.png",
-    "stationuuid": "aa4dc654-e51a-38d9-bba4-f962bccb109a",
+    "stationuuid": "bb7be431-814d-32d0-a491-bb05973af427",
     "backup_url": ""
   },
   {
     "name": "201 PMC",
-    "stream_url": "https://yuppnimresmum.akamaized.net/120723/smil:studiooneplus.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557191~exp=1787578791~acl=!*/120723/smil:studiooneplus.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_201_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_201_-1~hmac=e744dbf10616065b50e86f0e60474d01d4709c4c21a1936be66e505425d15147&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=PMC&ads.language=TEL&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/120723/smil:studiooneplus.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561697~exp=1787583297~acl=!*/120723/smil:studiooneplus.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_201_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_201_-1~hmac=3fe8797da2c8a9ad860a5e3366813057626b00b2500885a653cc647471332f25&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=PMC&ads.language=TEL&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pmc.png",
-    "stationuuid": "01f5b1b5-99d5-361e-b5eb-c735f69e0c1d",
+    "stationuuid": "d69e473c-496e-360e-a86e-0ccf8ccd8d7b",
     "backup_url": ""
   },
   {
@@ -2561,12 +2611,12 @@
   },
   {
     "name": "203 Astroscience",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?ads.channel=4829&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557169~exp=1787578769~acl=!*/181224/smil:astrotech.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_203_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_203_-1~hmac=8eab54d8e1e0898844a3410f9d6a5ee7d0938873e99364ad3bf25d392bb2f6a4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=Astroscience&ads.language=HIN&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?ads.channel=4829&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561676~exp=1787583276~acl=!*/181224/smil:astrotech.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_203_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_203_-1~hmac=30cff6030ce2fa06605ddb5ac8d5ddcb33647cc624fddc01307f2a829111113c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=Astroscience&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png",
-    "stationuuid": "9c4d1f5e-a9e5-3629-ae40-d87c48335bde",
+    "stationuuid": "d13e376c-e106-3e10-980d-71115c0d10d7",
     "backup_url": ""
   },
   {
@@ -2591,32 +2641,32 @@
   },
   {
     "name": "205 Athavan TV HD",
-    "stream_url": "https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?ads.channel=4671&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557180~exp=1787578780~acl=!*/120723/smil:athavantv1.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_205_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_205_-1~hmac=e178161a78bbe28edfb3ea6fcb4cc7f9f016d657716cd0e8cf0e7a8498c717d2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=AthavanTVHD&ads.language=TAM&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?ads.channel=4671&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561686~exp=1787583286~acl=!*/120723/smil:athavantv1.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_205_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_205_-1~hmac=4c0d60ec328cde91cd7f6c0b7affbe40feba3d1ee203a46af9cb9741a9b0b7f8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=AthavanTVHD&ads.language=TAM&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png",
-    "stationuuid": "8474a650-dc6b-3052-a31e-51ec779f4f70",
+    "stationuuid": "22c6876a-7106-39e1-8583-311c9abbc6bf",
     "backup_url": ""
   },
   {
     "name": "207 YUPPTV VEDA",
-    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557190~exp=1787578790~acl=!*/28072023/smil:yupptvveda1.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_207_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_207_-1~hmac=ed885f1f1d8f7ad31024d6ba442db77f913a7c46e66d5f20d3691d9eebdb6263&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=YUPPTVVEDA&ads.language=TEL&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561696~exp=1787583296~acl=!*/28072023/smil:yupptvveda1.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_207_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_207_-1~hmac=78bafd012b084c47a39f09ee70477e553a602c90a5641999b5e67bb07749e42f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=YUPPTVVEDA&ads.language=TEL&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yupptv-veda.png",
-    "stationuuid": "822b2f7b-845c-3f03-a6a6-2f75df227904",
+    "stationuuid": "142649b1-a241-307c-b558-2aec84b764d5",
     "backup_url": ""
   },
   {
     "name": "208 Sivan Temple TV",
-    "stream_url": "https://yuppnimresmum.akamaized.net/120723/smil:sivantempletv.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557178~exp=1787578778~acl=!*/120723/smil:sivantempletv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_208_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_208_-1~hmac=01b042b59f9ed16f6ac797ec41c23bf1e421d22bf9524be0e071a8d277f7379d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SivanTempleTV&ads.language=TAM&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/120723/smil:sivantempletv.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561685~exp=1787583285~acl=!*/120723/smil:sivantempletv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_208_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_208_-1~hmac=b984ce1f7bc9e4df20485d58434ebb63b2f48ad24b5567dd07b233472d6dcaa3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SivanTempleTV&ads.language=TAM&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Devotional",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sivan-temple-tv.png",
-    "stationuuid": "3379b5d2-a8dc-3430-b038-fccde4049998",
+    "stationuuid": "5c0118e3-70d6-397d-a5f4-91d68a0f04dd",
     "backup_url": ""
   },
   {
@@ -2641,22 +2691,22 @@
   },
   {
     "name": "212 Hosanna",
-    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557179~exp=1787578779~acl=!*/28072023/smil:hosanna.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_212_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_212_-1~hmac=99ded279b9ed25e0a74078ed01aed2d9950bd122fe28518f163b54e29d6674dc&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=Hosanna&ads.language=TAM&ads.user=0",
+    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561686~exp=1787583286~acl=!*/28072023/smil:hosanna.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_212_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_212_-1~hmac=82ae493338ea3a7ca2d8083881df5a80bbdd77ccfdee5fcc92a6706f53c91ba0&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=Hosanna&ads.language=TAM&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna.png",
-    "stationuuid": "d737757b-d2fb-39d1-96dc-eac41a5b09bc",
+    "stationuuid": "1bb05b28-5164-3545-bc26-33df63f01289",
     "backup_url": ""
   },
   {
     "name": "214 Songdew",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?ads.channel=598&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557166~exp=1787578766~acl=!*/181224/smil:songdewtv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_214_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_214_-1~hmac=d51f95fb2470a4973186d02b6ba35b869ddfe447b70111bd60179a3a06ed1e40&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=Songdew&ads.language=HIN&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?ads.channel=598&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561673~exp=1787583273~acl=!*/181224/smil:songdewtv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_214_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_214_-1~hmac=fabf64e2f11d4675b77ffec715f83b21fbd12169fcc09e01c1abca78b514de2c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=Songdew&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png",
-    "stationuuid": "a8d2f24a-eb35-3698-839b-682f6307d2b5",
+    "stationuuid": "175a6d51-fff7-3349-afb4-1d7007b5f780",
     "backup_url": ""
   },
   {
@@ -2671,12 +2721,12 @@
   },
   {
     "name": "216 Mana TV International",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/090823/smil:manatvint.smil/playlist.m3u8?ads.channel=4057&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557192~exp=1787578792~acl=!*/090823/smil:manatvint.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_216_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_216_-1~hmac=38fb8980b1a9c0d92ff727005e1360b0f224ec54af49a154ba285bfa29d3dc43&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=ManaTVInternational&ads.language=TEL&ads.user=0",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/090823/smil:manatvint.smil/playlist.m3u8?ads.channel=4057&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561698~exp=1787583298~acl=!*/090823/smil:manatvint.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_216_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_216_-1~hmac=678f22d5a484648a57b2eb712edffede360dbc82ab1ae3ed1556d29132c62bc3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=ManaTVInternational&ads.language=TEL&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mana-tv-international.png",
-    "stationuuid": "a24bc40d-18c2-3431-9c97-fe04de8a19d5",
+    "stationuuid": "ccff0574-c8b9-372f-a500-62b4514dd961",
     "backup_url": ""
   },
   {
@@ -2811,22 +2861,22 @@
   },
   {
     "name": "257   BEST DRAMA TV",
-    "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8?ads.channel=6461&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557148~exp=1787578748~acl=!*/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_257_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_257_-1~hmac=ebad58c1ca123c2910386ed638e630a8e782278ae89be87386114ab9db1b3242&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=BESTDRAMATV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8?ads.channel=6461&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561656~exp=1787583256~acl=!*/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_257_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_257_-1~hmac=128a78f800faae658139262bc5407582864dc69a590c4931f00372aabe47d03c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=BESTDRAMATV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png",
-    "stationuuid": "6ffb272e-b32b-3763-917a-d59bcec50695",
+    "stationuuid": "4643c790-548e-3103-a689-392bc2566243",
     "backup_url": ""
   },
   {
     "name": "258 BEST THRILLER TV",
-    "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8?ads.channel=6462&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557149~exp=1787578749~acl=!*/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_258_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_258_-1~hmac=afc1562482d7aac4676faaf07896c804f293288ebee6cf45967b7d653de15f41&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=BESTTHRILLERTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8?ads.channel=6462&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561657~exp=1787583257~acl=!*/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_258_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_258_-1~hmac=ad0b457a3e4778a52287e30cb07488b54a221005af480176efee634119f6f490&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=BESTTHRILLERTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png",
-    "stationuuid": "5744b9fe-9e58-3b6e-b27c-8d1f842d5f59",
+    "stationuuid": "82a4c628-c0d6-33af-9c28-9227553dcb7a",
     "backup_url": ""
   },
   {
@@ -2841,32 +2891,32 @@
   },
   {
     "name": "271 LUXURY DREAMS TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8?ads.channel=6948&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557150~exp=1787578750~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_271_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_271_-1~hmac=6d6e677d9d563d51a4493cec9b3cffe31084d5e826825a7d016f3f9e7559a7a0&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=LIFESTYLE&ads.channel_name=LUXURYDREAMSTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8?ads.channel=6948&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561658~exp=1787583258~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_271_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_271_-1~hmac=a0c717e1ace70d750ed7f52e686a60cc2b56ce1b3df240aa6faa6aca45b9e513&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=LIFESTYLE&ads.channel_name=LUXURYDREAMSTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kuygkv.png",
-    "stationuuid": "647c1b91-ef34-3fa9-b968-750998e94f01",
+    "stationuuid": "ca885ad1-d126-3e8d-8666-46d7a199fcf0",
     "backup_url": ""
   },
   {
     "name": "272 MMA TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?ads.channel=6949&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557151~exp=1787578751~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_272_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_272_-1~hmac=b79514659605dd140f87180a32242f05bef304bb393b89141a27c1f4cb47adb8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=MMATV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?ads.channel=6949&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561659~exp=1787583259~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_272_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_272_-1~hmac=c948dc208a8ae7ff6f8a52d4c74183498ef645ce9549dcce496b3627572337ed&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=MMATV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png",
-    "stationuuid": "14e11cea-ea89-3ffd-a312-9df7bc6a4a7b",
+    "stationuuid": "4dd62c9d-61b8-3a03-b7f7-2fb9d9b81d28",
     "backup_url": ""
   },
   {
     "name": "275 OAN PLUS",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/788b88ab-2266-4d4f-b43f-061bc7976f4a/playlist.m3u8?ads.channel=6952&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557151~exp=1787578751~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/788b88ab-2266-4d4f-b43f-061bc7976f4a/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_275_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_275_-1~hmac=6bed436888c758ad59ddf943c3a1f6ba4c3660261370d7ab5f137926f3e3ed7e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=OANPLUS&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/788b88ab-2266-4d4f-b43f-061bc7976f4a/playlist.m3u8?ads.channel=6952&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561659~exp=1787583259~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/788b88ab-2266-4d4f-b43f-061bc7976f4a/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_275_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_275_-1~hmac=ae5defcfb698ec12a68a16f228253501e7db4f8b576d78135cb33e79140b0e9f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=OANPLUS&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rohnbg.png",
-    "stationuuid": "ee029dc0-5229-3a42-9db6-1b81fff76ebd",
+    "stationuuid": "16e187af-f082-30d7-8b69-e9a9e3526e5b",
     "backup_url": ""
   },
   {
@@ -2881,12 +2931,12 @@
   },
   {
     "name": "280 Hosanna TV Hindi",
-    "stream_url": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8?ads.channel=6957&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557172~exp=1787578772~acl=!*/live/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_280_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_280_-1~hmac=231d91d70df80dd48f0ba1c20200f4e20b15080207633904a2887d52379875cb&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=HosannaTV Hindi&ads.language=HIN&ads.user=0",
+    "stream_url": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8?ads.channel=6957&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561679~exp=1787583279~acl=!*/live/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_280_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_280_-1~hmac=6dd1d1b00182cff5c0b6c8d852c0cd80e3266fe7a073872c9ce1a9e2e4e102d4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=HosannaTV Hindi&ads.language=HIN&ads.user=0",
     "language": "Hindi",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna-tv-hindi.png",
-    "stationuuid": "d9dbe66f-8a23-3f1c-b3ce-5620527125fc",
+    "stationuuid": "24c2271a-331f-3b42-af49-70c37be81d71",
     "backup_url": ""
   },
   {
@@ -2921,42 +2971,42 @@
   },
   {
     "name": "293 Drive+ Speed",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/manifest.m3u8?ads.channel=6998&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557153~exp=1787578753~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_293_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_293_-1~hmac=c07497fc53f5f0d60019ae333578807963a29a67e3e351a456f6f11752a5817c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=Drive+Speed&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/manifest.m3u8?ads.channel=6998&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561661~exp=1787583261~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_293_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_293_-1~hmac=53ee32a6ab4af88d5f93fcee37426aa4f2fc7f20e195809648380fc039b3f05d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=Drive+Speed&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.png",
-    "stationuuid": "73004f90-fd57-3142-89a1-e19cbba61bfe",
+    "stationuuid": "a13d637c-d237-3444-be87-2c9b5747c94e",
     "backup_url": ""
   },
   {
     "name": "294 Hunt Fish TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7545a786-3458-4aaf-ad71-db896a1c4b83/master.m3u8?ads.channel=6999&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557153~exp=1787578753~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7545a786-3458-4aaf-ad71-db896a1c4b83/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_294_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_294_-1~hmac=643cb7a6ad9be75c3eb24db7302f54a1035b470b7495faae75b0476154164466&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=HuntFishTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7545a786-3458-4aaf-ad71-db896a1c4b83/master.m3u8?ads.channel=6999&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561661~exp=1787583261~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7545a786-3458-4aaf-ad71-db896a1c4b83/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_294_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_294_-1~hmac=7b112dfdd96d9363ed63fbbec43cef21b824154b9fec2e98e00110405703be36&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=HuntFishTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.png",
-    "stationuuid": "d45a4617-7d66-3845-b1c5-ce12ae6c21c9",
+    "stationuuid": "6242d5e1-a0d8-39cd-8fc3-fdf5a5d8453c",
     "backup_url": ""
   },
   {
     "name": "295 Nautical Channel",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/index.m3u8?ads.channel=7000&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557154~exp=1787578754~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_295_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_295_-1~hmac=784fcd125752a473b66176605fa01d638724d5d7b47007ef1e139611ea799b4f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=NauticalChannel&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/index.m3u8?ads.channel=7000&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561662~exp=1787583262~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_295_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_295_-1~hmac=d58ececc3476e94c6d2b0210bb21f9506452536f6627bdc2259bc0d43fd349d2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=NauticalChannel&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png",
-    "stationuuid": "ada129da-a1a6-3315-9f7f-27480307d908",
+    "stationuuid": "92544c27-5563-338f-b4db-ebe38537aec0",
     "backup_url": ""
   },
   {
     "name": "299 Sri Naga Sai Mandir",
-    "stream_url": "https://msleurope9.akamaized.net/saibaba/livekovai/index.m3u8?ads.channel=729&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557177~exp=1787578777~acl=!*/saibaba/livekovai/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_299_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_299_-1~hmac=1f932d9e93909fcf124b5217dd56b674a426fa18230925558cd3491a6150ae98&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SriNagaSaiMandir&ads.language=TAM&ads.user=0",
+    "stream_url": "https://msleurope9.akamaized.net/saibaba/livekovai/index.m3u8?ads.channel=729&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561684~exp=1787583284~acl=!*/saibaba/livekovai/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_299_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_299_-1~hmac=f240eae96c066b9fd06a1455b5109a26d9d0cb2b33753ed0c7a495936ada3b78&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SriNagaSaiMandir&ads.language=TAM&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Devotional",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-naga-sai-mandir.png",
-    "stationuuid": "68eca2dd-7ed9-3769-b10e-575382143958",
+    "stationuuid": "ddff2285-c221-33a4-9d39-e1dbb6176b81",
     "backup_url": ""
   },
   {
@@ -3001,22 +3051,22 @@
   },
   {
     "name": "317 News Tamil",
-    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8?ads.channel=7096&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557176~exp=1787578776~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_317_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_317_-1~hmac=96f8bff5de6893f4fbffc60faca7fc7232f5300c2a3e378b6d5dff4040cfc5e6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NewsTamil&ads.language=TAM&ads.user=0",
+    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8?ads.channel=7096&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561683~exp=1787583283~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_317_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_317_-1~hmac=e44f9e4ba1bdd5c096afa01dc12b7f40402d3e1e5b90be04b38105b36f86450c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NewsTamil&ads.language=TAM&ads.user=0",
     "language": "Tamil",
     "country": "India",
     "tags": "News",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-tamil.jpeg",
-    "stationuuid": "4d724bc9-62ab-3bc4-ba3c-7339c7d855b9",
+    "stationuuid": "d88e4fb4-c715-34d8-ae69-0d97578bff0e",
     "backup_url": ""
   },
   {
     "name": "321 Studio One Plus",
-    "stream_url": "https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?ads.channel=7095&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557194~exp=1787578794~acl=!*/230226/studiooneplus/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_321_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_321_-1~hmac=2d180e3382e0db658b93e8eb95a01300591366a8b0de4d86a96390e05fa70c0d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=StudioOnePlus&ads.language=TEL&ads.user=0",
+    "stream_url": "https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?ads.channel=7095&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561700~exp=1787583300~acl=!*/230226/studiooneplus/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_321_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_321_-1~hmac=925a5e4b807c864d4ebd97a32fb7d5bcc1e1e162f400326d813de24dedc11a46&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=StudioOnePlus&ads.language=TEL&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/studio-one-plus.png",
-    "stationuuid": "e54481fc-e06f-3cff-b806-3c3815ced3ad",
+    "stationuuid": "26113bcf-e28d-3355-86cc-3a9bc01c1bbf",
     "backup_url": ""
   },
   {
@@ -3031,12 +3081,12 @@
   },
   {
     "name": "326 Green Gold TV India",
-    "stream_url": "https://vglivessai.akamaized.net/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8?ads.channel=7120&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557158~exp=1787578758~acl=!*/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_326_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_326_-1~hmac=a2bca39be6991652a47b6dcba1e3cd6fba184aea950a1192a602485e29b56dcd&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=GreenGoldTVIndia&ads.language=HIN&ads.user=0",
+    "stream_url": "https://vglivessai.akamaized.net/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8?ads.channel=7120&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561665~exp=1787583265~acl=!*/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_326_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_326_-1~hmac=3c88ebeef7815efc624b14d5b427ef0c4b7efafad7dd76b84ad29829449a7758&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=GreenGoldTVIndia&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv-india.png",
-    "stationuuid": "ef8ac9d2-8633-37ec-8814-024ac1711f92",
+    "stationuuid": "f416327b-f2bd-3565-b600-26a444d34885",
     "backup_url": ""
   },
   {
@@ -3101,12 +3151,12 @@
   },
   {
     "name": "342 Rplus News",
-    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8?ads.channel=7173&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557183~exp=1787578783~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_342_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_342_-1~hmac=2435fd05ce1229d506e7fe8dd4678bafba377a77645e8b2b2f58b7785017e6ba&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=RplusNews&ads.language=BEN&ads.user=0",
+    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8?ads.channel=7173&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561690~exp=1787583290~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_342_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_342_-1~hmac=f966207e8001b876a7b77e7a7cfd5d35b93067f7e77ce104eb6f40000793a2ec&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=RplusNews&ads.language=BEN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "News",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rplus-news.png",
-    "stationuuid": "131c30c4-6034-361c-9199-d4b76c1560e2",
+    "stationuuid": "f094fefe-6c21-3b2c-a3ae-6c2d7115b645",
     "backup_url": ""
   },
   {
@@ -3131,12 +3181,12 @@
   },
   {
     "name": "348 NKR TV",
-    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bd25b31b-5ce2-453d-a544-d073555d85f3/index.m3u8?ads.channel=7177&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557195~exp=1787578795~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bd25b31b-5ce2-453d-a544-d073555d85f3/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_348_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_348_-1~hmac=e1906e61e1c4fa33dabfb6e5c900a0c7a1d93635650b85255baafcf2cd0350b4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=NKRTV&ads.language=KAN&ads.user=0",
+    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bd25b31b-5ce2-453d-a544-d073555d85f3/index.m3u8?ads.channel=7177&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561701~exp=1787583301~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bd25b31b-5ce2-453d-a544-d073555d85f3/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_348_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_348_-1~hmac=2331529714f9a590c0f4546f1352fc5754d943b5107f061b0d1ab885c583e936&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=NKRTV&ads.language=KAN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nkr-tv.png",
-    "stationuuid": "e95c7cc4-69ac-3b4b-93bc-a9038dc35015",
+    "stationuuid": "51bc28d7-6dfe-3f74-9517-6e852665d8d2",
     "backup_url": ""
   },
   {
@@ -3161,12 +3211,12 @@
   },
   {
     "name": "354 Kutingg",
-    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af582535-607f-44eb-9e58-9c3894c547ab/playlist.m3u8?ads.channel=6592&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787557173~exp=1787578773~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af582535-607f-44eb-9e58-9c3894c547ab/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_354_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_354_-1~hmac=476aa640527dcbe854bac593009b360fcb2639074b825658545fce1367d50e63&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Kutingg&ads.language=HIN&ads.user=0",
+    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af582535-607f-44eb-9e58-9c3894c547ab/playlist.m3u8?ads.channel=6592&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1787561679~exp=1787583279~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af582535-607f-44eb-9e58-9c3894c547ab/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_354_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_354_-1~hmac=a6e0e507371ea289950442ac0d290658055c56368907e8a1142283a41cb2f6f9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Kutingg&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mtgnqu.png",
-    "stationuuid": "1040838c-4d1a-310f-a68e-ed0b42e054a1",
+    "stationuuid": "f9544bb7-d73d-317d-b273-fe14291e88be",
     "backup_url": ""
   },
   {
@@ -3361,12 +3411,12 @@
   },
   {
     "name": "42 America Boating Channel",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8?ads.channel=6585&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557145~exp=1787578745~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_42_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_42_-1~hmac=c460febaaeccf1d2e970a96b27eaa2c39ac35ab33a54a4ada07575992e721294&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=AmericaBoatingChannel&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8?ads.channel=6585&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561653~exp=1787583253~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_42_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_42_-1~hmac=808fa5d1241ab5a7169996721eef7ed7c2cbebc32ce5173ce97421bff1a28f31&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=AmericaBoatingChannel&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwfaja.png",
-    "stationuuid": "42b35d43-a2a6-38e7-b4ba-0951e6fb8db8",
+    "stationuuid": "e10e88ec-ad34-3b97-bed1-5172ba931541",
     "backup_url": ""
   },
   {
@@ -3511,12 +3561,12 @@
   },
   {
     "name": "53 Danger Vision TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/master.m3u8?ads.channel=6589&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557140~exp=1787578740~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_53_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_53_-1~hmac=b2e9dc76595326837a59a61d07dfb96a19bb8e6a4d4258d89cafd9bd51b09ccc&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=DangerVisionTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/master.m3u8?ads.channel=6589&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561649~exp=1787583249~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_53_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_53_-1~hmac=99b0deab2da122db3c5264359244f460d0fe9e6042f48f299bce4f8d63128299&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=DangerVisionTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/iktjkc.png",
-    "stationuuid": "78cecfa7-ab65-3d66-8fc5-df8ca340b5d3",
+    "stationuuid": "07524fb6-6ec4-3807-b7f9-44acd94fd659",
     "backup_url": ""
   },
   {
@@ -3551,12 +3601,12 @@
   },
   {
     "name": "57 Weshort",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8?ads.channel=6475&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557138~exp=1787578738~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_57_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_57_-1~hmac=9ef131bf81a90c83875801ad40390af236f197f6ab87727b2d6cadd98289c197&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=Weshort&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8?ads.channel=6475&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561647~exp=1787583247~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_57_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_57_-1~hmac=bbab4e4c5718babae2b6ca5725e05011ff889fffbea2fc518d2205b1da267f56&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=Weshort&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/weshort.png",
-    "stationuuid": "cafcd929-6271-3d60-a811-04323a0f2a68",
+    "stationuuid": "61348430-11e6-3b49-b455-1db52788c7cc",
     "backup_url": ""
   },
   {
@@ -3581,12 +3631,12 @@
   },
   {
     "name": "58 Edgy Urban",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8?ads.channel=6466&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557142~exp=1787578742~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_58_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_58_-1~hmac=599ee874032d2bf1cd4fc9c52f22848cc53077200b9cfc6cabe4aa4484e661f6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=EdgyUrban&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8?ads.channel=6466&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561651~exp=1787583251~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_58_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_58_-1~hmac=755771587b85ed4f70780bbb5f65c7a258beeaa0360d96c61965856f48b52289&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=EdgyUrban&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athpnb.png",
-    "stationuuid": "94076bc2-31aa-3c4a-a4e5-7dfad4bcbba9",
+    "stationuuid": "3c871408-3b2b-3e7e-acfe-db0d70708bfe",
     "backup_url": ""
   },
   {
@@ -3611,12 +3661,12 @@
   },
   {
     "name": "59 Voyages",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557142~exp=1787578742~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_59_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_59_-1~hmac=bd2463651c7fdc554e85156032326a125f7dd604342c88322f0785f89d661ee6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Voyages&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561651~exp=1787583251~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_59_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_59_-1~hmac=1e341352f858bdfa2d96566e3d8ba4517b37770aff8078d3334feb6307b366b2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Voyages&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yfbcof.png",
-    "stationuuid": "bed58f84-6c6d-3ec9-81b0-452754c2e31c",
+    "stationuuid": "6b61fdb8-4e5e-308c-91c5-c23db0225dad",
     "backup_url": ""
   },
   {
@@ -3671,12 +3721,12 @@
   },
   {
     "name": "60 Urban Action",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557141~exp=1787578741~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_60_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_60_-1~hmac=674f95ed4cf64dddb3879b85c53d45d4769d1c6beb571ff8bdbc11673a42ed49&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=UrbanAction&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561649~exp=1787583249~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_60_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_60_-1~hmac=eb5d9f378611f243e590d03208e157eb21b5533bce6d2f064fa062d38402a3d8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=UrbanAction&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/urban-action.png",
-    "stationuuid": "42161563-ddc1-3772-b6ba-dddc3eba82c5",
+    "stationuuid": "9e06137b-6dae-342e-9028-f170d823d888",
     "backup_url": ""
   },
   {
@@ -3911,12 +3961,12 @@
   },
   {
     "name": "66 English TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8?ads.channel=6616&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557137~exp=1787578737~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_66_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_66_-1~hmac=06ca8b8a9b4ff39624b022a90cd5312fc530051aef0358c521998287e819856c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=EDUCATION&ads.channel_name=EnglishTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8?ads.channel=6616&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561645~exp=1787583245~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_66_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_66_-1~hmac=00c68bb65127ff750cc400bf630244066a4a9ade237942dae1212bdabd591029&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=EDUCATION&ads.channel_name=EnglishTV&ads.language=ENG&ads.user=0",
     "language": "English",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/english-tv.png",
-    "stationuuid": "15ba1a0a-2ed4-359a-9b8f-7ecc83cf4e72",
+    "stationuuid": "d0fb21bc-dbe1-325f-b304-4dd2c6f50965",
     "backup_url": ""
   },
   {
@@ -3941,12 +3991,12 @@
   },
   {
     "name": "67 The Chukker Channel",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/master.m3u8?ads.channel=6605&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557146~exp=1787578746~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_67_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_67_-1~hmac=a091e263d5b57563df8be65e27e7518ac50e256f2b35e54a4fea4c9f699ccb4c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=TheChukkerChannel&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/master.m3u8?ads.channel=6605&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561654~exp=1787583254~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_67_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_67_-1~hmac=557a405216940419eca64628e4c38dd603d121cc81e35c74e19cba3640053ba6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=TheChukkerChannel&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png",
-    "stationuuid": "c97ebab2-a5f1-301c-a886-102afe0639eb",
+    "stationuuid": "574801fa-974c-3a68-bffb-51f52f207166",
     "backup_url": ""
   },
   {
@@ -3991,22 +4041,22 @@
   },
   {
     "name": "71 Heartfelt TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8?ads.channel=6606&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557143~exp=1787578743~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_71_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_71_-1~hmac=897d423795c7101f2210305329a078d2027220cfe6bab9582d38db2e3956616f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=HeartfeltTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8?ads.channel=6606&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561652~exp=1787583252~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_71_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_71_-1~hmac=b37888af5dfa99d653ff0695e4b4183f237782e2cf6af4430155b118ba6faa60&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=HeartfeltTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/heartfelt-tv.png",
-    "stationuuid": "2e09564c-5a90-3510-8f98-a1f2733d8142",
+    "stationuuid": "5ece185c-9ba7-3f93-995d-4b3c3efe116b",
     "backup_url": ""
   },
   {
     "name": "79 ITSF",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8?ads.channel=6584&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557146~exp=1787578746~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_79_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_79_-1~hmac=b6903b41ffc802e9c647f818d1efcf05a337c4c8e30eb00077c389d249dc7036&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=ITSF&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8?ads.channel=6584&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561655~exp=1787583255~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_79_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_79_-1~hmac=c007d6897c246ef741390aa3524991338b1544b418c05cd7548f7040674be7c1&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=ITSF&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/itsf.png",
-    "stationuuid": "1b73b57b-1268-3f5f-8c71-8c4998b442af",
+    "stationuuid": "c63bcb2d-ab0d-31a3-a000-472baceb3fd1",
     "backup_url": ""
   },
   {
@@ -4031,12 +4081,12 @@
   },
   {
     "name": "8 Divya TV",
-    "stream_url": "https://vg-pitaaratvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-734074/playlist.m3u8?ads.channel=778&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557167~exp=1787578767~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-734074/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_8_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_8_-1~hmac=05e143d9319eda07462abfd8947dc34d39ef6a13a5f6ffc0a79e24a33325aa87&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=DivyaTV&ads.language=HIN&ads.user=0",
+    "stream_url": "https://vg-pitaaratvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-734074/playlist.m3u8?ads.channel=778&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561674~exp=1787583274~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-734074/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_8_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_8_-1~hmac=2a2c0d61a1e8b3131ae94ffe71098963ff52dafd8c1f55e13070e207bb4754fe&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=DivyaTV&ads.language=HIN&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png",
-    "stationuuid": "c5d4a2ec-11ce-39f0-831b-07b401d9250f",
+    "stationuuid": "b9955a8a-5bac-3ee3-af51-0076617c3ae4",
     "backup_url": ""
   },
   {
@@ -4051,12 +4101,12 @@
   },
   {
     "name": "81 Outer Vision TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/master.m3u8?ads.channel=6622&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557147~exp=1787578747~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_81_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_81_-1~hmac=fd94c0eaa369f804de5adf6b7c161f2ffbf54ec22e96ceb3466bf74f7182360a&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=OuterVisionTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/master.m3u8?ads.channel=6622&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561655~exp=1787583255~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_81_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_81_-1~hmac=d2e2526f3ce6652d7da36046ae766ab7b0f7092afdebb067b0af9c1f26a15c58&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=OuterVisionTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewwdxf.png",
-    "stationuuid": "d2685431-05e7-3589-917f-731adb86fae3",
+    "stationuuid": "a684d79b-3903-37b8-889e-e56f881f0c77",
     "backup_url": ""
   },
   {
@@ -4071,12 +4121,12 @@
   },
   {
     "name": "84 Kozoom",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?ads.channel=6608&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557139~exp=1787578739~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_84_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_84_-1~hmac=0484fb8b7b64a3b8960914c4c8ba39b17e16a5db5bfacd77429a7fe1350936fa&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=Kozoom&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8?ads.channel=6608&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561648~exp=1787583248~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_84_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_84_-1~hmac=ea89de6e811cdf699515b6d90e7d3bfe4e1d21d912c7c08594557879592bbb51&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=Kozoom&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png",
-    "stationuuid": "5eab4d08-54cc-3ab9-8891-83d56e8a20df",
+    "stationuuid": "c31d0036-6eeb-3a8a-b5b8-383e405e3b2b",
     "backup_url": ""
   },
   {
@@ -4101,22 +4151,22 @@
   },
   {
     "name": "88 The Explorers",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8?ads.channel=6473&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557141~exp=1787578741~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_88_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_88_-1~hmac=d86e3fa86ee468ea62450df8647a00fb1cbeb33b57d41b41968950ecff3cab4b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=TheExplorers&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8?ads.channel=6473&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561650~exp=1787583250~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_88_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_88_-1~hmac=047b4e2d5e94249f4cc25e406cab9fa8a34739f6c24ab430832975bc506374c3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=TheExplorers&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ggdzvt.png",
-    "stationuuid": "eb3cee84-b3b0-34eb-876e-b908598d6028",
+    "stationuuid": "8566c0a5-64df-386e-850d-6570e179eec3",
     "backup_url": ""
   },
   {
     "name": "89 Latino Classic Channel",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8?ads.channel=6615&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557145~exp=1787578745~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_89_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_89_-1~hmac=3cfef548a973686417bf99cf3f320b64bbeee559478781330753e5973a2dfffc&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=LatinoClassicChannel&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8?ads.channel=6615&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561653~exp=1787583253~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_89_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_89_-1~hmac=b3b804b9d3984d5abce0123849b1228c1fb1d277726c5d1c66b3b7146750a788&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=LatinoClassicChannel&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/latino-classic-channel.png",
-    "stationuuid": "479feb2c-e4bd-3b7f-877f-6627a88ff391",
+    "stationuuid": "07881171-a186-3029-8267-5464026cfb66",
     "backup_url": ""
   },
   {
@@ -4141,12 +4191,12 @@
   },
   {
     "name": "9 TV9 News",
-    "stream_url": "https://tv9live.yuppcdn.net/vglive-sk-716953/v1/019e019b82f01ea540a871e333261/019e019bebed1ea540a871e333264/main.m3u8?hdnts=st=1787557186~exp=1787578786~acl=!*/vglive-sk-716953/v1/019e019b82f01ea540a871e333261/019e019bebed1ea540a871e333264/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_9_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_9_-1~hmac=fd60a903cfed201e0d6490d9b5a333ed27b262bbfee8b14239d061daa23ecd03&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TV9News&ads.language=TEL&ads.user=0",
+    "stream_url": "https://tv9live.yuppcdn.net/vglive-sk-716953/v1/019e019b82f01ea540a871e333261/019e019bebed1ea540a871e333264/main.m3u8?hdnts=st=1787561692~exp=1787583292~acl=!*/vglive-sk-716953/v1/019e019b82f01ea540a871e333261/019e019bebed1ea540a871e333264/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_9_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_9_-1~hmac=f03358dc1adc20da292623153b08e11d323595fb55b64679a477d7d89d4b6aaf&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TV9News&ads.language=TEL&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "News",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cmwyio.png",
-    "stationuuid": "62472d1d-29d7-36cc-a340-1409d0f5ee23",
+    "stationuuid": "fa3028c6-4d7f-35f3-b8f3-e84b4d27bd4b",
     "backup_url": ""
   },
   {
@@ -4311,12 +4361,12 @@
   },
   {
     "name": "93 Love 2 Hate TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8?ads.channel=6610&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557144~exp=1787578744~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_93_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_93_-1~hmac=e3af62495f66cfb6eae917811441f4d5f5b777f7fc1a80ff4bc1f6d80aaaa147&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Love2HateTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8?ads.channel=6610&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561652~exp=1787583252~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_93_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_93_-1~hmac=ced2a5853d49664a1ea98a059bb9410a856e1150a54b33e9f96167719565a9d6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Love2HateTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vfjgky.png",
-    "stationuuid": "947789a1-dfd9-39b4-9e08-0511b4d89f28",
+    "stationuuid": "e0617339-d6d7-36dc-b1a9-caf2292814f5",
     "backup_url": ""
   },
   {
@@ -4331,32 +4381,32 @@
   },
   {
     "name": "94 Mundo Series",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8?ads.channel=6620&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557144~exp=1787578744~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_94_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_94_-1~hmac=003857572416ea00273c77d34c99059f00484c4cc1baee81f7655312f7a18b35&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=MundoSeries&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8?ads.channel=6620&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561652~exp=1787583252~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_94_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_94_-1~hmac=34dfe5eccde4b81ca137a8a2eb4b99fbb8a4c7f080912429891b9f938ae5e0b2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=MundoSeries&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbhcva.png",
-    "stationuuid": "211bf95d-d6d9-3faf-a91f-a6ef3680837b",
+    "stationuuid": "d0e4cd7f-f4bb-36da-be43-8b1562c863a6",
     "backup_url": ""
   },
   {
     "name": "95 Mercury",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b7f74048-fe90-4144-a876-7bfa27774154/master.m3u8?ads.channel=6598&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557141~exp=1787578741~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b7f74048-fe90-4144-a876-7bfa27774154/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_95_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_95_-1~hmac=a3f9f87edae6fde1e6dbb2786730703cc4845c132b966181696e75fea51e5919&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Mercury&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b7f74048-fe90-4144-a876-7bfa27774154/master.m3u8?ads.channel=6598&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561649~exp=1787583249~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b7f74048-fe90-4144-a876-7bfa27774154/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_95_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_95_-1~hmac=33018dafccc0d3fa7a5c42d27c0b006eb384b187567bf9d077c70ba3aac9dfca&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Mercury&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wyuowl.png",
-    "stationuuid": "31a47da3-bd6f-3495-b2d6-55583228a550",
+    "stationuuid": "aee7bd1b-5467-3d9a-a7b4-10b686d60638",
     "backup_url": ""
   },
   {
     "name": "96 Mama Benz TV",
-    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8?ads.channel=6583&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787557145~exp=1787578745~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_96_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.176.139.80_yuppfast_2_channel_96_-1~hmac=fa873712090c97baea2eda09fc208ed15352d22b0d1b54b2b40694e23d6fcf05&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=MamaBenzTV&ads.language=ENG&ads.user=0",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8?ads.channel=6583&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1787561653~exp=1787583253~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_96_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_4.246.86.203_yuppfast_2_channel_96_-1~hmac=d0a8a9f886728af95cca5edc725473bf317c53606fb37646cc00bd896642f395&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=MamaBenzTV&ads.language=ENG&ads.user=0",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mama-benz-tv.png",
-    "stationuuid": "573e6839-7100-3694-8ed4-f0c271f12b2b",
+    "stationuuid": "29c71676-6623-353d-a075-407945621379",
     "backup_url": ""
   },
   {
@@ -5144,7 +5194,7 @@
     "stream_url": "http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR",
     "language": "",
     "country": "India",
-    "tags": "Overseas",
+    "tags": "Movies",
     "favicon": "https://tataprime.files.wordpress.com/2024/03/20240314_0109167221661575844903220.png",
     "stationuuid": "4d8700a3-a3e6-3ae0-a5cc-82f681097462",
     "backup_url": ""
@@ -6661,12 +6711,12 @@
   },
   {
     "name": "Cinemania 1",
-    "stream_url": "http://filex.homes:8080//live/87654321/12345678/507271.ts",
+    "stream_url": "http://filex.homes:8080//live/3114654477/5787654467/507271.ts",
     "language": "",
     "country": "India",
     "tags": "Premium 24/7",
     "favicon": "https://i.ibb.co/xFrH2L0/1000150257.jpg",
-    "stationuuid": "470ab79b-ac0b-3e32-a663-792abbf67973",
+    "stationuuid": "23cb3251-0ba3-3706-b31b-d6c778f69a62",
     "backup_url": ""
   },
   {
@@ -6701,12 +6751,12 @@
   },
   {
     "name": "Cinemania 4K",
-    "stream_url": "http://filex.homes:8080//live/87654321/12345678/507276.ts",
+    "stream_url": "http://filex.homes:8080//live/1711377989/6282641817/507276.ts",
     "language": "",
     "country": "India",
     "tags": "Premium 24/7",
     "favicon": "http://b1g.pw/logos2/CineMania4K_tamil.jpg",
-    "stationuuid": "2c08924c-098f-3f88-af78-524715eaeb2d",
+    "stationuuid": "30334020-2895-3166-a390-c425215d3b72",
     "backup_url": ""
   },
   {
@@ -6911,12 +6961,12 @@
   },
   {
     "name": "Colors Infinity HD",
-    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787547610~exp=1787569210~acl=/*~hmac=db2163f5ccb31d4f816a323ea653dcc58f611678ba8113f76bf76c3d105ed52d",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787558403~exp=1787580003~acl=/*~hmac=72ec3e68632104fc04ef3944eb0cc9884ab36d9357b8f00287d509db6366bad0",
     "language": "Hindi",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://tatalogo.pages.dev/187.png",
-    "stationuuid": "2650c4f7-5378-3324-ab38-ad1b8bff2039",
+    "stationuuid": "44e23b1f-85f1-39b8-bec4-62ab57b9940a",
     "backup_url": ""
   },
   {
@@ -12394,7 +12444,7 @@
     "stream_url": "https://live.yettelevision.com:5443/LiveApp/streams/T7mQx9LpV2Nc8HdRw5Ka.m3u8",
     "language": "",
     "country": "India",
-    "tags": "News",
+    "tags": "Movies",
     "favicon": "https://yettelevision.com/assets/images/logo/channel_11881.png",
     "stationuuid": "a9e1fd0a-32a1-3113-9197-d90f6cd4b0fa",
     "backup_url": ""
@@ -13341,12 +13391,12 @@
   },
   {
     "name": "Nick Jr",
-    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_MOB/WDVLive/index.mpd?__hdnea__=st=1787547610~exp=1787569210~acl=/*~hmac=db2163f5ccb31d4f816a323ea653dcc58f611678ba8113f76bf76c3d105ed52d",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_MOB/WDVLive/index.mpd?__hdnea__=st=1787558403~exp=1787580003~acl=/*~hmac=72ec3e68632104fc04ef3944eb0cc9884ab36d9357b8f00287d509db6366bad0",
     "language": "",
     "country": "India",
     "tags": "Kids",
     "favicon": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NickJr_Thumbnail_7d189eb7-d1fa-40c5-a5dd-30b95e3ee79d.png",
-    "stationuuid": "3f3efd8b-d688-3afc-aebd-0c790cf40419",
+    "stationuuid": "c6209bbc-0ad7-3b3d-b044-488039eefeac",
     "backup_url": ""
   },
   {
@@ -16831,12 +16881,12 @@
   },
   {
     "name": "Sun life",
-    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd?__hdnea__=st=1787547610~exp=1787569210~acl=/*~hmac=db2163f5ccb31d4f816a323ea653dcc58f611678ba8113f76bf76c3d105ed52d",
+    "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd?__hdnea__=st=1787558403~exp=1787580003~acl=/*~hmac=72ec3e68632104fc04ef3944eb0cc9884ab36d9357b8f00287d509db6366bad0",
     "language": "Tamil",
     "country": "India",
     "tags": "Tamil",
     "favicon": "https://i.ibb.co/MkK86W0P/life.png",
-    "stationuuid": "01beced9-fc1b-3799-91b3-4e5a868da754",
+    "stationuuid": "b556a768-8173-3b43-8e89-50881ce56203",
     "backup_url": ""
   },
   {
@@ -19234,7 +19284,7 @@
     "stream_url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
     "language": "",
     "country": "India",
-    "tags": "Overseas",
+    "tags": "News",
     "favicon": "https://yettelevision.com/assets/images/logo/channel_11847.png",
     "stationuuid": "98d04bfc-fe1c-3fa0-937e-16caf472137b",
     "backup_url": ""
@@ -19254,8 +19304,8 @@
     "stream_url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8",
     "language": "",
     "country": "India",
-    "tags": "Overseas",
-    "favicon": "",
+    "tags": "News",
+    "favicon": "https://yettelevision.com/assets/images/logo/channel_1.png",
     "stationuuid": "9b0c76bb-8944-39c9-89fd-a8cf4709ad42",
     "backup_url": ""
   },
@@ -19677,16 +19727,6 @@
     "tags": "Entertainment",
     "favicon": "http://phoenixcreations.online/ott/jayamott/uploads/1775654228_Jayam Tv Logo.png",
     "stationuuid": "d8fb9f77-edae-3581-a6d9-4ab3a16953d7",
-    "backup_url": ""
-  },
-  {
-    "name": "JKC",
-    "stream_url": "https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://amigofx.com/livetvlogo/jkc.png",
-    "stationuuid": "0906e9ca-b28f-353c-b262-7a9baacb4135",
     "backup_url": ""
   }
 ]
