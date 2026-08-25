@@ -121,13 +121,13 @@
   },
   {
     "name": "13 velan tv",
-    "stream_url": "https://app.ashokadigital.net/app/2dc99348/index.m3u8",
+    "stream_url": "http://velantv.phoenixcreations.online/velantv/velantv/index.m3u8",
     "language": "Tamil",
     "country": "India",
     "tags": "Tamil Nadu Channels",
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1784299507_ashoka-digital-320x180.gif",
     "stationuuid": "ccc75dcb-91b4-34b3-8f6f-5720e0d5679a",
-    "backup_url": "https://cloudstream4k.com/velantv/bsk/index.m3u8"
+    "backup_url": "https://app.ashokadigital.net/app/2dc99348/index.m3u8"
   },
   {
     "name": "139 CVR News",
@@ -697,16 +697,6 @@
     "tags": "Entertainment",
     "favicon": "",
     "stationuuid": "ae22c788-dccd-3f86-abeb-1f6565616f77",
-    "backup_url": ""
-  },
-  {
-    "name": "41 POTHIGAI THENTRAL TV",
-    "stream_url": "https://srvx.nellaiiptv.com/restream/eg7arr/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "",
-    "stationuuid": "b9a62476-c82f-3240-9268-2ec94b75fff3",
     "backup_url": ""
   },
   {
@@ -1397,16 +1387,6 @@
     "tags": "News",
     "favicon": "",
     "stationuuid": "2801565f-f14c-3767-9ec7-4a87ee2f5971",
-    "backup_url": ""
-  },
-  {
-    "name": "africanews",
-    "stream_url": "https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_344_1716018312.png",
-    "stationuuid": "4b217195-8ca5-3107-8858-6258d7c6be8b",
     "backup_url": ""
   },
   {
@@ -3160,6 +3140,16 @@
     "backup_url": ""
   },
   {
+    "name": "JPR Tamil",
+    "stream_url": "http://iptvcasomsapi.jprdigital.in/x-media/C0182/master.m3u8",
+    "language": "Tamil",
+    "country": "India",
+    "tags": "News",
+    "favicon": "http://iptvcasomsapi.jprdigital.in/uploads/channels/channel_182_1739524444_thumb.png",
+    "stationuuid": "57587b75-f20f-348f-93a7-adb6a0ab438c",
+    "backup_url": ""
+  },
+  {
     "name": "JRP TV",
     "stream_url": "https://ipcloud.live/jrptv/jrphd/index.m3u8",
     "language": "",
@@ -3350,6 +3340,16 @@
     "backup_url": ""
   },
   {
+    "name": "Lifetime Movies",
+    "stream_url": "https://amg00276-amg00276c21-samsung-gb-5270.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-lifetimemovies-samsunggb/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITowIvBTB2sCs1PWUa-veSVnsOV449onQYmewZH2aBrk86vxC",
+    "stationuuid": "3241eee4-3579-3e37-98ba-1844f173d9b2",
+    "backup_url": ""
+  },
+  {
     "name": "Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)",
     "stream_url": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8",
     "language": "",
@@ -3490,6 +3490,16 @@
     "backup_url": ""
   },
   {
+    "name": "Mei Alai TV",
+    "stream_url": "https://thendralstream.in/Meialaitv/meihd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://www.meialai.in/logo.png",
+    "stationuuid": "89caa585-7f68-3ad8-a133-7ffddc194a61",
+    "backup_url": "https://view.rcserver.in/tmp_hls21/meialai/index.m3u8"
+  },
+  {
     "name": "Mh 1 News",
     "stream_url": "https://livestream.jswk.online/mhonenews/live/index.m3u8",
     "language": "Punjabi",
@@ -3537,6 +3547,16 @@
     "tags": "Entertainment",
     "favicon": "",
     "stationuuid": "06a028ba-e01d-3b47-b711-c4e0b554c006",
+    "backup_url": ""
+  },
+  {
+    "name": "MKN Marathi",
+    "stream_url": "https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8",
+    "language": "Marathi",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=720x540",
+    "stationuuid": "545923d1-f274-319c-ad47-c01f29705954",
     "backup_url": ""
   },
   {
@@ -3800,6 +3820,16 @@
     "backup_url": ""
   },
   {
+    "name": "Nexus TV (576p)",
+    "stream_url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://i.imgur.com/XcJZKg4.png",
+    "stationuuid": "12348211-57df-3169-b007-7f719c7d1992",
+    "backup_url": ""
+  },
+  {
     "name": "NKTV Bangla",
     "stream_url": "https://cdn-6.pishow.tv/live/10012/master.m3u8",
     "language": "Tamil",
@@ -4040,16 +4070,6 @@
     "backup_url": ""
   },
   {
-    "name": "Rajya Sabha TV",
-    "stream_url": "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=300x225",
-    "stationuuid": "7b3bfec5-9e71-3c43-ac62-b73bae576543",
-    "backup_url": ""
-  },
-  {
     "name": "Rakuten TV Action Movies",
     "stream_url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8",
     "language": "",
@@ -4160,6 +4180,16 @@
     "backup_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8"
   },
   {
+    "name": "Retro Music",
+    "stream_url": "https://sanplayout.xyz/live2/retromusichd/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Music",
+    "favicon": "",
+    "stationuuid": "1305426d-0554-3a86-b86b-727d5dc0bb5b",
+    "backup_url": ""
+  },
+  {
     "name": "Reuters",
     "stream_url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197",
     "language": "English",
@@ -4248,6 +4278,16 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Saam_Tv.png?width=300",
     "stationuuid": "3f85a1e6-6d51-3469-930e-586ffbe0c1b2",
     "backup_url": "http://103.175.73.12:8080/live/650/master.m3u8"
+  },
+  {
+    "name": "Sachin Music",
+    "stream_url": "https://ipcloud.live/sachintv/musichd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Music",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1736158383_Comp%201_00075.png",
+    "stationuuid": "56914b68-bf03-350b-ab32-05cdbea5d9b0",
+    "backup_url": ""
   },
   {
     "name": "Samachar Plus (1080p)",
@@ -4390,16 +4430,6 @@
     "backup_url": ""
   },
   {
-    "name": "SONY BBC EARTH HD",
-    "stream_url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "News",
-    "favicon": "http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_194_1729084654_thumb.png",
-    "stationuuid": "026818fb-f3b7-3baf-bde9-60516d647dce",
-    "backup_url": "http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8"
-  },
-  {
     "name": "Sony Entertainment Television",
     "stream_url": "http://38.96.178.205/SONYHD/index.m3u8",
     "language": "Hindi",
@@ -4438,6 +4468,26 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png",
     "stationuuid": "67783176-9ed9-3419-ad6d-7fe47a454d7c",
     "backup_url": "https://sonyliv.07in.workers.dev/live/999/999/sony-pal.m3u8"
+  },
+  {
+    "name": "Sony Ten 5 HD",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8",
+    "language": "Hindi",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
+    "stationuuid": "07dfd537-499b-3eb2-997c-eaac2d1446af",
+    "backup_url": "http://202.70.146.135:8000/play/a09r/index.m3u8"
+  },
+  {
+    "name": "Sony Wah",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/wah.m3u8",
+    "language": "Hindi",
+    "country": "India",
+    "tags": "Movies",
+    "favicon": "",
+    "stationuuid": "02de3830-f268-39a4-bf9e-ed5fb2d2f649",
+    "backup_url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8"
   },
   {
     "name": "Sooriyan Cinema",
