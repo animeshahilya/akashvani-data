@@ -411,13 +411,13 @@
   },
   {
     "name": "Aaj Tak",
-    "stream_url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8",
+    "stream_url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "language": "Hindi",
     "country": "India",
     "tags": "News",
     "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
     "stationuuid": "03dc7fb2-d92a-3c1c-80da-5ebf114f4940",
-    "backup_url": ""
+    "backup_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8"
   },
   {
     "name": "Aakaash Aath",
