@@ -90,6 +90,16 @@
     "backup_url": ""
   },
   {
+    "name": "30A Golf Kingdom",
+    "stream_url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/Lv53nh4.png",
+    "stationuuid": "ba8b1238-7f48-31d4-a722-cb7ffca0b1d1",
+    "backup_url": ""
+  },
+  {
     "name": "316 TV",
     "stream_url": "https://channel316.livebox.co.in/c316hls/live.m3u8",
     "language": "",
@@ -748,6 +758,16 @@
     "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/AbsintheTV_500x500-1763576402424.png",
     "stationuuid": "152991e1-3409-31e7-b89a-05aad679edaa",
     "backup_url": "https://streams2.sofast.tv/ptnr-yupptv/title-absinthetv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8?ads.channel=7002&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1788065106~exp=1788086706~acl=!*/ptnr-yupptv/title-absinthetv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.184.211.37_yuppfast_2_channel_298_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.184.211.37_yuppfast_2_channel_298_-1~hmac=622389cd15fdad1c6282fa37997cdfe45306ce9ebbb15120cbb078ba57b1f596&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=AbsintheTV&ads.language=ENG&ads.user=0"
+  },
+  {
+    "name": "ACC Digital Network",
+    "stream_url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/V6Kaqha.png",
+    "stationuuid": "a08000e7-7641-3e91-b59d-7a132cf6dc19",
+    "backup_url": "https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8"
   },
   {
     "name": "ACE TV",
@@ -2010,16 +2030,6 @@
     "backup_url": ""
   },
   {
-    "name": "Ayyavaikundar TV",
-    "stream_url": "https://stream.onecloudlive.in/samuthirapandi/ayyavaikundartv/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "",
-    "stationuuid": "52bce2ad-e6ba-35a2-844f-d0f71e9c9b60",
-    "backup_url": ""
-  },
-  {
     "name": "Azan TV",
     "stream_url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
     "language": "",
@@ -2360,6 +2370,16 @@
     "backup_url": ""
   },
   {
+    "name": "beIN SPORTS XTRA",
+    "stream_url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
+    "stationuuid": "15216966-55c8-3384-b6ba-d94f0d426114",
+    "backup_url": "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
     "name": "beIN Sports Xtra",
     "stream_url": "https://streams2.sofast.tv/ptnr-khabriya/title-Xtrasports_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0690efb6-aa43-44a6-94a2-cfcf4c533aa0/manifest.m3u8",
     "language": "",
@@ -2367,6 +2387,16 @@
     "tags": "Sports",
     "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/beinsports-1767126976145.jpg",
     "stationuuid": "2ce20a18-1d79-354c-8a25-7959f542cf04",
+    "backup_url": ""
+  },
+  {
+    "name": "BEK Sports",
+    "stream_url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/1l3t5jd.png",
+    "stationuuid": "886b3d04-ac5a-3d7b-b0da-a0d6ffc9d486",
     "backup_url": ""
   },
   {
@@ -3080,6 +3110,16 @@
     "backup_url": ""
   },
   {
+    "name": "CBS Sports Golazo Network",
+    "stream_url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/eMjutHS.png",
+    "stationuuid": "7ef860e1-474c-3cb5-b547-8b7c695b2edb",
+    "backup_url": "https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8"
+  },
+  {
     "name": "CCV",
     "stream_url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
     "language": "Malayalam",
@@ -3277,6 +3317,16 @@
     "tags": "Entertainment",
     "favicon": "https://bx-tv.com/wp-content/uploads/2021/06/charge.jpg",
     "stationuuid": "c5b46c48-30fd-3295-8005-2bcf19677429",
+    "backup_url": ""
+  },
+  {
+    "name": "Chen TV",
+    "stream_url": "https://stream.apcloud.in/chentv/chentvhd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "",
+    "stationuuid": "87a9be7c-9da5-3aa6-8ce7-c4b3365ebc2d",
     "backup_url": ""
   },
   {
@@ -4087,6 +4137,16 @@
     "tags": "News",
     "favicon": "https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540",
     "stationuuid": "66840c84-7e0b-3965-89f5-c53d7a3b9a5c",
+    "backup_url": ""
+  },
+  {
+    "name": "Cuddalore Voice TV",
+    "stream_url": "http://voicetv.stream.ashokadigital.net:8080/voicetv/voicetvhd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754494620_Ver%25202.0_04.png&w=1080&q=75",
+    "stationuuid": "8190a409-9522-32ac-9c3b-52f020c84f94",
     "backup_url": ""
   },
   {
@@ -5370,6 +5430,16 @@
     "backup_url": ""
   },
   {
+    "name": "DraftKings Network",
+    "stream_url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/SFYhgrt.png",
+    "stationuuid": "f43f0c3e-62c8-35e1-ba1c-5b3b3c77abc6",
+    "backup_url": "https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8"
+  },
+  {
     "name": "Dragon Ball Super: Broly",
     "stream_url": "https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE",
     "language": "",
@@ -5468,6 +5538,16 @@
     "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1771244954.webp",
     "stationuuid": "64902a1f-5f0f-3408-be24-d9840e6a26c3",
     "backup_url": ""
+  },
+  {
+    "name": "Durai TV",
+    "stream_url": "https://ipcloud.live/duraitv/live/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "",
+    "stationuuid": "19c53721-97e1-3354-807e-a06c390796eb",
+    "backup_url": "https://stream.iplive.xyz/hls/duraitv/index.mpd"
   },
   {
     "name": "Duresh TV",
@@ -5970,6 +6050,36 @@
     "backup_url": "https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8"
   },
   {
+    "name": "ESPN8: The Ocho",
+    "stream_url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png",
+    "stationuuid": "d3065db6-c304-300a-a790-bd111304f304",
+    "backup_url": ""
+  },
+  {
+    "name": "ESPNews",
+    "stream_url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "News, Sports",
+    "favicon": "",
+    "stationuuid": "2e25c6a3-513f-32a2-8021-1f4279e33c53",
+    "backup_url": ""
+  },
+  {
+    "name": "Espnu",
+    "stream_url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/HiBrysh.png",
+    "stationuuid": "8b0b9cb8-a611-391b-a940-a56461c47dbb",
+    "backup_url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8"
+  },
+  {
     "name": "ET Now",
     "stream_url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
     "language": "English",
@@ -6250,6 +6360,16 @@
     "backup_url": ""
   },
   {
+    "name": "Fast&FunBox",
+    "stream_url": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8",
+    "language": "English",
+    "country": "Netherlands",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/a9ZtP17.png",
+    "stationuuid": "f3bcf51a-e028-34f4-9825-29be52e19acd",
+    "backup_url": ""
+  },
+  {
     "name": "Fast1",
     "stream_url": "https://cdn-6.pishow.tv/live/10008/master.m3u8",
     "language": "",
@@ -6290,6 +6410,16 @@
     "backup_url": ""
   },
   {
+    "name": "FB TV",
+    "stream_url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+    "language": "Turkish/English",
+    "country": "Turkiye",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/qBVqtYd.png",
+    "stationuuid": "4743063c-c069-3352-91f2-fcacfb1ef022",
+    "backup_url": ""
+  },
+  {
     "name": "Feva Music",
     "stream_url": "https://streams2.sofast.tv/ptnr-khabriya/title-FevaMusic_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e565b97e-2f75-4c59-a228-20094765694f/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0",
     "language": "English",
@@ -6310,6 +6440,36 @@
     "backup_url": ""
   },
   {
+    "name": "Fifa",
+    "stream_url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+    "language": "English",
+    "country": "United Kingdom",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "472a0815-8d6f-3c5f-87a0-fc6fc8e64955",
+    "backup_url": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8"
+  },
+  {
+    "name": "FIFA+ Women",
+    "stream_url": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
+    "language": "English",
+    "country": "United Kingdom",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/xy9ZxVO.png",
+    "stationuuid": "7f597d0c-36be-3187-88b7-0add1e4cf199",
+    "backup_url": ""
+  },
+  {
+    "name": "Fight Network",
+    "stream_url": "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+    "language": "English",
+    "country": "Canada",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/vlKPZHR.png",
+    "stationuuid": "a7847cd6-edb1-3acc-9eb8-fd734345859a",
+    "backup_url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
+  },
+  {
     "name": "Fight TV",
     "stream_url": "https://streams2.sofast.tv/ptnr-khabriya/title-FIGHT-TV-ENG_khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ffaa5cb7-7af7-4b01-85fc-6f903abcb0d0/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0",
     "language": "English",
@@ -6318,6 +6478,16 @@
     "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/fightv-1761929078436.jpg",
     "stationuuid": "4be09629-293b-3795-8149-1e83aaf3a784",
     "backup_url": "https://jmp2.uk/stvp-IN300086YL"
+  },
+  {
+    "name": "FightBox",
+    "stream_url": "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
+    "language": "English",
+    "country": "Netherlands",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/mRsnztA.png",
+    "stationuuid": "6813e582-6ac6-3e3e-b384-1a767ae02847",
+    "backup_url": "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8"
   },
   {
     "name": "Fighters",
@@ -6410,6 +6580,16 @@
     "backup_url": ""
   },
   {
+    "name": "Fite 24/7",
+    "stream_url": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/ESV6qgH.png",
+    "stationuuid": "04219e67-cd78-3669-ba3f-b24949d20049",
+    "backup_url": "https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8"
+  },
+  {
     "name": "Fite TV",
     "stream_url": "https://streams2.sofast.tv/ptnr-khabriya/title-FiteTV_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/228def88-9b48-48ce-8382-1a39fe995936/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0",
     "language": "English",
@@ -6417,6 +6597,26 @@
     "tags": "Sports",
     "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/fite-1731944043071.PNG",
     "stationuuid": "f94b1b4b-f74c-3993-bbfb-1c9367f3922e",
+    "backup_url": ""
+  },
+  {
+    "name": "FloHockey",
+    "stream_url": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png",
+    "stationuuid": "0fc3a62d-f5ae-3cce-895a-b149f0bf3cc8",
+    "backup_url": ""
+  },
+  {
+    "name": "FloRacing",
+    "stream_url": "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png",
+    "stationuuid": "98908d59-ead6-3443-98a1-0aacaa29c785",
     "backup_url": ""
   },
   {
@@ -6470,6 +6670,26 @@
     "backup_url": ""
   },
   {
+    "name": "Fox Deportes",
+    "stream_url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+    "language": "Spanish/English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "7707ef25-3a8e-367b-91d8-ad22ff3790ce",
+    "backup_url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+  },
+  {
+    "name": "Fox Sports 1",
+    "stream_url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/O9BapV9.png",
+    "stationuuid": "9bd213c1-8612-3712-8542-0d5494160d3e",
+    "backup_url": "http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+  },
+  {
     "name": "FOX Sports 1 HD",
     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
     "language": "",
@@ -6477,6 +6697,16 @@
     "tags": "Sports",
     "favicon": "https://cdn.iptvboss.pro/logos/USA/FoxSports1.us.png",
     "stationuuid": "d6246f1f-17f8-3a03-b03a-f45e592088e5",
+    "backup_url": ""
+  },
+  {
+    "name": "Fox Sports 2",
+    "stream_url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/LHtxKI8.png",
+    "stationuuid": "91784759-f3ae-32cb-a95c-1043ce1b0de1",
     "backup_url": ""
   },
   {
@@ -6590,6 +6820,16 @@
     "backup_url": ""
   },
   {
+    "name": "FTF Sports",
+    "stream_url": "https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/yvUjOI3.png",
+    "stationuuid": "6272f13a-cb8a-3902-b80d-df8ffaf88c7f",
+    "backup_url": "https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8"
+  },
+  {
     "name": "Fubo Sports 1",
     "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
     "language": "",
@@ -6608,6 +6848,26 @@
     "favicon": "https://i.imgur.com/7BwABte.png",
     "stationuuid": "e5326ddf-62a9-306d-807f-93800647c92b",
     "backup_url": ""
+  },
+  {
+    "name": "Fubo Sports Network",
+    "stream_url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/qFNRJLb.png",
+    "stationuuid": "fbae1f87-2c58-3b51-b059-35ce083b3c3d",
+    "backup_url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8"
+  },
+  {
+    "name": "Fuel TV",
+    "stream_url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+    "language": "English",
+    "country": "Portugal",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/I8mviBy.png",
+    "stationuuid": "d595caf2-3200-34de-adf7-ccd101ee6e3f",
+    "backup_url": "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8"
   },
   {
     "name": "Funny Junior HD",
@@ -6850,6 +7110,16 @@
     "backup_url": ""
   },
   {
+    "name": "Glory Kickboxing",
+    "stream_url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/tS7Ub7i.png",
+    "stationuuid": "b293f554-a813-3324-8e7d-bf0c87a34edf",
+    "backup_url": ""
+  },
+  {
     "name": "GNT Guntur News",
     "stream_url": "https://amigofx.com:1936/srkent/srkent/playlist.m3u8",
     "language": "",
@@ -6997,6 +7267,16 @@
     "tags": "Entertainment",
     "favicon": "https://qqcdnpictest.mxplay.com/pic/5cdce6be9d936a034839ca5c2770e209/en/2x3/312x468/test_pic1733468034828.webp",
     "stationuuid": "6e4720b2-93f1-31e1-9a40-9b79accef04a",
+    "backup_url": ""
+  },
+  {
+    "name": "GolTV Latin America",
+    "stream_url": "http://177.234.249.178:8888/GOLTV/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/pypul3s.png",
+    "stationuuid": "7ee96b38-38c3-36c3-b2ed-fd2ce42129e8",
     "backup_url": ""
   },
   {
@@ -7338,6 +7618,16 @@
     "favicon": "https://qqcdnpictest.mxplay.com/pic/1dd37d2c7c41643e5677128f678fbe5b/en/2x3/312x468/test_pic1734087085862_badged_1734958463361.webp",
     "stationuuid": "f3c8c3fe-d3c0-3980-bb0b-6c03843f0106",
     "backup_url": ""
+  },
+  {
+    "name": "Hard Knocks",
+    "stream_url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+    "language": "English",
+    "country": "Canada",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/nt9B6jx.png",
+    "stationuuid": "30225480-6eae-31ec-9d8f-8ab7be7a5d4b",
+    "backup_url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418"
   },
   {
     "name": "Hare Krishna TV",
@@ -7920,16 +8210,6 @@
     "backup_url": ""
   },
   {
-    "name": "Hub Sports 4",
-    "stream_url": "http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090650.ts",
-    "language": "",
-    "country": "India",
-    "tags": "Sports",
-    "favicon": "https://iili.io/FkbZuBS.jpg",
-    "stationuuid": "6cc79498-d873-3510-b099-c112fedba483",
-    "backup_url": ""
-  },
-  {
     "name": "Hum",
     "stream_url": "https://d3sgzbosmwirao.cloudfront.net/video/abbe0823ed6979db8de41db2c21c6752/1/hls/h264_high.m3u8",
     "language": "",
@@ -8130,6 +8410,16 @@
     "backup_url": ""
   },
   {
+    "name": "India Daily 24X7",
+    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8?hdnts=st=1788077308~exp=1788098908~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.212.165.177_yuppfast_2_channel_303_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.212.165.177_yuppfast_2_channel_303_-1~hmac=20e2ea73ae7afc825b0b43890daaf04c7d6f5f33521cf717ff489032915674c6&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=IndiaDaily24X7&ads.language=HIN&ads.user=0",
+    "language": "Hindi",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exuqky.png",
+    "stationuuid": "7f634dba-4a10-35a7-85ea-64ef4a292501",
+    "backup_url": "https://jmp2.uk/stvp-IN4000007M9"
+  },
+  {
     "name": "India Daily Live",
     "stream_url": "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8",
     "language": "Hindi",
@@ -8308,6 +8598,16 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",
     "stationuuid": "7a581b0f-d8f0-34a2-92d0-c56c853fdaef",
     "backup_url": ""
+  },
+  {
+    "name": "InTrouble",
+    "stream_url": "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "Netherlands",
+    "tags": "Infotainment, Sports",
+    "favicon": "https://i.imgur.com/a40chFI.png",
+    "stationuuid": "14d5f216-8e30-371d-b35c-0f2578052f07",
+    "backup_url": "https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8"
   },
   {
     "name": "Introuble",
@@ -8727,16 +9027,6 @@
     "tags": "News",
     "favicon": "",
     "stationuuid": "552701c1-6685-3db9-afd0-5556c58a70d3",
-    "backup_url": ""
-  },
-  {
-    "name": "Jayam TV Trichy",
-    "stream_url": "https://live.onecloudlive.in/jmhd/jmtv/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://play-lh.googleusercontent.com/ubSsc9-EysszvQIAHy9iHpzL7qjEd3yQlBVDYrpaKS2qH1j9sZmmIsT0hOgZplYiuhDc2206kZn3TXZUOiOoHtY",
-    "stationuuid": "60b0c660-d146-3929-827f-df2f88961642",
     "backup_url": ""
   },
   {
@@ -9300,16 +9590,6 @@
     "backup_url": ""
   },
   {
-    "name": "Kanchi Media",
-    "stream_url": "http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://tataprime.files.wordpress.com/2024/02/20240223_0013388576810840645126860.png",
-    "stationuuid": "4356d896-e745-3064-90a8-0ea2d7b534e8",
-    "backup_url": ""
-  },
-  {
     "name": "Kanchi TV",
     "stream_url": "http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR",
     "language": "",
@@ -9447,7 +9727,7 @@
     "tags": "Entertainment",
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1786437881_1784854333_WhatsApp%20Image%202026-07-23%20at%201.37.14%20PM-Photoroom.png",
     "stationuuid": "bb919bf9-0e4d-31d3-b7c0-1b8e21d8e3d1",
-    "backup_url": "https://rtmp.bmlive.net/bms/kctv/stream.m3u8"
+    "backup_url": "https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8"
   },
   {
     "name": "KC Vision TV",
@@ -9786,7 +10066,7 @@
     "country": "India",
     "tags": "Sports",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png",
-    "stationuuid": "94abd24c-3c67-3167-92c2-cbb673468542",
+    "stationuuid": "277c0c2e-7bbc-3281-b4e0-cab9824dd2c7",
     "backup_url": "https://server.notvstream.in/hitechtv/hitechtv.m3u8"
   },
   {
@@ -9840,6 +10120,16 @@
     "backup_url": ""
   },
   {
+    "name": "KSR TV",
+    "stream_url": "http://ksrtv.stream.onecloudlive.in:8080/ksrtv/ksrtvhd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KSRTV.png",
+    "stationuuid": "f76562d5-ff74-31a7-9f3c-f8ed6187d0f2",
+    "backup_url": ""
+  },
+  {
     "name": "KTV Bangla",
     "stream_url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
     "language": "Bengali/Santali",
@@ -9867,6 +10157,16 @@
     "tags": "News",
     "favicon": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C27-1774968658.png",
     "stationuuid": "96f99009-f6e7-33d7-ae5e-e8ce805288b4",
+    "backup_url": ""
+  },
+  {
+    "name": "KTV Sport",
+    "stream_url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "language": "English/Arabic",
+    "country": "Kuwait",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/R1hGX1d.png",
+    "stationuuid": "250d9e70-095b-334b-8970-2398388c1a8e",
     "backup_url": ""
   },
   {
@@ -9928,6 +10228,16 @@
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mtgnqu.png",
     "stationuuid": "729ea6e9-a244-342e-83f9-02b0a556469d",
     "backup_url": "https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8"
+  },
+  {
+    "name": "Lacrosse TV",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",
+    "stationuuid": "bc3f6215-09dc-3e2e-9226-e9da70916c8d",
+    "backup_url": ""
   },
   {
     "name": "Lakshya TV",
@@ -10337,6 +10647,16 @@
     "tags": "News",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png",
     "stationuuid": "35d4692f-473e-37f6-a52b-5f45df6ce339",
+    "backup_url": ""
+  },
+  {
+    "name": "Madura TV",
+    "stream_url": "https://stream.onecloudlive.in/mm/maduratv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "",
+    "stationuuid": "6344fcc1-2340-312c-8732-3af8e446688d",
     "backup_url": ""
   },
   {
@@ -11020,16 +11340,6 @@
     "backup_url": "http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8"
   },
   {
-    "name": "Meiveli TV",
-    "stream_url": "https://meiveli.livebox.co.in/MEIVELIMAINhls/meivelimain.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://tataprime.files.wordpress.com/2024/04/20240412_2153549201834672751639447.png",
-    "stationuuid": "de1414d7-b5ac-393f-a090-be4c04809f2a",
-    "backup_url": ""
-  },
-  {
     "name": "Melody Hits",
     "stream_url": "https://mumt03.tangotv.in/Dsly5z3HMELODYHITS/index.m3u8",
     "language": "",
@@ -11300,6 +11610,16 @@
     "backup_url": ""
   },
   {
+    "name": "MLB Strike Zone",
+    "stream_url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
+    "language": "English/Spanish",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/uMI1ySO.png",
+    "stationuuid": "fbd99d2a-464d-3eed-8139-ed255b181d5d",
+    "backup_url": ""
+  },
+  {
     "name": "MM TV HD",
     "stream_url": "https://ipcloud.live/mmtv/mmtvhd/index.m3u8",
     "language": "",
@@ -11320,12 +11640,22 @@
     "backup_url": ""
   },
   {
+    "name": "MMA TV.com",
+    "stream_url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "language": "Russian/English",
+    "country": "Russia",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/QhdxNsB.png",
+    "stationuuid": "3eb88e02-0937-3ef2-a04e-97a19cd7e00f",
+    "backup_url": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
+  },
+  {
     "name": "MN Music TV",
     "stream_url": "https://mntv.livebox.co.in/musichls/live.m3u8",
     "language": "",
     "country": "India",
     "tags": "Music",
-    "favicon": "",
+    "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1786972325.webp",
     "stationuuid": "874e2f6b-f8a3-3c2b-a54b-5ba1c6795b1f",
     "backup_url": "http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/playlist.m3u8"
   },
@@ -11367,6 +11697,16 @@
     "tags": "Movies",
     "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
     "stationuuid": "f72fc5b5-7324-3957-a4e5-43afea94452f",
+    "backup_url": ""
+  },
+  {
+    "name": "Monara TV",
+    "stream_url": "https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://tataprime.files.wordpress.com/2024/04/20240406_0926231197456357836223693.png",
+    "stationuuid": "4cce6a04-c12f-39c3-924b-f4a16e61d278",
     "backup_url": ""
   },
   {
@@ -11580,6 +11920,16 @@
     "backup_url": ""
   },
   {
+    "name": "MSG",
+    "stream_url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+    "language": "English/Spanish",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/SEQFh0P.png",
+    "stationuuid": "3382a095-24a7-395e-92f6-523e986d18e7",
+    "backup_url": ""
+  },
+  {
     "name": "MSN TV",
     "stream_url": "https://ipcloud.live/msntv/msntv/index.m3u8",
     "language": "",
@@ -11770,6 +12120,16 @@
     "backup_url": ""
   },
   {
+    "name": "N vision Chennal",
+    "stream_url": "https://ipcloud.live/nvision/nvisionhd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "http://phoenixcreations.online/ott/jayamott/uploads/1781011661_WhatsApp Image 2026-06-09 at 10.18.18 AM.jpeg",
+    "stationuuid": "6f942db9-b679-35ce-a71a-79fab9eb3164",
+    "backup_url": ""
+  },
+  {
     "name": "N vision music",
     "stream_url": "https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8",
     "language": "",
@@ -11798,6 +12158,16 @@
     "favicon": "https://play-lh.googleusercontent.com/Z3NviXxNAKysRw8YFctVNqO87auqy7ic731owb8D-e2efpZO2ZM-iObZippjiwjHRwq3tB_sRDSdJC_WO4M9=s512-rw",
     "stationuuid": "667fc0e6-ec99-31dc-ba68-ca4e1b54d76c",
     "backup_url": ""
+  },
+  {
+    "name": "Nagaland TV",
+    "stream_url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+    "language": "Hindi",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://i.imgur.com/EBEIpPo.png",
+    "stationuuid": "d4282e80-df01-32db-8b17-1e5d91d6bb3a",
+    "backup_url": "https://cdn-6.pishow.tv/live/10014/master.m3u8"
   },
   {
     "name": "Nam City1",
@@ -12000,6 +12370,16 @@
     "backup_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/index.m3u8?ads.channel=7000&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1788065105~exp=1788086705~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f2e7e4ed-1b9c-4404-9fc6-41d0d13880b7/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.184.211.37_yuppfast_2_channel_295_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.184.211.37_yuppfast_2_channel_295_-1~hmac=fe429da84f2519b4226dab16afac0c7def41809c9f6fd03f8612079a1f351ae5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=NauticalChannel&ads.language=ENG&ads.user=0"
   },
   {
+    "name": "Nautical Channel",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
+    "language": "English/Italian/French",
+    "country": "Italy",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/2ByDyzL.png",
+    "stationuuid": "a5d4df45-2270-3e68-a3a9-1c6ca478b460",
+    "backup_url": "https://streams2.sofast.tv/vglive-sk-231198/index.m3u8"
+  },
+  {
     "name": "Naveen TV",
     "stream_url": "https://srvx.nellaiiptv.com/restream/b3ndcv/index.m3u8",
     "language": "",
@@ -12038,6 +12418,26 @@
     "favicon": "https://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270",
     "stationuuid": "237106ae-be4d-3be6-8c1e-0483aff9de1f",
     "backup_url": ""
+  },
+  {
+    "name": "NBA TV",
+    "stream_url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "1d2e409c-48ae-3c16-96f7-8602d604a3d7",
+    "backup_url": "https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8"
+  },
+  {
+    "name": "NBC Sports NOW",
+    "stream_url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/EzNf2Yx.png",
+    "stationuuid": "88cdd5aa-5605-3b18-9bdf-f8bb601f320c",
+    "backup_url": "https://jmp2.uk/plu-6549306c83595c000815a696.m3u8"
   },
   {
     "name": "NBS Live TV",
@@ -12165,7 +12565,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/nellai_tv_1771224917.webp",
     "stationuuid": "b4d28d69-d9e9-38fb-bd19-a3a4918916e8",
     "backup_url": "http://103.175.73.12:8080/live/166/master.m3u8"
   },
@@ -12740,6 +13140,16 @@
     "backup_url": ""
   },
   {
+    "name": "NFL Network",
+    "stream_url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "c066c1fd-c01e-3a09-b436-358164bdd84e",
+    "backup_url": ""
+  },
+  {
     "name": "NH BollyFlix",
     "stream_url": "https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8",
     "language": "",
@@ -12778,6 +13188,26 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
     "stationuuid": "844700ca-b5e2-3648-b1b2-692d835413a7",
     "backup_url": "http://103.175.73.12:8080/live/417/master.m3u8"
+  },
+  {
+    "name": "NHL Network",
+    "stream_url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/UNZ8bef.png",
+    "stationuuid": "fcb289a7-2d7d-3886-a1df-0ef2e47d78a9",
+    "backup_url": "https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8"
+  },
+  {
+    "name": "Nhra TV",
+    "stream_url": "https://d265y4sk8257lt.cloudfront.net/nh.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/jZgcm4k.png",
+    "stationuuid": "931b3008-856c-3c31-964c-1acf6dd9d559",
+    "backup_url": "https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8"
   },
   {
     "name": "Nick HD",
@@ -13200,6 +13630,16 @@
     "backup_url": "https://mumt03.tangotv.in/Dsly5z3HOMTV/index.m3u8"
   },
   {
+    "name": "Oman Sports TV",
+    "stream_url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+    "language": "English/Arabic",
+    "country": "Oman",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/1omi7p8.png",
+    "stationuuid": "69f30630-0957-337d-bcd9-ef79fc1dda13",
+    "backup_url": ""
+  },
+  {
     "name": "Omm TV Nagercoil",
     "stream_url": "https://web.applelive.in/ommtv/ommtv/index.m3u8",
     "language": "",
@@ -13358,6 +13798,26 @@
     "favicon": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Outersphere/Outersphere_log.png",
     "stationuuid": "c81fa643-79ca-323a-9688-f6d3f136a9f0",
     "backup_url": ""
+  },
+  {
+    "name": "Overtime",
+    "stream_url": "https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/9S9k4IK.png",
+    "stationuuid": "0a40d2af-f58f-3968-97f9-f3fa453ec2d9",
+    "backup_url": ""
+  },
+  {
+    "name": "Pac-12 Insider",
+    "stream_url": "https://pac12-firetv.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/736QREy.png",
+    "stationuuid": "cfa090e2-3a9c-3644-890a-e0eb882895c9",
+    "backup_url": "https://pac12-roku-us.amagi.tv/playlist.m3u8"
   },
   {
     "name": "Padharo Sa",
@@ -13630,6 +14090,16 @@
     "backup_url": ""
   },
   {
+    "name": "PFL MMA",
+    "stream_url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
+    "stationuuid": "4dc23f7a-7c28-3e1c-9210-787fff5ce537",
+    "backup_url": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8"
+  },
+  {
     "name": "PG TV",
     "stream_url": "https://app.xstream.onecloudlive.in/pgtv/pgtvhd/index.m3u8",
     "language": "",
@@ -13638,6 +14108,16 @@
     "favicon": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/PGTV.svg",
     "stationuuid": "86f68f24-bc7c-3f25-984b-80b179b15fcf",
     "backup_url": ""
+  },
+  {
+    "name": "PGA Tour",
+    "stream_url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/J0TY9dG.png",
+    "stationuuid": "e325830c-8b02-3742-a2fb-633ff13254f8",
+    "backup_url": "https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8"
   },
   {
     "name": "Phir Hera Pheri",
@@ -13688,6 +14168,16 @@
     "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1782102762.webp",
     "stationuuid": "7bc35373-99be-35ca-a9c1-07b265a2eadc",
     "backup_url": "http://198.144.149.206:8080/DINESH/PJTV/index.m3u8?token=YAAL"
+  },
+  {
+    "name": "PK Sports",
+    "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/PK%20Sports.jpeg",
+    "stationuuid": "63a0fc7c-6ae5-3c8c-a863-e13f5ea8fc15",
+    "backup_url": ""
   },
   {
     "name": "PMC",
@@ -13936,7 +14426,7 @@
     "country": "India",
     "tags": "Sports",
     "favicon": "http://linear-poster.astro.com.my/prod/logo/PremierSports.png",
-    "stationuuid": "34c1600f-da91-36e7-9d80-e0073a25177c",
+    "stationuuid": "8edfee27-0f6d-3f82-8c09-2e427002ea24",
     "backup_url": ""
   },
   {
@@ -13950,13 +14440,33 @@
     "backup_url": ""
   },
   {
+    "name": "Premier Sports 1",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8",
+    "language": "English",
+    "country": "Ireland",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/eOybZMU.png",
+    "stationuuid": "037106d1-0a74-3f21-ba41-badd2d78d479",
+    "backup_url": "https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8"
+  },
+  {
     "name": "Premier Sports 2",
     "stream_url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
     "language": "",
     "country": "India",
     "tags": "Sports",
     "favicon": "https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest?cb=20220528091432",
-    "stationuuid": "de869f46-9d5f-3c68-9a39-afae7dafe1c7",
+    "stationuuid": "636e9b98-7a8b-307f-9cca-ecaa223fde70",
+    "backup_url": ""
+  },
+  {
+    "name": "Premier Sports 2",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8",
+    "language": "English",
+    "country": "Ireland",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/Fx1n84p.png",
+    "stationuuid": "10705c80-aafe-3da2-a5ab-878252919e4f",
     "backup_url": ""
   },
   {
@@ -13978,6 +14488,16 @@
     "favicon": "http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_27_1729066643_thumb.png",
     "stationuuid": "4125f6fd-81c5-3077-ade3-ebd698a4e9a2",
     "backup_url": "https://cable71tataplay.akamaized.net/primetv/primetv/index.m3u8"
+  },
+  {
+    "name": "Prime Music",
+    "stream_url": "https://live3.onecloudlive.in/primemusic/livestream/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Music",
+    "favicon": "https://api.nellaiiptv.com/public/uploads/channel/logos/1771244366.webp",
+    "stationuuid": "ccab07e8-ad07-352c-b1c9-df0c2ff1fa1c",
+    "backup_url": ""
   },
   {
     "name": "Prime News",
@@ -14390,6 +14910,36 @@
     "backup_url": ""
   },
   {
+    "name": "RACER International",
+    "stream_url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
+    "language": "English",
+    "country": "Poland",
+    "tags": "Sports",
+    "favicon": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
+    "stationuuid": "14171932-1cb5-31ce-8b65-189bb19e2c6e",
+    "backup_url": ""
+  },
+  {
+    "name": "Racer Network",
+    "stream_url": "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "672d5422-65a5-3048-95f5-c2f964856562",
+    "backup_url": "https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "Racer Select",
+    "stream_url": "https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/CurtYvn.png",
+    "stationuuid": "76500b55-241a-377f-8e3f-ed8256d4055c",
+    "backup_url": "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8"
+  },
+  {
     "name": "Raftaar Media",
     "stream_url": "https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8",
     "language": "Hindi",
@@ -14670,6 +15220,16 @@
     "backup_url": ""
   },
   {
+    "name": "Rally TV",
+    "stream_url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png",
+    "stationuuid": "86f3adb4-71b6-3ab9-aec4-17b5821d1cd0",
+    "backup_url": "https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8"
+  },
+  {
     "name": "Ram Setu",
     "stream_url": "https://d3s0ximcru5bdx.cloudfront.net/RamSethu_22-Full-Mezz_UHD-hi-IN-1733485778200/cmaf/H_264/RamSethu_22-Full-Mezz_UHD-hi-IN/abundantia-abundantia_RamSethu_22-Full-Mezz_UHD-hi-IN.m3u8",
     "language": "",
@@ -14770,6 +15330,16 @@
     "backup_url": ""
   },
   {
+    "name": "Real Madrid TV English",
+    "stream_url": "http://88.212.15.19/live/real_madrid_tv/index.m3u8",
+    "language": "English",
+    "country": "Spain",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/5pMo7dL.png",
+    "stationuuid": "68adcd4b-4757-39fe-9119-a2dcd3e50c22",
+    "backup_url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"
+  },
+  {
     "name": "Real News Kerala",
     "stream_url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
     "language": "Malayalam",
@@ -14778,6 +15348,16 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png",
     "stationuuid": "0dcdf535-901d-38a4-8b1e-94b36c1de2fa",
     "backup_url": ""
+  },
+  {
+    "name": "Red Bull TV",
+    "stream_url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "language": "English",
+    "country": "Austria",
+    "tags": "Infotainment, Sports",
+    "favicon": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
+    "stationuuid": "b0f0988b-b316-3749-a86a-c8c613393edf",
+    "backup_url": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8"
   },
   {
     "name": "Reelz",
@@ -14870,6 +15450,16 @@
     "backup_url": ""
   },
   {
+    "name": "REV'N Action",
+    "stream_url": "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Entertainment, Infotainment, Sports",
+    "favicon": "https://i.imgur.com/xsm8mMd.png",
+    "stationuuid": "90f66c02-6628-36c9-ad4e-2e067998817b",
+    "backup_url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8"
+  },
+  {
     "name": "Rhema TV",
     "stream_url": "https://ktismaservers.in:3647/live/rhematvlive.m3u8",
     "language": "",
@@ -14878,6 +15468,16 @@
     "favicon": "http://phoenixcreations.online/ott/joshuaott/uploads/1762075660_unnamed.png",
     "stationuuid": "1ef2091a-9954-3837-96fc-87a5745e9bbc",
     "backup_url": ""
+  },
+  {
+    "name": "Right Now TV",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Entertainment, Sports",
+    "favicon": "https://i.imgur.com/OxbIla4.png",
+    "stationuuid": "68d73e72-8134-3b0f-92b8-55fc54b25985",
+    "backup_url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8"
   },
   {
     "name": "Right TV",
@@ -15940,6 +16540,36 @@
     "backup_url": "https://cloudplay-sonyliv.pages.dev/sethd.m3u8"
   },
   {
+    "name": "Setanta Sports",
+    "stream_url": "http://stream.mcquack.net/313/index.m3u8",
+    "language": "English/Ukrainian",
+    "country": "United Kingdom",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "9651ee98-5a72-3c83-ac47-bbc77dc21bbf",
+    "backup_url": ""
+  },
+  {
+    "name": "Setanta Sports 1 Eurasia",
+    "stream_url": "http://stream.mcquack.net/234/index.m3u8",
+    "language": "Russian/English",
+    "country": "Ireland",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/zlJK7ca.png",
+    "stationuuid": "39955897-bcb5-30db-baf9-de863cbdae92",
+    "backup_url": ""
+  },
+  {
+    "name": "Setanta Sports 2 Eurasia",
+    "stream_url": "http://stream.mcquack.net/235/index.m3u8",
+    "language": "Russian/English",
+    "country": "Ireland",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/ouHunnK.png",
+    "stationuuid": "d81baedb-6776-3447-8664-43fdec114d59",
+    "backup_url": ""
+  },
+  {
     "name": "SGB TV",
     "stream_url": "https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8",
     "language": "",
@@ -16520,6 +17150,26 @@
     "backup_url": ""
   },
   {
+    "name": "Sky Racing 1",
+    "stream_url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+    "language": "English",
+    "country": "Australia",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/Hf0EiaW.png",
+    "stationuuid": "1f72884c-12e6-389e-814b-47fb4ac2aad4",
+    "backup_url": "https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8"
+  },
+  {
+    "name": "Sky Racing 2",
+    "stream_url": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8",
+    "language": "English",
+    "country": "Australia",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/TxQvFnQ.png",
+    "stationuuid": "e4086811-096e-38e6-979f-aafacf4a0cb9",
+    "backup_url": "https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8"
+  },
+  {
     "name": "Sky Sports Cricket",
     "stream_url": "https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8",
     "language": "",
@@ -16528,6 +17178,46 @@
     "favicon": "https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png",
     "stationuuid": "dc9241fd-5d6a-3fe6-9c73-a2381211a1e9",
     "backup_url": "https://xemzi.short.gy/2000006"
+  },
+  {
+    "name": "Sky Sports Cricket",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8",
+    "language": "English",
+    "country": "United Kingdom",
+    "tags": "Sports",
+    "favicon": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
+    "stationuuid": "d06c34d3-e91f-34a0-b77e-08d2008955bc",
+    "backup_url": "https://xemzi.short.gy/2000006"
+  },
+  {
+    "name": "Sky Sports Main Event",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8",
+    "language": "English",
+    "country": "Ireland",
+    "tags": "Sports",
+    "favicon": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+    "stationuuid": "9d36e06a-093c-350f-a46f-39b52ee17914",
+    "backup_url": "https://xemzi.short.gy/2000001"
+  },
+  {
+    "name": "Sky Sports News",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8",
+    "language": "English",
+    "country": "United Kingdom",
+    "tags": "Sports",
+    "favicon": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png",
+    "stationuuid": "23b155c9-2bd2-3858-bb02-390d6a27358f",
+    "backup_url": ""
+  },
+  {
+    "name": "Sky Sports NFL",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8",
+    "language": "English",
+    "country": "United Kingdom",
+    "tags": "Sports",
+    "favicon": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png",
+    "stationuuid": "8427280f-9d86-372f-9387-7d11db85a09a",
+    "backup_url": ""
   },
   {
     "name": "Sky TV",
@@ -16547,6 +17237,16 @@
     "tags": "News",
     "favicon": "https://yt3.googleusercontent.com/Ux5hUD3G0CqgjYzLusscYCzBsbKWepCkhArK1-4-LUFlGxE2yFfLda_SyRE5wI3E2Kn-VnNwHg=s900-c-k-c0x00ffffff-no-rj",
     "stationuuid": "b029b4cf-ed71-372b-b096-8d446f72db80",
+    "backup_url": ""
+  },
+  {
+    "name": "Slopes TV",
+    "stream_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/8bzAfgK.png",
+    "stationuuid": "aa2b5456-b47d-3ae3-8db5-9d911626c3b0",
     "backup_url": ""
   },
   {
@@ -16970,6 +17670,26 @@
     "backup_url": ""
   },
   {
+    "name": "Sport 1 Baltic",
+    "stream_url": "http://stream.mcquack.net/461/index.m3u8",
+    "language": "Russian/English/Ukrainian",
+    "country": "Ukraine",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/aBY7QK4.png",
+    "stationuuid": "71a156aa-8d53-3089-a631-68e734eeb5dd",
+    "backup_url": ""
+  },
+  {
+    "name": "Sport 5",
+    "stream_url": "http://stream.mcquack.net/212/index.m3u8",
+    "language": "English",
+    "country": "Ukraine",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "4a336b96-8a13-3bc1-91cc-cbe6c03b3e41",
+    "backup_url": ""
+  },
+  {
     "name": "Sport Fishing TV",
     "stream_url": "https://streams2.sofast.tv/ptnr-Khabriya/title-SPORT-FISHING-TV-ENG_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/dacf70d3-e385-46d2-8c33-2bdc5b729b38/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0",
     "language": "English",
@@ -17008,6 +17728,16 @@
     "favicon": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
     "stationuuid": "a2f19420-f7ed-3982-8525-f507a0f1ef1a",
     "backup_url": ""
+  },
+  {
+    "name": "SportsGrid",
+    "stream_url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/ulGKX30.png",
+    "stationuuid": "9b1dd3d7-027b-3cd3-8b64-cf9c4ceae34e",
+    "backup_url": "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
   },
   {
     "name": "SR Music",
@@ -17288,6 +18018,16 @@
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1736392738_cf77d13b-c021-40e7-9596-ce3964e03fc9.png",
     "stationuuid": "6dd6c790-9cc2-3a7b-b01f-020bc22dc3c6",
     "backup_url": ""
+  },
+  {
+    "name": "Stadium",
+    "stream_url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "05c3e885-e8a6-3247-9147-48be4bd834ce",
+    "backup_url": "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8"
   },
   {
     "name": "Star Bharat",
@@ -17710,16 +18450,6 @@
     "backup_url": ""
   },
   {
-    "name": "Strawberry TV",
-    "stream_url": "https://stream.onecloudlive.in/strawberrytvhd/strawberryhd/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "",
-    "stationuuid": "e11b8f1c-899a-3527-832b-eed29ff20f9f",
-    "backup_url": "https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8"
-  },
-  {
     "name": "Strong",
     "stream_url": "https://www.googleapis.com/drive/v3/files/1LNRVj7vNywMoWQTkd493xlPTno3rAJCr?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8",
     "language": "",
@@ -17728,6 +18458,16 @@
     "favicon": "https://m.media-amazon.com/images/S/pv-target-images/442958bbe93cacca04800cf917571e58612e7daffb05cffa4ccd5d81e3323a13._UR1920,1080_SX260_FMwebp_.jpg",
     "stationuuid": "99964a2f-87d8-3d11-9f3c-e6768f4c08a5",
     "backup_url": ""
+  },
+  {
+    "name": "Strongman Champions League",
+    "stream_url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+    "language": "English",
+    "country": "United Kingdom",
+    "tags": "Sports",
+    "favicon": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stationuuid": "01249825-d254-39cb-85b2-427f3db0ac36",
+    "backup_url": "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8"
   },
   {
     "name": "Studio One",
@@ -18180,6 +18920,26 @@
     "backup_url": ""
   },
   {
+    "name": "Swerve Combat",
+    "stream_url": "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/eFZh7aG.png",
+    "stationuuid": "f48efa5d-1c4b-3714-bf5e-666f84f3d836",
+    "backup_url": "https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8"
+  },
+  {
+    "name": "Swerve Sports",
+    "stream_url": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/GT0Yi2T.png",
+    "stationuuid": "b850e199-7363-35b9-92ca-055aaa93567f",
+    "backup_url": "https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8"
+  },
+  {
     "name": "Syfy",
     "stream_url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
     "language": "",
@@ -18268,6 +19028,26 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png",
     "stationuuid": "7502ad87-ed70-3f1d-b52b-ac5fd80e4546",
     "backup_url": ""
+  },
+  {
+    "name": "Talent TV",
+    "stream_url": "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8",
+    "language": "English",
+    "country": "Sri Lanka",
+    "tags": "Sports",
+    "favicon": "https://talenttv.lk/logo-footer.png",
+    "stationuuid": "bd3cc983-955d-34b2-8034-226f94e3194f",
+    "backup_url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8"
+  },
+  {
+    "name": "talkSPORT",
+    "stream_url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8",
+    "language": "English",
+    "country": "United Kingdom",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "c4d853c4-5abd-3816-be61-e9bcc3d5f65e",
+    "backup_url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8"
   },
   {
     "name": "Tamil Cinema HD 1",
@@ -18608,6 +19388,16 @@
     "favicon": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C348-1770661451.png",
     "stationuuid": "f0f236f8-1aec-30b0-b3c6-f2529dacea25",
     "backup_url": ""
+  },
+  {
+    "name": "Tennis Channel",
+    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/tsljAnY.png",
+    "stationuuid": "432abc46-24b7-35d9-bfb3-0f4c99e1e34c",
+    "backup_url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8"
   },
   {
     "name": "Tensions TV",
@@ -19340,6 +20130,16 @@
     "backup_url": "https://cdn.ottlive.co.in/mahuaplay/index.m3u8"
   },
   {
+    "name": "Trace Sport Stars",
+    "stream_url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+    "language": "English/French",
+    "country": "France",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/FabFP5A.png",
+    "stationuuid": "27a308ed-46c5-3db4-800d-d18f6f519bfc",
+    "backup_url": "http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
+  },
+  {
     "name": "TRACE Sport Stars",
     "stream_url": "https://jmp2.uk/stvp-IN8000085E",
     "language": "",
@@ -19487,6 +20287,16 @@
     "tags": "Movies",
     "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1771310223.webp",
     "stationuuid": "fbe371cf-c7d6-38cb-865d-651ee282153a",
+    "backup_url": ""
+  },
+  {
+    "name": "TSN The Ocho",
+    "stream_url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+    "language": "English",
+    "country": "Canada",
+    "tags": "Sports",
+    "favicon": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+    "stationuuid": "8d45e851-14cb-3dd1-8d78-a1527329e0fe",
     "backup_url": ""
   },
   {
@@ -19770,6 +20580,26 @@
     "backup_url": ""
   },
   {
+    "name": "TVS Bowling Network",
+    "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
+    "stationuuid": "c59cb455-507a-3ad5-85fe-728bf499d0fa",
+    "backup_url": ""
+  },
+  {
+    "name": "TVS Boxing",
+    "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/30ZoF75.png",
+    "stationuuid": "fe4b61cf-7e92-36ce-9398-a7d4e3d2bab3",
+    "backup_url": ""
+  },
+  {
     "name": "TVS Classic Movies",
     "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
     "language": "",
@@ -19777,6 +20607,16 @@
     "tags": "Movies",
     "favicon": "https://gia.tv/channels/logo/bdee487666358b00792722bd8322a07b.jpg",
     "stationuuid": "50dd5fa9-2df0-3131-83a5-40bbc85566e1",
+    "backup_url": ""
+  },
+  {
+    "name": "TVS Classic Sports",
+    "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/auR0Mi6.png",
+    "stationuuid": "0f07e620-6cb1-3767-b45b-1475a68debf8",
     "backup_url": ""
   },
   {
@@ -19800,6 +20640,36 @@
     "backup_url": ""
   },
   {
+    "name": "TVS Sports",
+    "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/Lwwq62E.png",
+    "stationuuid": "2c579e59-9fba-38d8-833b-4d194dbdd990",
+    "backup_url": ""
+  },
+  {
+    "name": "TVS Sports Bureau",
+    "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "f888592c-9a68-3a37-bfc5-037675cd9774",
+    "backup_url": ""
+  },
+  {
+    "name": "TVS Turbo",
+    "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/7zYIbU1.png",
+    "stationuuid": "a3aac775-0775-37f7-9681-9c0406c7959e",
+    "backup_url": ""
+  },
+  {
     "name": "TVS Western Movie",
     "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8",
     "language": "",
@@ -19808,6 +20678,16 @@
     "favicon": "",
     "stationuuid": "172bd1c7-f1b4-3067-98a4-2cd3d7237f8b",
     "backup_url": "https://server.notvstream.in/hitechtv/hitechtv.m3u8"
+  },
+  {
+    "name": "TVS Women Sports",
+    "stream_url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/8hC4PfF.png",
+    "stationuuid": "33bb125b-133b-3d77-bf00-c156a0c45818",
+    "backup_url": ""
   },
   {
     "name": "U Bangla",
@@ -19878,6 +20758,16 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png",
     "stationuuid": "7768b334-d859-3145-86f9-8200fbdc5088",
     "backup_url": ""
+  },
+  {
+    "name": "Unbeaten",
+    "stream_url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/LmkNt3v.png",
+    "stationuuid": "3ec6d18e-4e1d-3bad-95ee-d0589fdeaac2",
+    "backup_url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
   },
   {
     "name": "Unchained TV",
@@ -20740,6 +21630,16 @@
     "backup_url": ""
   },
   {
+    "name": "W Sport",
+    "stream_url": "https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd",
+    "language": "",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "https://linear-poster.astro.com.my/prod/logo/W-Sport.png",
+    "stationuuid": "f9026341-84b8-3951-9dda-b4478c7c69e1",
+    "backup_url": ""
+  },
+  {
     "name": "Warner TV",
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8",
     "language": "",
@@ -20990,6 +21890,16 @@
     "backup_url": ""
   },
   {
+    "name": "Willow",
+    "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
+    "stationuuid": "f2536ceb-d1c2-3bab-994e-37a4a2448ce0",
+    "backup_url": "http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8"
+  },
+  {
     "name": "Willow 2",
     "stream_url": "http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=3037&deviceMac=00:1A:79:0A:3B:2B",
     "language": "",
@@ -21000,14 +21910,14 @@
     "backup_url": ""
   },
   {
-    "name": "Willow Cricket",
-    "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-    "language": "",
-    "country": "India",
+    "name": "Willow Sports",
+    "stream_url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
+    "language": "English",
+    "country": "United States",
     "tags": "Sports",
-    "favicon": "https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png",
-    "stationuuid": "6a43b086-e1c7-3ac2-8998-2c6742110cd5",
-    "backup_url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=A0:BB:3E:07:67:9C&stream=373197&extension=ts"
+    "favicon": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
+    "stationuuid": "a689942b-cda3-301a-8924-9b0160ecfbab",
+    "backup_url": "https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8"
   },
   {
     "name": "Willow Sports",
@@ -21070,6 +21980,16 @@
     "backup_url": ""
   },
   {
+    "name": "World Poker Tour",
+    "stream_url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/98kLMjj.png",
+    "stationuuid": "d0cfdf3a-3fdf-3eca-8e08-43614073d9ab",
+    "backup_url": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8"
+  },
+  {
     "name": "World Punjabi TV",
     "stream_url": "https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8",
     "language": "Punjabi",
@@ -21117,6 +22037,16 @@
     "tags": "News",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wpn-world-punjabi-news.png",
     "stationuuid": "96a46cf3-1213-3c49-ab6a-4105278c069a",
+    "backup_url": ""
+  },
+  {
+    "name": "XFC TV",
+    "stream_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/LcfzmG0.png",
+    "stationuuid": "98a7fb8d-aa5d-34ab-b6fc-cc128f3ccffb",
     "backup_url": ""
   },
   {
@@ -21867,6 +22797,16 @@
     "tags": "Entertainment",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",
     "stationuuid": "14213f9b-b533-3a0b-af42-1e5a00d2f744",
+    "backup_url": ""
+  },
+  {
+    "name": "Zee Tamil HD APAC",
+    "stream_url": "https://shoebinfo.qzz.io/plugz5p/zee5.php?play=0-9-360",
+    "language": "Tamil",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://akamaividz2.zee5.com/image/upload/resources/0-9-360/channel_list/360x2031c866f9b15d44e38b077973e3ab37e89",
+    "stationuuid": "e4d0f9b7-3f3f-34ed-a0e7-c315de54383b",
     "backup_url": ""
   },
   {
