@@ -90,6 +90,26 @@
     "backup_url": ""
   },
   {
+    "name": "24 Taas",
+    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-580995/main.m3u8?hdnts=st=1788152016~exp=1788173616~acl=!*/vglive-sk-580995/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_57.154.218.65_yuppfast_2_channel_6_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_57.154.218.65_yuppfast_2_channel_6_-1~hmac=ebf2691220e64121b3acb190abeda207986a76cc89e88cc694fe89268954538e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=24Taas&ads.language=MAR&ads.user=0",
+    "language": "Marathi",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png",
+    "stationuuid": "9735ac0c-27df-3b1d-8bed-861d968221e8",
+    "backup_url": ""
+  },
+  {
+    "name": "30A Golf Kingdom",
+    "stream_url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+    "language": "English",
+    "country": "United States",
+    "tags": "Sports",
+    "favicon": "https://i.imgur.com/Lv53nh4.png",
+    "stationuuid": "ba8b1238-7f48-31d4-a722-cb7ffca0b1d1",
+    "backup_url": ""
+  },
+  {
     "name": "316 TV",
     "stream_url": "https://channel316.livebox.co.in/c316hls/live.m3u8",
     "language": "",
@@ -100,22 +120,12 @@
     "backup_url": "https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8"
   },
   {
-    "name": "35mm",
-    "stream_url": "https://cable63tataplay.akamaized.net/live6/35mm/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Devotional",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/35mm.png",
-    "stationuuid": "c0e62b08-1828-324f-b09b-b1366800ddeb",
-    "backup_url": ""
-  },
-  {
     "name": "4seven",
     "stream_url": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/1280px-4seven_logo_2018.svg.png",
     "stationuuid": "e4975b9e-285e-30aa-8fe5-c4b33478d528",
     "backup_url": ""
   },
@@ -231,13 +241,13 @@
   },
   {
     "name": "9X Jalwa",
-    "stream_url": "https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8",
+    "stream_url": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
     "language": "Hindi",
     "country": "India",
     "tags": "Music",
     "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png",
     "stationuuid": "9fa43968-413b-350b-93d3-f07288f671f0",
-    "backup_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8"
+    "backup_url": "https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8"
   },
   {
     "name": "9X Jhakaas",
@@ -450,6 +460,16 @@
     "backup_url": ""
   },
   {
+    "name": "Aakash Aath",
+    "stream_url": "https://cdn-4.pishow.tv/live/969/master.m3u8",
+    "language": "Bengali",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
+    "stationuuid": "f1bf5c9b-3036-31c5-89bf-47456ef295e9",
+    "backup_url": "http://103.159.180.34:5001/live/698.m3u8"
+  },
+  {
     "name": "Aalaya Magimai TV",
     "stream_url": "https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8",
     "language": "",
@@ -477,16 +497,6 @@
     "tags": "Entertainment",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png",
     "stationuuid": "5e30b7ac-1cc0-3a6b-ae7a-0b24dbfaecd0",
-    "backup_url": ""
-  },
-  {
-    "name": "Aaron TV",
-    "stream_url": "https://stream.onecloudlive.in/sachintv/aarontvhd/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1786948233.webp",
-    "stationuuid": "3e137035-5fec-38bc-aa19-76e4213abb9e",
     "backup_url": ""
   },
   {
@@ -595,7 +605,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://bx-tv.com/wp-content/uploads/2026/01/AATHITV.jpg",
     "stationuuid": "59663ccd-fb06-34c3-9fc0-782a1e19aacb",
     "backup_url": ""
   },
@@ -608,16 +618,6 @@
     "favicon": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C50-1763884010.png",
     "stationuuid": "f0789a6f-470c-3c01-87d9-577bb41da5d8",
     "backup_url": "http://103.159.180.34:5001/live/1550.m3u8"
-  },
-  {
-    "name": "AB Star News",
-    "stream_url": "https://cable79tataplay.akamaized.net/abnews/abnews/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/abstarnews.png",
-    "stationuuid": "f2f8ac66-1349-3a66-8944-0a0bbe1a5bda",
-    "backup_url": ""
   },
   {
     "name": "ABC Television",
@@ -790,6 +790,16 @@
     "backup_url": ""
   },
   {
+    "name": "Action Sports HD",
+    "stream_url": "http://maxotts.maxdigitaltv.com/x-media/C129/master.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_157_1729083483_thumb.png",
+    "stationuuid": "4d6a1b7a-df49-3901-b1f4-09bfd725eb5f",
+    "backup_url": "http://103.159.180.34:5001/live/3302.m3u8"
+  },
+  {
     "name": "Action!",
     "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8",
     "language": "",
@@ -848,6 +858,16 @@
     "favicon": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png",
     "stationuuid": "580546a4-9de7-315e-9130-fdfbb5f9607c",
     "backup_url": "https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd"
+  },
+  {
+    "name": "Adventure Sports TV",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/dbac0562-cc83-4443-a546-44c04912102a/manifest.m3u8?ads.channel=6997&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1788151985~exp=1788173585~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/dbac0562-cc83-4443-a546-44c04912102a/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_57.154.218.65_yuppfast_2_channel_292_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_57.154.218.65_yuppfast_2_channel_292_-1~hmac=9d63276c7b9c7542c00d9ed8391cbc598c76378fc6092f2e6ad1ebcb6534ea17&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=AdventureSportsTV&ads.language=ENG&ads.user=0",
+    "language": "English",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png",
+    "stationuuid": "b1caaf54-706a-3d98-a3ff-2f656de0e78b",
+    "backup_url": ""
   },
   {
     "name": "Africanews",
@@ -1000,16 +1020,6 @@
     "backup_url": ""
   },
   {
-    "name": "AlrightTV",
-    "stream_url": "https://supflm.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png",
-    "stationuuid": "2f534702-5230-3111-9e22-d3b331e59ff2",
-    "backup_url": ""
-  },
-  {
     "name": "Aman Ki Shaan",
     "stream_url": "https://newsliveindia.com:4433/aks/index.m3u8",
     "language": "",
@@ -1065,7 +1075,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://i.postimg.cc/RhyGzGT1/amc-series.png",
     "stationuuid": "6f06fc8b-20d5-30c9-aeee-833e6f2c4d3d",
     "backup_url": ""
   },
@@ -1185,7 +1195,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "http://nammaoorutv.com/dashboard/upicons/download (8).png",
     "stationuuid": "bb53b599-60c6-373d-b19a-88ffd01c9ff3",
     "backup_url": ""
   },
@@ -1288,6 +1298,16 @@
     "favicon": "",
     "stationuuid": "a77d2f86-edd1-313c-a447-a6354a7b2650",
     "backup_url": ""
+  },
+  {
+    "name": "Anbu TV",
+    "stream_url": "https://ipcloud.live/anbutv/anbutvhd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "",
+    "stationuuid": "c2b8588c-cd52-3317-a7fb-65493602302a",
+    "backup_url": "https://rtmp.bmlive.net/bms/anbutvhd/index.m3u8"
   },
   {
     "name": "And Pictures HD",
@@ -1655,7 +1675,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://i.ibb.co/JRx3Ppdm/1000136493.jpg",
     "stationuuid": "cd45988d-5c2e-3b2a-9172-3543d56096dc",
     "backup_url": ""
   },
@@ -1690,16 +1710,6 @@
     "backup_url": ""
   },
   {
-    "name": "Asian Food Network",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://i.imgur.com/PUe61Ov.png",
-    "stationuuid": "1d5df11c-4d85-3168-b182-96923a4674ea",
-    "backup_url": ""
-  },
-  {
     "name": "Asian News",
     "stream_url": "https://stream.ottlive.co.in/asiannews/index.m3u8",
     "language": "",
@@ -1708,16 +1718,6 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png",
     "stationuuid": "1dbcae87-1bd4-35b1-847a-fd1585def516",
     "backup_url": "http://103.175.73.12:8080/live/449/master.m3u8"
-  },
-  {
-    "name": "Asianet",
-    "stream_url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8",
-    "language": "Malayalam",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://i.imgur.com/Wv7MOzg.png",
-    "stationuuid": "56e79ce9-1d44-3e24-8751-18fe69dfe660",
-    "backup_url": ""
   },
   {
     "name": "Asianet Middle East",
@@ -1730,16 +1730,6 @@
     "backup_url": ""
   },
   {
-    "name": "Asianet Movies",
-    "stream_url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8",
-    "language": "Malayalam",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://i.imgur.com/cps67hs.png",
-    "stationuuid": "7e43b857-8392-3337-905c-58ac0b6879a7",
-    "backup_url": ""
-  },
-  {
     "name": "Asianet News",
     "stream_url": "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
     "language": "Malayalam",
@@ -1747,16 +1737,6 @@
     "tags": "News",
     "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png",
     "stationuuid": "18b84625-ae41-31eb-9324-d18513bb2bcb",
-    "backup_url": ""
-  },
-  {
-    "name": "Asianet Plus",
-    "stream_url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8",
-    "language": "Malayalam",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
-    "stationuuid": "1d1f55bd-a7ba-30de-b8d1-dbb559e1005c",
     "backup_url": ""
   },
   {
@@ -1800,36 +1780,6 @@
     "backup_url": ""
   },
   {
-    "name": "Astro FAM Time",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png",
-    "stationuuid": "33e31389-875f-3b50-b529-34055174de7e",
-    "backup_url": ""
-  },
-  {
-    "name": "Astro Showcase",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",
-    "stationuuid": "b50aa8bf-b516-3a19-8c03-81b7ece6f8d3",
-    "backup_url": ""
-  },
-  {
-    "name": "Astro Showtime",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png",
-    "stationuuid": "0c6bcf5c-82ba-3cbb-9dae-4fd0ce776b06",
-    "backup_url": ""
-  },
-  {
     "name": "Astro Tak",
     "stream_url": "https://jmp2.uk/stvp-IN26000170D",
     "language": "",
@@ -1837,36 +1787,6 @@
     "tags": "Entertainment",
     "favicon": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000170D_20260623T013628SQUARE.png",
     "stationuuid": "6db4adb4-f2a4-360a-9cdd-3719178de880",
-    "backup_url": ""
-  },
-  {
-    "name": "Astro Vaanavil",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
-    "stationuuid": "d2f3f97d-45df-36c3-a505-41ac4b4478b0",
-    "backup_url": ""
-  },
-  {
-    "name": "Astro Vellithirai",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png",
-    "stationuuid": "0f8c2c4e-da7d-3b17-b338-3dedb89c12ff",
-    "backup_url": ""
-  },
-  {
-    "name": "Astro Vinmeen",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2105//default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "http://linear-poster.astro.com.my/prod/logo/AstroVinmeen_2024.png",
-    "stationuuid": "13ebe238-c78b-35fa-9b57-3574b30160af",
     "backup_url": ""
   },
   {
@@ -1908,16 +1828,6 @@
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1785218651_1785156668_athithoothartv.png",
     "stationuuid": "63436d7f-2bef-3b48-ad01-0604e76291f9",
     "backup_url": "https://srvx.nellaiiptv.com/restream/ae5djq/index.m3u8"
-  },
-  {
-    "name": "Atmadarshan TV",
-    "stream_url": "https://cable27tataplay.akamaized.net/atmadarshan/atmadarshan/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Devotional",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Atmadarshan_TV.png",
-    "stationuuid": "cd432aa3-b319-3531-babd-6fd74bb46109",
-    "backup_url": ""
   },
   {
     "name": "ATN Bangla",
@@ -2028,16 +1938,6 @@
     "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/awe-plus-1737588938599.jpg",
     "stationuuid": "a6a19f93-a6fb-3e47-ae69-939961759013",
     "backup_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c6766dad-4126-42a3-beb4-116761ac386f/playlist.m3u8?hdnts=st=1788065100~exp=1788086700~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c6766dad-4126-42a3-beb4-116761ac386f/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.184.211.37_yuppfast_2_channel_255_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.184.211.37_yuppfast_2_channel_255_-1~hmac=448bda9ab3098b65c0a29e9b200c08ed7b237022d0d2085ecd29db2094a5845b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=AWEPLUS&ads.language=ENG&ads.user=0"
-  },
-  {
-    "name": "AXN",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd",
-    "language": "English",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://linear-poster.astro.com.my/prod/logo/AXN_v1.png",
-    "stationuuid": "da4fc4be-6b2a-3b1b-a92f-1b08f204282e",
-    "backup_url": ""
   },
   {
     "name": "Ayush TV",
@@ -2605,18 +2505,8 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1786948126.webp",
     "stationuuid": "a1115ab8-5f72-3121-9385-63bf5cf2fb30",
-    "backup_url": ""
-  },
-  {
-    "name": "Bharathi TV",
-    "stream_url": "https://stream.onecloudlive.in/karnan/bharathitv/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1786949991.webp",
-    "stationuuid": "1043dcd9-c53e-3c33-a933-726afd76c678",
     "backup_url": ""
   },
   {
@@ -3020,14 +2910,24 @@
     "backup_url": ""
   },
   {
+    "name": "BW TV",
+    "stream_url": "https://view.rcserver.in/tmp_hls35/bwtv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "",
+    "stationuuid": "3af0bfc8-39ef-3189-840a-541f2cd7bbd3",
+    "backup_url": ""
+  },
+  {
     "name": "C TV",
-    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fyfcwdbtmr/out/v1/02411c3777274c9eb5d572a0fb22a5b4/cenc.mpd",
+    "stream_url": "http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8",
     "language": "",
     "country": "India",
     "tags": "News",
     "favicon": "https://play-lh.googleusercontent.com/X_vIkiQs3knoHDyeyTFs35jyICkM8c_s4jqW3pcC49PsnOapF2gtoMGzez4XkQtmU7k=w240-h480-rw",
     "stationuuid": "a5a56905-2726-3cae-a7b0-ec45a4d9f97c",
-    "backup_url": "http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8"
+    "backup_url": ""
   },
   {
     "name": "Calcutta News",
@@ -3080,6 +2980,16 @@
     "backup_url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8"
   },
   {
+    "name": "Cartoon Network Marathi",
+    "stream_url": "http://202.70.146.135:8000/play/a060/index.m3u8",
+    "language": "Marathi",
+    "country": "India",
+    "tags": "Kids",
+    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/CNMarathi.png",
+    "stationuuid": "80c8c3ef-2404-3c31-9d5b-b50eb3b01483",
+    "backup_url": "http://103.159.180.34:5001/live/3457.m3u8"
+  },
+  {
     "name": "Cartoonito",
     "stream_url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/302/302.mpd",
     "language": "",
@@ -3105,7 +3015,7 @@
     "language": "",
     "country": "India",
     "tags": "Sports",
-    "favicon": "",
+    "favicon": "https://s3.us-west-2.amazonaws.com/prod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p/CBS-Sports-Logo-1731106414735.png",
     "stationuuid": "a9837043-dbfa-3683-bb85-3e6c6940bd94",
     "backup_url": ""
   },
@@ -3195,7 +3105,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Channel_4_2022.svg/1280px-Channel_4_2022.svg.png",
     "stationuuid": "fadd3671-ac2e-38fc-892b-3034fba7176f",
     "backup_url": ""
   },
@@ -3365,7 +3275,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://i.ibb.co/67Kx7JvR/22030.png",
     "stationuuid": "02bbae88-126f-35fe-9723-3c149f1866d0",
     "backup_url": ""
   },
@@ -3491,13 +3401,13 @@
   },
   {
     "name": "Cinemax",
-    "stream_url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd",
+    "stream_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",
     "stationuuid": "f796a95c-add8-3e39-86d4-71959d6fb845",
-    "backup_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd"
+    "backup_url": ""
   },
   {
     "name": "Cinemax Action",
@@ -3505,7 +3415,7 @@
     "language": "",
     "country": "India",
     "tags": "Movies",
-    "favicon": "",
+    "favicon": "https://iptv-epg.org/logos/USA/CinemaxAction.us.png",
     "stationuuid": "3d169f7d-3b06-3963-af67-b3bc6e3e531f",
     "backup_url": ""
   },
@@ -3525,7 +3435,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://iptv-epg.org/logos/USA/CinemaxHits.us.png",
     "stationuuid": "ef4356cd-2d96-3850-afca-cd45079b264d",
     "backup_url": ""
   },
@@ -4065,7 +3975,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_crunchyroll.webp",
     "stationuuid": "6b74c257-77be-3020-9f82-d891f856c67f",
     "backup_url": ""
   },
@@ -4095,7 +4005,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://play-lh.googleusercontent.com/ACL3_KGpGBqqYHcPsXzOBGBn43JHKGgaRJTCP0T5ROix8eBu4cMzemILbp2L1hpqJ-gB4I-CnPGlgs0Nj9GDBwn bvgrtf0",
     "stationuuid": "8d70d866-e8fb-32ef-9e2d-a0e0963fe198",
     "backup_url": ""
   },
@@ -4890,6 +4800,16 @@
     "backup_url": ""
   },
   {
+    "name": "Deivega Oil",
+    "stream_url": "https://app.ashokadigital.net/app/34e04c34/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Devotional",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1760613566_Deiveeka%20oli.png",
+    "stationuuid": "2caf37c3-4d26-3fdd-8236-864f2123072a",
+    "backup_url": ""
+  },
+  {
     "name": "Delicious",
     "stream_url": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8",
     "language": "",
@@ -4977,16 +4897,6 @@
     "tags": "Devotional",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png",
     "stationuuid": "521a6506-ed19-375c-9fb2-0c25fe28ac1d",
-    "backup_url": ""
-  },
-  {
-    "name": "Dharsan TV",
-    "stream_url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8",
-    "language": "Tamil",
-    "country": "India",
-    "tags": "Devotional",
-    "favicon": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ",
-    "stationuuid": "a5ac774a-0234-32ff-84d8-3a8169ebee74",
     "backup_url": ""
   },
   {
@@ -5087,16 +4997,6 @@
     "tags": "Entertainment",
     "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1787211184.webp",
     "stationuuid": "d33c3ea9-8733-34f1-8225-49c4cd0e5857",
-    "backup_url": ""
-  },
-  {
-    "name": "Dice Media",
-    "stream_url": "https://supflm.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png",
-    "stationuuid": "214f9351-2df8-3e3e-97ec-d2f251e313fa",
     "backup_url": ""
   },
   {
@@ -5340,6 +5240,16 @@
     "backup_url": ""
   },
   {
+    "name": "DM TV",
+    "stream_url": "https://view.rcserver.in/tmp_hls34/dmtv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DMTV.png",
+    "stationuuid": "149b00ff-8324-3650-b9bd-8ab912812040",
+    "backup_url": ""
+  },
+  {
     "name": "Dmax HD",
     "stream_url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd",
     "language": "",
@@ -5385,7 +5295,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://i.ibb.co/yn3CVVBZ/1000135652.webp",
     "stationuuid": "32237f10-9783-3212-9ba7-626dac07051a",
     "backup_url": ""
   },
@@ -5441,13 +5351,13 @@
   },
   {
     "name": "DreamWorks HD",
-    "stream_url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd",
+    "stream_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://imgur.com/SASnGFo.png",
     "stationuuid": "76d64685-6f4c-3e8f-97e8-19213eb1f651",
-    "backup_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd"
+    "backup_url": ""
   },
   {
     "name": "Drive In Movie Channel",
@@ -5610,16 +5520,6 @@
     "backup_url": ""
   },
   {
-    "name": "DY 365",
-    "stream_url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
-    "language": "Assamese",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540",
-    "stationuuid": "35dacef6-6164-368b-b04f-3da74e6ff085",
-    "backup_url": ""
-  },
-  {
     "name": "E 24",
     "stream_url": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
     "language": "Hindi",
@@ -5715,7 +5615,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://tataprime.files.wordpress.com/2024/04/20240408_2035501474180601170361895.png",
     "stationuuid": "9d5f0118-2764-3457-8897-00564763fc98",
     "backup_url": ""
   },
@@ -6070,16 +5970,6 @@
     "backup_url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8"
   },
   {
-    "name": "ET Now",
-    "stream_url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
-    "language": "English",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png",
-    "stationuuid": "da1411cd-bb9e-31d7-80c4-1712b077731f",
-    "backup_url": ""
-  },
-  {
     "name": "ETV Andhra Pradesh",
     "stream_url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
     "language": "Telugu",
@@ -6218,16 +6108,6 @@
     "favicon": "https://i.postimg.cc/Jzqh6SSX/tplay.jpg",
     "stationuuid": "273bbf06-9149-3960-9c67-157dfb62c7bb",
     "backup_url": "https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8"
-  },
-  {
-    "name": "Express News Bharat",
-    "stream_url": "https://cable16tatasky.akamaized.net/hls/enbnews.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/ENB.png",
-    "stationuuid": "3820c214-68e0-3015-9382-51e74364301f",
-    "backup_url": ""
   },
   {
     "name": "EYE Tamil Comedy TV",
@@ -6432,12 +6312,12 @@
   {
     "name": "Fifa",
     "stream_url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-    "language": "English",
-    "country": "United Kingdom",
-    "tags": "Sports",
-    "favicon": "",
-    "stationuuid": "472a0815-8d6f-3c5f-87a0-fc6fc8e64955",
-    "backup_url": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8"
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20260722T004243SQUARE.png",
+    "stationuuid": "8c315a05-14f7-3ae7-bba6-1c7c97cff730",
+    "backup_url": "https://jmp2.uk/stvp-IN270000230"
   },
   {
     "name": "FIFA+ Women",
@@ -6495,7 +6375,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1280px-Film4_logo_2018.svg.png",
     "stationuuid": "e33b42f0-d075-328c-a61c-9d1a6fb4a979",
     "backup_url": ""
   },
@@ -6527,16 +6407,6 @@
     "tags": "Entertainment",
     "favicon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJMTSswzcjRRDS60rCHOze49RDyf2MPKukCiMo9JJsxtgEaO5V",
     "stationuuid": "4adb7916-138b-3b4e-b82c-0ecbf42ce24a",
-    "backup_url": ""
-  },
-  {
-    "name": "FilterCopy",
-    "stream_url": "https://supflm.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png",
-    "stationuuid": "d309d9f9-281d-3635-9081-ef4e47763b65",
     "backup_url": ""
   },
   {
@@ -6725,7 +6595,7 @@
     "language": "",
     "country": "India",
     "tags": "Sports",
-    "favicon": "",
+    "favicon": "https://iptv-epg.org/images/6364d3f0f495b6ab9dcf8d3b5c6e0b01/pU85oUhkwd9hFYvskkMhBbr4JcjUM2a0XJ56U_rnGIIkigaTw5xxA1NxHeoZq9LTCH2_lwTyL_o6HAW_OPj3SWzZ4dwuofbe1VTApeBQPKzG6DB0-PHE8g",
     "stationuuid": "e93d909f-de86-38d4-85f0-412a0155d5e4",
     "backup_url": ""
   },
@@ -6745,7 +6615,7 @@
     "language": "",
     "country": "India",
     "tags": "Sports",
-    "favicon": "",
+    "favicon": "https://iptv-epg.org/images/6364d3f0f495b6ab9dcf8d3b5c6e0b01/pU85oUhkwd9hFYvskkMhBbr4JcjUM2a0XJ56U_rnGIIkigaTw5xxA1NxHeoZq9LTCH2_lwTyL_o6HAW_OPj3SWzZ4dwuofbe1VTApeBQPKzG6DB0-PHE8g",
     "stationuuid": "5090b4c9-5bab-33e3-90ef-45655b98ef84",
     "backup_url": ""
   },
@@ -6777,16 +6647,6 @@
     "tags": "Movies",
     "favicon": "https://i.postimg.cc/Jzqh6SSX/tplay.jpg",
     "stationuuid": "34aca86c-4d77-3564-a373-78b632011730",
-    "backup_url": ""
-  },
-  {
-    "name": "Free Movies",
-    "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://datastore.vr.ctrp.sooka.my/content/images/a8e6fbFreeMovies_IVP_LAND_917x516.jpg",
-    "stationuuid": "12e43727-eb04-3ab0-af6a-13a6d03246d8",
     "backup_url": ""
   },
   {
@@ -7110,6 +6970,16 @@
     "backup_url": ""
   },
   {
+    "name": "Go Rivival TV",
+    "stream_url": "https://ktismaservers.in:3870/live/gorevivaltvlive.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "http://phoenixcreations.online/ott/joshuaott/uploads/1762082888_unnamed (2).png",
+    "stationuuid": "0cce51bb-f40b-3b65-b3d7-fda66d87d26d",
+    "backup_url": ""
+  },
+  {
     "name": "Go2 Travel",
     "stream_url": "https://live.nowtelly.com/go2travel/live/playlist.m3u8",
     "language": "",
@@ -7357,16 +7227,6 @@
     "tags": "Entertainment",
     "favicon": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png",
     "stationuuid": "66d20f4b-726b-3901-9cda-f220031c86eb",
-    "backup_url": ""
-  },
-  {
-    "name": "Green Chillies",
-    "stream_url": "https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png",
-    "stationuuid": "07977ddf-fe14-3d21-90fa-7dcbe9380b5b",
     "backup_url": ""
   },
   {
@@ -7681,13 +7541,13 @@
   },
   {
     "name": "HBO",
-    "stream_url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
+    "stream_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd",
     "language": "English",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://linear-poster.astro.com.my/prod/logo/HBO_v1.png",
     "stationuuid": "77b3a428-1898-3f26-84e1-ac2cdfe47027",
-    "backup_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd"
+    "backup_url": ""
   },
   {
     "name": "HBO 1",
@@ -7721,13 +7581,13 @@
   },
   {
     "name": "HBO Family",
-    "stream_url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
+    "stream_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd",
     "language": "English",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://linear-poster.astro.com.my/prod/logo/HBO_Family.png",
     "stationuuid": "66d3b9ce-3686-38fa-b08e-c35d96994acf",
-    "backup_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd"
+    "backup_url": ""
   },
   {
     "name": "HBO Mundi HD",
@@ -7761,13 +7621,13 @@
   },
   {
     "name": "HBO Signature",
-    "stream_url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
+    "stream_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd",
     "language": "English",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",
     "stationuuid": "ec753a9e-67a1-3dd6-97ef-0acae455f113",
-    "backup_url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd"
+    "backup_url": ""
   },
   {
     "name": "HBO West",
@@ -7877,16 +7737,6 @@
     "tags": "Infotainment",
     "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/IMG_3318-1703728884348.png",
     "stationuuid": "cc6c0fee-a5b2-3c1f-8188-04e85d8493d6",
-    "backup_url": ""
-  },
-  {
-    "name": "HGTV",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",
-    "stationuuid": "dfa3cfbb-daf4-34a7-8fa5-a4c4a987ee7b",
     "backup_url": ""
   },
   {
@@ -8028,26 +7878,6 @@
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1777425322_HI%20TECH%20TV%20NEW%2029.4.26.jpeg",
     "stationuuid": "e5dcbcdd-abb0-3f21-91c5-854ac432b90a",
     "backup_url": "https://server.notvstream.in/hitechtv/hitechtv.m3u8"
-  },
-  {
-    "name": "Hits",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://linear-poster.astro.com.my/prod/logo/Hits_v1.png",
-    "stationuuid": "1c4d2d68-4a22-355e-8908-bd48ff69c159",
-    "backup_url": ""
-  },
-  {
-    "name": "HITS Movies",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png",
-    "stationuuid": "bf82c831-ea7f-3aa9-b14a-a18b748d2dc5",
-    "backup_url": ""
   },
   {
     "name": "Hitz Entertainment",
@@ -8210,6 +8040,16 @@
     "backup_url": ""
   },
   {
+    "name": "HS TV",
+    "stream_url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+    "language": "Hindi",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1786186834_WhatsApp%20Image%202026-08-08%20at%204.28.57%20PM.jpeg",
+    "stationuuid": "e24e90ba-586a-3107-9c15-b6f77e12f4c1",
+    "backup_url": ""
+  },
+  {
     "name": "Hub Sports 4",
     "stream_url": "http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/1090650.ts",
     "language": "",
@@ -8315,7 +8155,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://tataprime.files.wordpress.com/2024/03/20240313_0841485829770191951767206.png",
     "stationuuid": "444f1b92-f230-3680-a799-c4c38f0248fb",
     "backup_url": ""
   },
@@ -8367,16 +8207,6 @@
     "tags": "Entertainment",
     "favicon": "https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png",
     "stationuuid": "5dfe1057-db1e-383d-96bf-b82c7ae3b4be",
-    "backup_url": ""
-  },
-  {
-    "name": "IN 24 News",
-    "stream_url": "https://cable62tataplay.akamaized.net/in24news/in24news/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
-    "stationuuid": "658aa84d-1329-3794-a763-51dee38d8e2e",
     "backup_url": ""
   },
   {
@@ -8695,7 +8525,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/500px-IRIB_FARATAR_UHD.png",
     "stationuuid": "a32c7988-7c8c-39e0-a2ac-9281d0a6191e",
     "backup_url": ""
   },
@@ -8910,6 +8740,16 @@
     "backup_url": ""
   },
   {
+    "name": "Janasruthi Media",
+    "stream_url": "https://live.applelive.in/janasruthitv/janasruthitv/index.m3u8",
+    "language": "Malayalam",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1752323731_1280x1280-removebg-preview.png",
+    "stationuuid": "279c9163-f0e6-3cdc-b851-24b1e64e33d8",
+    "backup_url": ""
+  },
+  {
     "name": "Janataa TV Kannada",
     "stream_url": "https://live1.ottlive.co.in/janataanews/index.m3u8",
     "language": "Kannada",
@@ -9061,13 +8901,13 @@
   },
   {
     "name": "JCV TV",
-    "stream_url": "https://play.applelive.in/jcvtv/jcvtv.m3u8",
+    "stream_url": "http://player.applemedianetwork.com/jcv/jcv.html",
     "language": "",
     "country": "India",
     "tags": "Devotional",
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1785156817_jcv%20tv.png",
     "stationuuid": "7fad20b5-5f8e-3440-bacd-dedb5ef2ea6b",
-    "backup_url": "http://player.applemedianetwork.com/jcv/jcv.html"
+    "backup_url": ""
   },
   {
     "name": "Jee TV",
@@ -9217,6 +9057,16 @@
     "tags": "Entertainment",
     "favicon": "https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg",
     "stationuuid": "173b9298-feb1-3a3f-8878-f1443c6475e2",
+    "backup_url": ""
+  },
+  {
+    "name": "Jith TV",
+    "stream_url": "https://sscloud7.com/live/jithtv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1735924218.PNG",
+    "stationuuid": "a05aafc2-f2a9-3525-94e1-393fbeba19d9",
     "backup_url": ""
   },
   {
@@ -9395,7 +9245,7 @@
     "language": "",
     "country": "India",
     "tags": "Music",
-    "favicon": "",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1763572153_JP%20music%20tv.png",
     "stationuuid": "b71b5775-5c4c-311d-a40b-20422e40f973",
     "backup_url": ""
   },
@@ -9610,6 +9460,16 @@
     "backup_url": ""
   },
   {
+    "name": "Kanna TV",
+    "stream_url": "https://web.applelive.in/stream/kktv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://i.ibb.co/39H1Shtr/Kannatv250x250.jpg",
+    "stationuuid": "0ec2a935-fd2e-3aad-a0e9-286669b3a4ee",
+    "backup_url": ""
+  },
+  {
     "name": "Kannada TV",
     "stream_url": "https://livetv.ashokadigital.net/upload/vod/1782902632_AVR_Swarna_Mahal_Jewellers_Diamonds_Make_Me_Happy_2026_Kannada_get.gt_.mp4",
     "language": "Kannada",
@@ -9698,16 +9558,6 @@
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN%20TV.png",
     "stationuuid": "d3dc0c75-7d14-38f0-ba5a-797e05adf21a",
     "backup_url": "https://kavintv-3.proxy.nellaiiptv.com/NOTV/KAVINTV/index.m3u8?token=GTR"
-  },
-  {
-    "name": "KBC News",
-    "stream_url": "https://cable81tataplay.akamaized.net/kbcnews/kbcnews/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png",
-    "stationuuid": "1e0a01f3-81f8-3e9b-8925-62f97e33fc4b",
-    "backup_url": ""
   },
   {
     "name": "KC Music",
@@ -10380,6 +10230,16 @@
     "backup_url": ""
   },
   {
+    "name": "Lime TV",
+    "stream_url": "https://stream.iplive.xyz/limetv/limetvchannel/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://play-lh.googleusercontent.com/NqS2kvGVCXHVg9svRxhvXAguDWOt7bx0R7b4NU20bKw-gO4v90LZ97egHkb7JIZtHzPC",
+    "stationuuid": "1a8f4745-2d4a-3c55-96d5-f08183e1b493",
+    "backup_url": ""
+  },
+  {
     "name": "Lion TV",
     "stream_url": "https://stream.iplive.xyz/smmedia/liontv/index.m3u8",
     "language": "",
@@ -10520,6 +10380,16 @@
     "backup_url": ""
   },
   {
+    "name": "Love JOY TV",
+    "stream_url": "https://ipcloud.live/novamani/lovejoytv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "http://phoenixcreations.online/ott/joshuaott/uploads/1761144558_1000002302.png",
+    "stationuuid": "c1c69849-52bf-3b07-8857-1cff78b04781",
+    "backup_url": ""
+  },
+  {
     "name": "Love Nature",
     "stream_url": "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8",
     "language": "",
@@ -10568,6 +10438,16 @@
     "favicon": "https://c91cb3f4.delivery.rocketcdn.me/wp-content/uploads/2025/09/ChatGPT-Image-Jan-11-2026-07_10_50-AM-1-185x278.png",
     "stationuuid": "04c77951-1ab2-3751-8152-173b1c7ada5c",
     "backup_url": ""
+  },
+  {
+    "name": "M TV",
+    "stream_url": "https://ipcloud.live/mtv/menhd/index.m3u8",
+    "language": "Tamil",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1777712105_MTV%201.png",
+    "stationuuid": "ef613e90-568a-331c-a369-0a629e70b4dc",
+    "backup_url": "https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8"
   },
   {
     "name": "MAA Cable",
@@ -10665,7 +10545,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb",
     "stationuuid": "387cb281-a61d-32c4-b4cb-f7dbe0aa6bb1",
     "backup_url": ""
   },
@@ -10938,6 +10818,16 @@
     "favicon": "https://play-lh.googleusercontent.com/SGyfDbRPr5ySSLnPaRWovKGYTPhIZ0WdDxKgR5tiAURCGOVQDOWFNSNXZ3YtLIjZ9hq0_vqsyz4SpSmFO6Nj=w512-h960-rw",
     "stationuuid": "afdc0f6e-ef32-3d22-b8e7-f267dc6a6ee4",
     "backup_url": ""
+  },
+  {
+    "name": "Mangalmay TV",
+    "stream_url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:mangalmay.smil/playlist.m3u8?hdnts=st=1788152002~exp=1788173602~acl=!*/100823/smil:mangalmay.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_57.154.218.65_yuppfast_2_channel_180_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_57.154.218.65_yuppfast_2_channel_180_-1~hmac=4b70e8d83be77b88491d1bd0947b3dfaead5fa826937e6a5c5927f9b6ccb488c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=MangalmayTV&ads.language=HIN&ads.user=0",
+    "language": "Hindi",
+    "country": "India",
+    "tags": "Devotional",
+    "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mangalmay-tv.png",
+    "stationuuid": "c28459a5-5a4a-355d-8860-e80a0379de92",
+    "backup_url": "http://103.159.180.34:5001/live/1794.m3u8"
   },
   {
     "name": "Mango Mobile TV",
@@ -11321,13 +11211,13 @@
   },
   {
     "name": "Mega TV",
-    "stream_url": "http://livebox.pro/live/1yearqatar8942/950316240263/28141.ts",
+    "stream_url": "http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8",
     "language": "Tamil",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_151_1744700608_thumb.png",
     "stationuuid": "0f484ace-b3a7-3e0a-9645-5985ba6c4179",
-    "backup_url": "http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8"
+    "backup_url": ""
   },
   {
     "name": "Meiveli TV",
@@ -11471,13 +11361,13 @@
   },
   {
     "name": "MH1 Dil Se",
-    "stream_url": "https://mumt01.tangotv.in/O5aw8Zn3MHONEDILSE/index.m3u8",
+    "stream_url": "https://mumt01.tangotv.in/MHONEDILSE/index.m3u8",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/MH1_DilSe.png",
     "stationuuid": "313bfdcb-338d-3492-9274-deea305a078e",
-    "backup_url": "https://mumt01.tangotv.in/MHONEDILSE/index.m3u8"
+    "backup_url": ""
   },
   {
     "name": "MH1 Movie",
@@ -11545,7 +11435,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/9/96/5-Minute_Crafts_logo.jpg",
     "stationuuid": "6c24770b-6114-3899-940f-081e5c797af5",
     "backup_url": ""
   },
@@ -11625,7 +11515,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "http://tnm3u.live/icon/tamil/local/mmtv.png",
     "stationuuid": "b0a0a7cf-a6c2-3f42-8f1f-188e7c15a72c",
     "backup_url": "https://account19.livebox.co.in/mmtvhls/live.m3u8"
   },
@@ -11641,13 +11531,13 @@
   },
   {
     "name": "MMA TV.com",
-    "stream_url": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8",
+    "stream_url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
     "language": "Russian/English",
     "country": "Russia",
     "tags": "Sports",
     "favicon": "https://i.imgur.com/QhdxNsB.png",
     "stationuuid": "3eb88e02-0937-3ef2-a04e-97a19cd7e00f",
-    "backup_url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+    "backup_url": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
   },
   {
     "name": "MN Music TV",
@@ -11658,6 +11548,16 @@
     "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1786972325.webp",
     "stationuuid": "874e2f6b-f8a3-3c2b-a54b-5ba1c6795b1f",
     "backup_url": "http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/playlist.m3u8"
+  },
+  {
+    "name": "MN+ HD",
+    "stream_url": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
+    "language": "",
+    "country": "India",
+    "tags": "Movies",
+    "favicon": "https://tatalogo.pages.dev/210.png",
+    "stationuuid": "79a4ed86-b8ef-3c15-bc32-848ef149c00a",
+    "backup_url": ""
   },
   {
     "name": "MNS News TV",
@@ -11735,7 +11635,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png",
     "stationuuid": "16a00660-2845-327b-834b-0681302e96e2",
     "backup_url": ""
   },
@@ -12030,16 +11930,6 @@
     "backup_url": ""
   },
   {
-    "name": "Music Beats",
-    "stream_url": "http://guru.sritv.co.in:1935/musicbeat/live/sri_network_cdn.m3u8",
-    "language": "Kannada",
-    "country": "India",
-    "tags": "Music",
-    "favicon": "https://livetv.ashokadigital.net/upload/logo/1786440228_1837ec5c-4bbf-4bde-9078-608d9afdc805-Photoroom.png",
-    "stationuuid": "50c4409b-ec5b-3fd6-a14a-562bfb2d7c23",
-    "backup_url": ""
-  },
-  {
     "name": "Music EDM",
     "stream_url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68ae48b023fe8059c40c77ba",
     "language": "",
@@ -12285,7 +12175,7 @@
     "language": "English",
     "country": "India",
     "tags": "Infotainment",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_history.webp",
     "stationuuid": "bbe4dac3-a5c7-364a-ab14-1fe013dff351",
     "backup_url": ""
   },
@@ -12295,7 +12185,7 @@
     "language": "English",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_travel.webp",
     "stationuuid": "99ed0d06-8334-35a0-93d4-5fc8c8d94232",
     "backup_url": ""
   },
@@ -12340,16 +12230,6 @@
     "backup_url": "http://103.178.78.151:7505/play/a12o/index.m3u8"
   },
   {
-    "name": "National Today 24x7",
-    "stream_url": "https://cable59tataplay.akamaized.net/cmaf/nationaltoday/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/NationalToday24x7.png",
-    "stationuuid": "6fe07ff3-3be7-3d60-a424-426cae26c87d",
-    "backup_url": ""
-  },
-  {
     "name": "National TV India",
     "stream_url": "https://itassist.one/ntinews/nti/index.m3u8",
     "language": "",
@@ -12357,16 +12237,6 @@
     "tags": "News",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/National_Tv_India.png",
     "stationuuid": "264d2fc3-7b5e-30ae-a950-daa360f1b934",
-    "backup_url": ""
-  },
-  {
-    "name": "NatureTime",
-    "stream_url": "https://jmp2.uk/stvp-IN2100014K1",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100014K1_20260623T015351SQUARE.png",
-    "stationuuid": "c069e8a5-de62-3d8e-86d3-076c1c6a21b0",
     "backup_url": ""
   },
   {
@@ -12421,16 +12291,6 @@
   },
   {
     "name": "NBA TV",
-    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Sports",
-    "favicon": "https://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270",
-    "stationuuid": "237106ae-be4d-3be6-8c1e-0483aff9de1f",
-    "backup_url": ""
-  },
-  {
-    "name": "NBA TV",
     "stream_url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
     "language": "English",
     "country": "United States",
@@ -12438,6 +12298,16 @@
     "favicon": "",
     "stationuuid": "1d2e409c-48ae-3c16-96f7-8602d604a3d7",
     "backup_url": "https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8"
+  },
+  {
+    "name": "NBA TV",
+    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd",
+    "language": "",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "https://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270",
+    "stationuuid": "237106ae-be4d-3be6-8c1e-0483aff9de1f",
+    "backup_url": ""
   },
   {
     "name": "NBC Sports NOW",
@@ -12717,6 +12587,16 @@
     "tags": "News",
     "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png",
     "stationuuid": "d2023a25-2f37-3a94-b9f5-3bc12a2aeddf",
+    "backup_url": ""
+  },
+  {
+    "name": "News 80 Tamil",
+    "stream_url": "http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR",
+    "language": "Tamil",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://play-lh.googleusercontent.com/vUleh6XgoF2Ouabo6ImWZFg1wZY0xiFZDgp8d2fl2wvx2gejgt7eavWhn9DxTVEtw4I=w640-h960-rw",
+    "stationuuid": "c23f2b9b-5ad9-3e13-9271-e0fcc0ac6f3e",
     "backup_url": ""
   },
   {
@@ -13130,36 +13010,6 @@
     "backup_url": ""
   },
   {
-    "name": "NH BollyFlix",
-    "stream_url": "https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",
-    "stationuuid": "2c78aeec-0e91-3077-8aa0-67a1ce2d01f7",
-    "backup_url": ""
-  },
-  {
-    "name": "NH BollyGold",
-    "stream_url": "https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png",
-    "stationuuid": "53b961d6-4b9a-3247-bb7a-51b1c270d563",
-    "backup_url": ""
-  },
-  {
-    "name": "NH BollyRaga",
-    "stream_url": "https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Music",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",
-    "stationuuid": "e36a959c-05e1-39f2-8766-b1bb41b09beb",
-    "backup_url": ""
-  },
-  {
     "name": "NHK World Japan",
     "stream_url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
     "language": "",
@@ -13250,6 +13100,16 @@
     "backup_url": ""
   },
   {
+    "name": "Nila TV",
+    "stream_url": "https://live.onecloudlive.in/palaartv/nilatv/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "",
+    "stationuuid": "a4fd09fc-57a2-3302-ac21-d949fc4719af",
+    "backup_url": "https://livetv.ipcloud.live/channels/palaartv/nilatv.php"
+  },
+  {
     "name": "Nila TV Pannur",
     "stream_url": "https://live.olidigital.in/nilatv/nilatv/index.m3u8",
     "language": "",
@@ -13285,7 +13145,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1731776131_WhatsApp_Image_2024-11-16_at_8.36.22_PM-removebg-preview.png",
     "stationuuid": "e25e7feb-16d4-3c94-94b5-f03de990bd1c",
     "backup_url": ""
   },
@@ -13680,16 +13540,6 @@
     "backup_url": ""
   },
   {
-    "name": "Onkar Only Truth TV",
-    "stream_url": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8",
-    "language": "Bengali",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://i.imgur.com/wu7aQRg.png",
-    "stationuuid": "2f0b7f24-0e08-3a7b-a18e-2b4da9ab5dda",
-    "backup_url": ""
-  },
-  {
     "name": "Only Music",
     "stream_url": "https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8",
     "language": "",
@@ -13697,16 +13547,6 @@
     "tags": "Music",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Only_Music.png",
     "stationuuid": "f64f8b2a-95d3-3d2c-8260-3a275b40aa49",
-    "backup_url": ""
-  },
-  {
-    "name": "Only My Health",
-    "stream_url": "https://prod-runn.cdn.runn.tv/runntv/stream/jagran/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Web/thumbnail/988b33e9-8db1-44ee-82e7-6ba6aaf0d753.png",
-    "stationuuid": "600242ff-7b3f-3ce6-b2d9-e9bd1a66760b",
     "backup_url": ""
   },
   {
@@ -13818,6 +13658,16 @@
     "favicon": "",
     "stationuuid": "e381488f-001c-35c4-9742-0ab6915d1fad",
     "backup_url": "https://livetv.ipcloud.live/channels/palaartv/palaartv.php"
+  },
+  {
+    "name": "Panjab TV",
+    "stream_url": "https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/PanjabTV.png",
+    "stationuuid": "f5740148-9ff5-370c-b640-87d415cc4bc1",
+    "backup_url": ""
   },
   {
     "name": "Pankh",
@@ -14401,16 +14251,6 @@
   },
   {
     "name": "Premier Sports 1",
-    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Sports",
-    "favicon": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg",
-    "stationuuid": "842b86ce-b737-3e4f-a23c-1334d524b76b",
-    "backup_url": ""
-  },
-  {
-    "name": "Premier Sports 1",
     "stream_url": "https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8",
     "language": "English",
     "country": "Ireland",
@@ -14420,13 +14260,13 @@
     "backup_url": "https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8"
   },
   {
-    "name": "Premier Sports 2",
-    "stream_url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
+    "name": "Premier Sports 1",
+    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
     "language": "",
     "country": "India",
     "tags": "Sports",
-    "favicon": "https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest?cb=20220528091432",
-    "stationuuid": "636e9b98-7a8b-307f-9cca-ecaa223fde70",
+    "favicon": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg",
+    "stationuuid": "842b86ce-b737-3e4f-a23c-1334d524b76b",
     "backup_url": ""
   },
   {
@@ -14437,6 +14277,16 @@
     "tags": "Sports",
     "favicon": "https://i.imgur.com/Fx1n84p.png",
     "stationuuid": "10705c80-aafe-3da2-a5ab-878252919e4f",
+    "backup_url": ""
+  },
+  {
+    "name": "Premier Sports 2",
+    "stream_url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest?cb=20220528091432",
+    "stationuuid": "636e9b98-7a8b-307f-9cca-ecaa223fde70",
     "backup_url": ""
   },
   {
@@ -14458,16 +14308,6 @@
     "favicon": "http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_27_1729066643_thumb.png",
     "stationuuid": "4125f6fd-81c5-3077-ade3-ebd698a4e9a2",
     "backup_url": "https://cable71tataplay.akamaized.net/primetv/primetv/index.m3u8"
-  },
-  {
-    "name": "Prime Music",
-    "stream_url": "https://live3.onecloudlive.in/primemusic/livestream/index.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Music",
-    "favicon": "https://api.nellaiiptv.com/public/uploads/channel/logos/1771244366.webp",
-    "stationuuid": "ccab07e8-ad07-352c-b1c9-df0c2ff1fa1c",
-    "backup_url": ""
   },
   {
     "name": "Prime News",
@@ -15280,16 +15120,6 @@
     "backup_url": ""
   },
   {
-    "name": "RCM",
-    "stream_url": "https://amg01076-lightning-amg01076c11-lg-nz-7781.playouts.now.amagi.tv/playlist/amg01076-lightning-rialtorcm-lgnz/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png",
-    "stationuuid": "2f962880-8b93-37d7-8c9b-1542ee520feb",
-    "backup_url": ""
-  },
-  {
     "name": "Real Madrid TV English",
     "stream_url": "http://88.212.15.19/live/real_madrid_tv/index.m3u8",
     "language": "English",
@@ -15308,6 +15138,16 @@
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png",
     "stationuuid": "0dcdf535-901d-38a4-8b1e-94b36c1de2fa",
     "backup_url": ""
+  },
+  {
+    "name": "Red Bull TV",
+    "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png",
+    "stationuuid": "a4e20bf8-3382-34be-93da-b19ec035d548",
+    "backup_url": "http://103.159.180.34:5001/live/2779.m3u8"
   },
   {
     "name": "Red Bull TV",
@@ -15441,13 +15281,13 @@
   },
   {
     "name": "Right TV",
-    "stream_url": "https://srv-i.maduraiiptv.in/righttvhd/live/index.m3u8",
+    "stream_url": "https://stream.onecloudlive.in/righttv/live/index.m3u8",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://files.catbox.moe/bjqn2m.gif",
     "stationuuid": "d2eafc32-1c99-3b1d-a343-cab5f7f610a6",
-    "backup_url": "https://stream.onecloudlive.in/righttv/live/index.m3u8"
+    "backup_url": "https://srv-i.maduraiiptv.in/righttvhd/live/index.m3u8"
   },
   {
     "name": "RIO MAX TV",
@@ -15458,6 +15298,16 @@
     "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1771245052.webp",
     "stationuuid": "c78c7709-28eb-3398-acfb-ca4007f2d420",
     "backup_url": ""
+  },
+  {
+    "name": "RIO TV",
+    "stream_url": "https://ipcloud.live/riotv/riotvhd/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "",
+    "stationuuid": "37a50d2d-945d-3e1c-8ed5-2f5cb42d788c",
+    "backup_url": "http://103.175.73.12:8080/live/598/master.m3u8"
   },
   {
     "name": "Rishtey",
@@ -15540,26 +15390,6 @@
     "backup_url": ""
   },
   {
-    "name": "ROCK Action",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://linear-poster.astro.com.my/prod/logo/RockAction.png",
-    "stationuuid": "1c8247d9-a2ef-3b19-a116-7101b67386af",
-    "backup_url": ""
-  },
-  {
-    "name": "ROCK Entertainment",
-    "stream_url": "https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-avc1_2500000=7-3277707030000000.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3A21C3E7-8514-4978-BEAA-6EE4DAB2C5B8/0-16x9.png?width=530",
-    "stationuuid": "28916fb8-a015-35af-be82-285b832d9961",
-    "backup_url": ""
-  },
-  {
     "name": "Rock TV",
     "stream_url": "https://stream.ottlive.co.in/suriyantvtamil/index.m3u8",
     "language": "",
@@ -15567,16 +15397,6 @@
     "tags": "Movies",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png",
     "stationuuid": "eb78ec26-7cb8-3760-8972-81bce0c62084",
-    "backup_url": ""
-  },
-  {
-    "name": "Rock X Stream",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/605_144.png",
-    "stationuuid": "36d50a9a-1fab-329a-88a9-a1eadc7a2a74",
     "backup_url": ""
   },
   {
@@ -15600,16 +15420,6 @@
     "backup_url": "https://srv5.nellaiiptv.com/rojatv/rojatv/index.m3u8"
   },
   {
-    "name": "Romedy Now",
-    "stream_url": "http://103.157.248.140:8000/play/a015/index.m3u8",
-    "language": "English",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png",
-    "stationuuid": "ac15cd8c-561e-33aa-890e-e8c41acdc207",
-    "backup_url": ""
-  },
-  {
     "name": "Rongeen TV",
     "stream_url": "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8",
     "language": "Hindi",
@@ -15625,7 +15435,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://api.nellaiiptv.com/public/uploads/channel/logos/1771253547.webp",
     "stationuuid": "501e2823-4ebd-3b74-9232-e877996a7c73",
     "backup_url": ""
   },
@@ -15760,26 +15570,6 @@
     "backup_url": ""
   },
   {
-    "name": "Runn Action",
-    "stream_url": "https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://image.airtel.tv/grandslam/content/2025_05_07/R_Action-960X540.png",
-    "stationuuid": "f2dffe7e-0bae-354e-9239-ab274b8a0458",
-    "backup_url": ""
-  },
-  {
-    "name": "Runn Prime Time",
-    "stream_url": "https://prod-runn.cdn.runn.tv/runntv/stream/prd_runp/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/RUNNTV/LIVECHANNEL/69cfa8b46617185ee1add5fc/images/LANDSCAPE_169/2a0ca8c5-2cbf-416d-b5d6-657790baab84.png?o=production",
-    "stationuuid": "28d56631-4a36-3b9f-8924-60b815365512",
-    "backup_url": ""
-  },
-  {
     "name": "Runn Short Films",
     "stream_url": "https://f72e02ae6fd4491980c663c8729a1afb.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/runshf-airtel/playlist.m3u8",
     "language": "",
@@ -15787,16 +15577,6 @@
     "tags": "Movies",
     "favicon": "https://image.airtel.tv/grandslam/content/2025_05_07/LOGO_o7wpa1hH7_R_SFilms-960X540.png",
     "stationuuid": "691aea65-59e2-3eb9-bbd8-58bd604ec3fe",
-    "backup_url": ""
-  },
-  {
-    "name": "Runn Thrillers",
-    "stream_url": "https://runact.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://image.airtel.tv/grandslam/content/2025_05_07/LOGO_a08ENfVsZ_R_Thriller-960X540.png",
-    "stationuuid": "6b15523a-5e6a-3b88-8280-cc2d8bb6b8e2",
     "backup_url": ""
   },
   {
@@ -16130,6 +15910,16 @@
     "backup_url": ""
   },
   {
+    "name": "Salam Bengalore",
+    "stream_url": "https://playlist.streambox24.in:5443/SalamBengalore/streams/SalamBengalore.m3u8",
+    "language": "Kannada",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1787846608_salam%20banglore.png",
+    "stationuuid": "5ce22c93-96e1-3e7f-91a4-152daae2343b",
+    "backup_url": ""
+  },
+  {
     "name": "Salvation TV",
     "stream_url": "https://ktismaservers.in:3902/live/salvationtvlive.m3u8",
     "language": "English",
@@ -16137,16 +15927,6 @@
     "tags": "Devotional",
     "favicon": "https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg",
     "stationuuid": "fbfd8a09-a96e-3a10-84b5-54d02cefb966",
-    "backup_url": ""
-  },
-  {
-    "name": "Samachar 24",
-    "stream_url": "https://cable73tataplay.akamaized.net/samachar24/samachar24/index.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_24.png",
-    "stationuuid": "3abe2978-f47e-3496-baad-d8f5b0c3ee79",
     "backup_url": ""
   },
   {
@@ -16185,7 +15965,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://tataprime.files.wordpress.com/2024/03/20240330_00364360783326764890909083.png",
     "stationuuid": "8bb2b6d6-b950-376f-bbd4-39da1c0dc472",
     "backup_url": ""
   },
@@ -16700,16 +16480,6 @@
     "backup_url": "https://mumt03.tangotv.in/Dsly5z3HSHEKINAHTV/index.m3u8"
   },
   {
-    "name": "Shemaroo Bollywood",
-    "stream_url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png",
-    "stationuuid": "c14fee3b-ef0e-31e6-80bc-4bbbfcab0ce2",
-    "backup_url": ""
-  },
-  {
     "name": "Shemaroo Bollywood 2",
     "stream_url": "https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8",
     "language": "Hindi",
@@ -16717,16 +16487,6 @@
     "tags": "Entertainment",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png?width=300",
     "stationuuid": "889bf89b-f8af-3ddb-90ae-9626dde165fa",
-    "backup_url": ""
-  },
-  {
-    "name": "Shemaroo Filmy Gaane",
-    "stream_url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Music",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png",
-    "stationuuid": "9761398a-fbd4-3f4e-b76e-bec2a4fea744",
     "backup_url": ""
   },
   {
@@ -16830,16 +16590,6 @@
     "backup_url": ""
   },
   {
-    "name": "Showtime",
-    "stream_url": "https://ccctv.xyz:2096/live/n24/SUZsBNHv12/4738.ts",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png",
-    "stationuuid": "090d3eca-7a1e-3f97-be71-e5ded4305bdd",
-    "backup_url": ""
-  },
-  {
     "name": "Shraddha MH One",
     "stream_url": "http://103.175.73.12:8080/live/344/master.m3u8",
     "language": "",
@@ -16877,6 +16627,16 @@
     "tags": "Devotional",
     "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Shri_Shyam_TV.png",
     "stationuuid": "ea5822fa-c5d9-3250-a283-8758382d63e3",
+    "backup_url": ""
+  },
+  {
+    "name": "Shrihigulambika",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/Shrihigulambika/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Devotional",
+    "favicon": "",
+    "stationuuid": "bd98e398-f1eb-3010-89ce-6edad8e6390c",
     "backup_url": ""
   },
   {
@@ -16990,6 +16750,16 @@
     "backup_url": ""
   },
   {
+    "name": "Silver SAT TV",
+    "stream_url": "https://sanplayout-xyz.proxy.nellaiiptv.com/live2/silversatmedia/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1771390842.webp",
+    "stationuuid": "b8754662-9317-358b-80af-2f040d40ca09",
+    "backup_url": "http://103.159.180.34:5001/live/3302.m3u8"
+  },
+  {
     "name": "Sindh TV",
     "stream_url": "https://mumt01.tangotv.in/O5aw8Zn3SINDHTV/index.m3u8",
     "language": "",
@@ -17018,6 +16788,16 @@
     "favicon": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png",
     "stationuuid": "8c185fa7-ac84-3402-a9a9-6c160e04482d",
     "backup_url": "https://vvsolutions-server12.in/sindhuratv_2/video.m3u8"
+  },
+  {
+    "name": "Singam TV",
+    "stream_url": "http://brightmeltech.in/singamtv/singamtv.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "",
+    "stationuuid": "27cd2dac-85b1-3019-a55b-c0f6cc3ff826",
+    "backup_url": ""
   },
   {
     "name": "Siri Kannada",
@@ -17055,7 +16835,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1771310492.webp",
     "stationuuid": "4fab530f-567a-3c50-9ec4-a01147e07ec5",
     "backup_url": ""
   },
@@ -17131,13 +16911,13 @@
   },
   {
     "name": "SKY HD",
-    "stream_url": "https://sscloud7.com/live/skytv/index.m3u8",
+    "stream_url": "http://maxotts.maxdigitaltv.com/x-media/C156/master.m3u8",
     "language": "Nepali",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_55_1729078351_thumb.png",
     "stationuuid": "00f33fc3-4139-389d-a795-cf9fac1745d6",
-    "backup_url": "http://maxotts.maxdigitaltv.com/x-media/C156/master.m3u8"
+    "backup_url": ""
   },
   {
     "name": "Sky Media",
@@ -17155,7 +16935,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "http://tnm3u.live/icon/tamil/local/skytv.png",
     "stationuuid": "79a4444d-bdfb-39dc-9b63-21da34e97ff0",
     "backup_url": ""
   },
@@ -17185,7 +16965,7 @@
     "language": "",
     "country": "India",
     "tags": "Sports",
-    "favicon": "https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png",
+    "favicon": "",
     "stationuuid": "dc9241fd-5d6a-3fe6-9c73-a2381211a1e9",
     "backup_url": "https://xemzi.short.gy/2000006"
   },
@@ -17227,6 +17007,16 @@
     "tags": "Sports",
     "favicon": "https://i.imgur.com/8bzAfgK.png",
     "stationuuid": "aa2b5456-b47d-3ae3-8db5-9d911626c3b0",
+    "backup_url": ""
+  },
+  {
+    "name": "Smart Sri",
+    "stream_url": "http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8",
+    "language": "Tamil",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1773823026_Smart%20Sri%20Tv%20logo.png",
+    "stationuuid": "9ede7384-e8a9-3f98-b495-f8d291c8ac33",
     "backup_url": ""
   },
   {
@@ -17370,6 +17160,16 @@
     "backup_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/hdntl=exp=1767018459~acl=%2f*~data=hdntl~hmac=85f3eb24914af4b01a9b5886a64ab34a6861689e7a16e85eac290f7dce45b41c/chunklist_b2628000.m3u8"
   },
   {
+    "name": "Sonic Hindi",
+    "stream_url": "http://202.70.146.135:8000/play/a02t/index.m3u8",
+    "language": "Hindi",
+    "country": "India",
+    "tags": "Kids",
+    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png",
+    "stationuuid": "0235ff4f-3b21-357e-a8e1-530dad31a625",
+    "backup_url": ""
+  },
+  {
     "name": "Sonic the Hedgehog",
     "stream_url": "https://d2f1o3sb3u36tf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-99j9k8uxi8rc2/master.m3u8",
     "language": "",
@@ -17428,16 +17228,6 @@
     "favicon": "https://cdn.nwe.io/files/x/54/50/d773081a786ea80ba490f735fba9.jpg",
     "stationuuid": "941782a5-3369-38cc-a4ce-a54e14a7cda0",
     "backup_url": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
-  },
-  {
-    "name": "Sony MAX Hd{Sonyliv}",
-    "stream_url": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "stationuuid": "fdcd02b7-45b0-3928-ab76-11d63e7af7a3",
-    "backup_url": ""
   },
   {
     "name": "Sony Movies",
@@ -17518,6 +17308,16 @@
     "favicon": "http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_151_1729064447_thumb.png",
     "stationuuid": "f82db46b-e046-3c9a-ac82-96011864986e",
     "backup_url": ""
+  },
+  {
+    "name": "Sony Sports Ten 5 HD",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Sports",
+    "favicon": "",
+    "stationuuid": "a12c8fce-cf6c-3f50-95de-9f096ae5a9d2",
+    "backup_url": "https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/sony-sports-5-hd"
   },
   {
     "name": "Sony TEN 1{Sonyliv}",
@@ -17720,16 +17520,6 @@
     "backup_url": ""
   },
   {
-    "name": "Sports Plus HD",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Sports",
-    "favicon": "http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",
-    "stationuuid": "29ab9220-ac77-3d74-90ee-d12744a8b5c5",
-    "backup_url": ""
-  },
-  {
     "name": "SportsGrid",
     "stream_url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
     "language": "English",
@@ -17890,6 +17680,16 @@
     "backup_url": "https://rtmp.applelive.in/srivelavantv/srivelavantv4k/index.m3u8"
   },
   {
+    "name": "SRI Vinayaga Hollywood",
+    "stream_url": "http://112.133.198.71:1935/srivinayagatv/hollywood/playlist.m3u8",
+    "language": "English",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "http://phoenixcreations.online/ott/vinayagaott/uploads/1782962302_hollywood 2.png",
+    "stationuuid": "97632535-9938-36c5-97b9-cee88880ca60",
+    "backup_url": "https://1.proxy.nellaiiptv.com/srivinayagatv/hollywood/playlist.m3u8"
+  },
+  {
     "name": "SRI Vinayaga Movies",
     "stream_url": "http://112.133.198.71:1935/srivinayagatv/movies/playlist.m3u8",
     "language": "",
@@ -17898,6 +17698,16 @@
     "favicon": "http://phoenixcreations.online/ott/vinayagaott/uploads/1782804280_1002948171.jpg",
     "stationuuid": "f0c98537-d78d-3f34-a3b3-42e8f11bdd5b",
     "backup_url": "https://nijamtv.nijamtv.org/live/nijamtv/video.m3u8"
+  },
+  {
+    "name": "SRI Vinayaga Music TV",
+    "stream_url": "https://1.proxy.nellaiiptv.com/srivinayagatv/music/playlist.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Music",
+    "favicon": "",
+    "stationuuid": "6b671959-eea8-36d6-a582-3e5ac3b3f183",
+    "backup_url": "http://112.133.198.71:1935/srivinayagatv/music/playlist.m3u8"
   },
   {
     "name": "SRI Vinayaga TV",
@@ -18020,16 +17830,6 @@
     "backup_url": "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8"
   },
   {
-    "name": "Star Bharat",
-    "stream_url": "http://103.253.18.58:8000/play/a00u",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://i.imgur.com/Q8ajPij.png",
-    "stationuuid": "34828f58-84f1-388c-abf6-f8d9cec7fccf",
-    "backup_url": ""
-  },
-  {
     "name": "Star Bharat (AU)",
     "stream_url": "https://catchup.yuppcdn.net/amazonv2/36/preview/lifeokau/master/chunklist.m3u8",
     "language": "Hindi",
@@ -18071,23 +17871,13 @@
   },
   {
     "name": "Star Gold Select",
-    "stream_url": "http://149.71.34.166:8000/play/a01d/index.m3u8",
+    "stream_url": "http://202.70.146.135:8000/play/a068/index.m3u8",
     "language": "Hindi",
     "country": "India",
     "tags": "Movies",
     "favicon": "https://i.imgur.com/U7eiuqv.png",
     "stationuuid": "6a7772bc-33c0-30fc-a961-0db6cfcf3d3d",
-    "backup_url": "http://103.167.255.18:8085/play/a0m9/index.m3u8"
-  },
-  {
-    "name": "Star Gold Thrills",
-    "stream_url": "http://103.253.18.58:8000/play/a00o",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://i.imgur.com/azqtpYh.png",
-    "stationuuid": "5dfbde25-9e9f-311a-a809-f17efcb00196",
-    "backup_url": "http://103.167.255.18:8085/play/a0nd/index.m3u8"
+    "backup_url": "http://149.71.34.166:8000/play/a01d/index.m3u8"
   },
   {
     "name": "Star Jalsha",
@@ -18188,16 +17978,6 @@
     "favicon": "https://i.imgur.com/E5jjKHI.png",
     "stationuuid": "72e0c804-7d26-37ea-ac49-7d52866cd0d3",
     "backup_url": ""
-  },
-  {
-    "name": "Star Sports 1 Hindi",
-    "stream_url": "http://103.253.18.58:8000/play/a03o",
-    "language": "Hindi/Marathi/Bhojpuri/Haryanvi",
-    "country": "India",
-    "tags": "Sports",
-    "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png",
-    "stationuuid": "e5c67402-eef9-36bd-a960-4c4efa669d19",
-    "backup_url": "http://103.178.78.151:7505/play/a1n9/index.m3u8"
   },
   {
     "name": "Star Sports 1 Tamil HD",
@@ -18421,13 +18201,13 @@
   },
   {
     "name": "STN TV",
-    "stream_url": "https://play.applelive.in/stntv/stntv.m3u8",
+    "stream_url": "https://app.ashokadigital.net/app/e025edbe/index.m3u8",
     "language": "Tamil",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://livetv.ashokadigital.net/upload/logo/1784715603_WhatsApp%20Image%202026-07-22%20at%201.23.21%20PM-Photoroom.png",
     "stationuuid": "cf654570-8d38-3119-bdf2-b152408e04f9",
-    "backup_url": "https://app.ashokadigital.net/app/e025edbe/index.m3u8"
+    "backup_url": ""
   },
   {
     "name": "Storage Wars by A&E",
@@ -18468,6 +18248,16 @@
     "favicon": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
     "stationuuid": "01249825-d254-39cb-85b2-427f3db0ac36",
     "backup_url": "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Studio 18 News",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/Studio18/index.m3u8",
+    "language": "Telugu",
+    "country": "India",
+    "tags": "News",
+    "favicon": "",
+    "stationuuid": "6077ceff-1ec2-3405-9f5e-fd30e4ac2ebd",
+    "backup_url": ""
   },
   {
     "name": "Studio One",
@@ -18650,16 +18440,6 @@
     "backup_url": ""
   },
   {
-    "name": "Sun TV HD",
-    "stream_url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
-    "language": "Tamil",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png",
-    "stationuuid": "50175978-2bfd-3775-a2cf-b6da57edc2c5",
-    "backup_url": ""
-  },
-  {
     "name": "SUN TV HD AU",
     "stream_url": "https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd",
     "language": "Tamil",
@@ -18700,26 +18480,6 @@
     "backup_url": "https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8"
   },
   {
-    "name": "Superfine Films",
-    "stream_url": "https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png",
-    "stationuuid": "750c46ec-926f-30a9-ae93-d3b55eeaaafc",
-    "backup_url": ""
-  },
-  {
-    "name": "Superfine Films English",
-    "stream_url": "https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8",
-    "language": "English",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPFLM/Web/thumbnail/logo_web.png",
-    "stationuuid": "afb1f763-939e-35c0-9c5d-069a73bae311",
-    "backup_url": ""
-  },
-  {
     "name": "Superfine Films Tamil",
     "stream_url": "https://supflm.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8",
     "language": "Tamil",
@@ -18747,16 +18507,6 @@
     "tags": "Sports",
     "favicon": "http://epg.ophion.feralhosting.com/logos/South_Africa/SuperSportCricket.za.png",
     "stationuuid": "47cd86d2-e010-3432-91c4-cbf30c1380a5",
-    "backup_url": ""
-  },
-  {
-    "name": "SuperSport UHD",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png",
-    "stationuuid": "e943c839-6528-3b13-9e66-87ef81bcd76b",
     "backup_url": ""
   },
   {
@@ -18807,16 +18557,6 @@
     "tags": "Entertainment",
     "favicon": "",
     "stationuuid": "7d965436-89de-3c1f-b20f-632412b17d38",
-    "backup_url": ""
-  },
-  {
-    "name": "Suvarna HD",
-    "stream_url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/suvarnatv_live_https/index.m3u8",
-    "language": "Kannada",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna_HD.png",
-    "stationuuid": "ee170e08-fdf7-3881-92a4-a1974709cc31",
     "backup_url": ""
   },
   {
@@ -19047,16 +18787,6 @@
     "tags": "Entertainment",
     "favicon": "https://i.imgur.com/4PA2adF.png",
     "stationuuid": "a5cb897b-7253-3d78-8a62-227ae0b31ae2",
-    "backup_url": ""
-  },
-  {
-    "name": "Taiwan Plus",
-    "stream_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png",
-    "stationuuid": "7502ad87-ed70-3f1d-b52b-ac5fd80e4546",
     "backup_url": ""
   },
   {
@@ -19330,16 +19060,6 @@
     "backup_url": ""
   },
   {
-    "name": "Tata Play Hollywood Local",
-    "stream_url": "https://delta13tatasky.akamaized.net/out/i/6282177.mpd",
-    "language": "English",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://tatalogo.pages.dev/1167.png",
-    "stationuuid": "99149c4f-95b6-34c1-a0e1-d2cc528aed5b",
-    "backup_url": ""
-  },
-  {
     "name": "Tata Play Tamil Classics",
     "stream_url": "http://tv.cloudcdn.me:80/live.ts?channelId=132370&uid=3037&deviceMac=00:1A:79:0A:3B:2B",
     "language": "Tamil",
@@ -19347,16 +19067,6 @@
     "tags": "Movies",
     "favicon": "https://bigcchubchat.pages.dev/1260.png",
     "stationuuid": "582e13da-e4de-39d3-9fc7-543eb7b7c46f",
-    "backup_url": ""
-  },
-  {
-    "name": "Tata Play Toons",
-    "stream_url": "https://delta13tatasky.akamaized.net/out/i/5615195.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Kids",
-    "favicon": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSPUN_Thumbnail-v4/TONSPUN_Thumbnail.png",
-    "stationuuid": "166f2e33-cb94-397f-937c-24684fcd49dd",
     "backup_url": ""
   },
   {
@@ -19540,16 +19250,6 @@
     "backup_url": ""
   },
   {
-    "name": "Thangathirai",
-    "stream_url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "http://linear-poster.astro.com.my/prod/logo/AstroThangathirai_2024.png",
-    "stationuuid": "c81ad508-64a0-3e58-a0ff-889cf560bdee",
-    "backup_url": ""
-  },
-  {
     "name": "Thanthi One",
     "stream_url": "https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8",
     "language": "Tamil",
@@ -19677,16 +19377,6 @@
     "tags": "Sports",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png",
     "stationuuid": "a9190c1c-1881-3cde-9339-7186837907e5",
-    "backup_url": ""
-  },
-  {
-    "name": "The CW",
-    "stream_url": "https://ccctv.xyz:2096/live/n24/SUZsBNHv12/14111.ts",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/united-states/cw-us.png",
-    "stationuuid": "154f6d05-7eef-34c3-a168-b803712f98e9",
     "backup_url": ""
   },
   {
@@ -19825,7 +19515,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1770712936.webp",
     "stationuuid": "60fe5aa8-daf7-3faa-ba50-327efcf26fd1",
     "backup_url": ""
   },
@@ -19920,6 +19610,16 @@
     "backup_url": ""
   },
   {
+    "name": "Time TV HD",
+    "stream_url": "https://live.olidigital.in/timetv/timetv/index.m3u8",
+    "language": "Nepali",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_43_1729074345_thumb.png",
+    "stationuuid": "a2e8c645-8956-35c2-87f9-eff5e7669c97",
+    "backup_url": "http://maxotts.maxdigitaltv.com/x-media/C140/master.m3u8"
+  },
+  {
     "name": "Time2Rlx",
     "stream_url": "https://amg00735-amg00735c71-amgplt0835.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00735-amg00735c71-amgplt0835/playlist.m3u8?app_bundle=com.neotv.app&app_category=Entertainment&app_domain=neotvapp.com&app_name=NeoTV%2B&app_store_url=https%3A%2F%2Fneotvapp.com&app_version=1.0.0&brand_name=NeoTV%2B&channel_name=time2rlx&content_livestream=1&coppa=0&dnt=0&gdpr=0&idtype=ifa&ifa_type=aaid&inv_partner_domain=neotvapp.com&lmt=0&pod_ad_slots=1&schain=&url=https%3A%2F%2Fneotvapp.com&us_privacy=1",
     "language": "",
@@ -19928,16 +19628,6 @@
     "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/timw2rlx-1781439099988.jpg",
     "stationuuid": "2a35a97f-9039-38cb-a79f-32ec8a280a68",
     "backup_url": "https://jmp2.uk/stvp-IN3300001P5"
-  },
-  {
-    "name": "Times Now",
-    "stream_url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
-    "language": "English/Hindi",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW/images/LOGO_HD/image.png",
-    "stationuuid": "9c480dfa-e5c0-326e-8939-1b240038e20a",
-    "backup_url": ""
   },
   {
     "name": "Times Now Navbharat",
@@ -20015,7 +19705,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://bx-tv.com/wp-content/uploads/2022/09/TNSE.jpg",
     "stationuuid": "15eda47f-73df-314c-941b-508a99815eff",
     "backup_url": ""
   },
@@ -20025,7 +19715,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://i.postimg.cc/NfbJwMbX/tnt-us.png",
     "stationuuid": "015fa39b-1e70-39e3-abc6-6b4ac1207f45",
     "backup_url": "http://206.212.244.63/161/index.m3u8"
   },
@@ -20035,7 +19725,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png? worldtv2",
     "stationuuid": "3aa633cc-605e-3733-873a-dce624af0ea3",
     "backup_url": ""
   },
@@ -20230,16 +19920,6 @@
     "backup_url": ""
   },
   {
-    "name": "TRACE Urban",
-    "stream_url": "https://jmp2.uk/stvp-IN800007SR",
-    "language": "",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800007SR_20260623T015710SQUARE.png",
-    "stationuuid": "5f8e9a1e-46dc-33df-9e12-989a2e0298fa",
-    "backup_url": ""
-  },
-  {
     "name": "TraceLatina",
     "stream_url": "https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8",
     "language": "",
@@ -20268,16 +19948,6 @@
     "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/travel-tv-1731712523127-1739729806792.PNG",
     "stationuuid": "9c52a152-398d-30c5-867c-38edf8692f64",
     "backup_url": "https://jmp2.uk/stvp-IN400053KM"
-  },
-  {
-    "name": "Travelxp",
-    "stream_url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
-    "language": "English/Hindi/Bengali",
-    "country": "India",
-    "tags": "Infotainment",
-    "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
-    "stationuuid": "a0b21515-76c3-3ce5-96d1-46442a4009c2",
-    "backup_url": ""
   },
   {
     "name": "TRU",
@@ -20381,13 +20051,13 @@
   },
   {
     "name": "TTN TV",
-    "stream_url": "https://web.applelive.in/stream/ttntv/index.m3u8",
+    "stream_url": "https://5e5679f71b925.streamlock.net:442/live/ttntv/playlist.m3u8",
     "language": "",
     "country": "India",
     "tags": "Entertainment",
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF39wbYOZ7rUEhw10r2i-8KrVCgaSS9qowlP3MCLCs_KswPBgmL1u2ZR8H&s=10",
     "stationuuid": "14346438-3b43-3704-9be3-414797698344",
-    "backup_url": "https://5e5679f71b925.streamlock.net:442/live/ttntv/playlist.m3u8"
+    "backup_url": ""
   },
   {
     "name": "Turito IIT JEE",
@@ -20407,7 +20077,7 @@
     "tags": "Infotainment",
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png",
     "stationuuid": "5414099d-e2cb-326a-be44-dbf936821d58",
-    "backup_url": ""
+    "backup_url": "https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
   },
   {
     "name": "TV 100",
@@ -20540,16 +20210,6 @@
     "backup_url": ""
   },
   {
-    "name": "TV5 Monde",
-    "stream_url": "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_Monde.png",
-    "stationuuid": "b2066049-1422-321c-8848-27641a69bbf5",
-    "backup_url": ""
-  },
-  {
     "name": "TV5 News",
     "stream_url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8",
     "language": "Telugu",
@@ -20647,6 +20307,16 @@
     "tags": "News",
     "favicon": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png",
     "stationuuid": "4f1eb7f7-4f76-386b-bbc0-bf3b0107e834",
+    "backup_url": ""
+  },
+  {
+    "name": "TvOasis",
+    "stream_url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000087932-1764290268389.png",
+    "stationuuid": "1a28e9fd-5b22-3089-985a-5d1b427d62c3",
     "backup_url": ""
   },
   {
@@ -20770,16 +20440,6 @@
     "backup_url": ""
   },
   {
-    "name": "U Bangla",
-    "stream_url": "https://ubangla.akamaized.net/index.m3u8",
-    "language": "Bengali",
-    "country": "India",
-    "tags": "News",
-    "favicon": "https://jiotvimages.cdn.jio.com/dare_images/images/U_Bangla.png",
-    "stationuuid": "afad7005-3a70-33dd-a567-a9ce00656d44",
-    "backup_url": ""
-  },
-  {
     "name": "U Channel",
     "stream_url": "https://mars.streambridge.cloud/uchannel/live/index.m3u8",
     "language": "Kannada",
@@ -20825,7 +20485,7 @@
     "language": "",
     "country": "India",
     "tags": "Sports",
-    "favicon": "",
+    "favicon": "https://iptv-epg.org/logos/USA/UFC1.UFC.png",
     "stationuuid": "9e1f5ab4-8d3c-3370-b51c-2431518aef81",
     "backup_url": ""
   },
@@ -20955,7 +20615,7 @@
     "language": "English",
     "country": "India",
     "tags": "Movies",
-    "favicon": "",
+    "favicon": "https://iptv-epg.org/logos/USA/UniversalMovies.us.png",
     "stationuuid": "631eeda6-9180-327d-88ba-52724668be39",
     "backup_url": ""
   },
@@ -21115,7 +20775,7 @@
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://livetv.ashokadigital.net/upload/logo/1734235815_WhatsApp_Image_2024-12-15_at_8.10.00_AM-removebg-preview.png",
     "stationuuid": "5bb58158-d47b-36e9-a9b0-1f65458b167e",
     "backup_url": ""
   },
@@ -21485,7 +21145,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://api.maduraiiptv.in/uploads/channel/logos/1773082019.webp",
     "stationuuid": "8b538d7c-84a9-35f6-adab-b2e203692ac0",
     "backup_url": ""
   },
@@ -21760,6 +21420,16 @@
     "backup_url": "https://cloudsavre.in.net/hls/stream.m3u8"
   },
   {
+    "name": "We Baduga TV",
+    "stream_url": "https://rtmp.bmlive.net/webaduga/webaduga/index.m3u8",
+    "language": "",
+    "country": "India",
+    "tags": "News",
+    "favicon": "https://i.ibb.co/msBGprc/1000145103.jpg",
+    "stationuuid": "814f6200-37c4-3c2e-a6ea-f2543ba19bc9",
+    "backup_url": ""
+  },
+  {
     "name": "WeatherSpy",
     "stream_url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
     "language": "Hindi",
@@ -22008,6 +21678,16 @@
     "favicon": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png",
     "stationuuid": "d7de3260-90a9-33b2-8dd6-8f81c4c0d1bc",
     "backup_url": ""
+  },
+  {
+    "name": "WIN TV",
+    "stream_url": "https://cdn-4.pishow.tv/live/1531/master.m3u8",
+    "language": "Telugu",
+    "country": "India",
+    "tags": "Entertainment",
+    "favicon": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C155-1774869325.png",
+    "stationuuid": "496db927-fad9-3eb3-8a44-cc17b7a59408",
+    "backup_url": "https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8"
   },
   {
     "name": "Win TV",
@@ -22330,22 +22010,12 @@
     "backup_url": ""
   },
   {
-    "name": "Youlook Film Hits Western",
-    "stream_url": "https://amg01639-youlook-amg01639c9-lg-se-10836.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01639-youlook-youlookwesterm-lgse/playlist.m3u8",
-    "language": "",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://i.postimg.cc/Jzqh6SSX/tplay.jpg",
-    "stationuuid": "6d3234d0-36ca-3606-8777-762a251e52c6",
-    "backup_url": ""
-  },
-  {
     "name": "Yours TV",
     "stream_url": "http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8",
     "language": "",
     "country": "India",
     "tags": "News",
-    "favicon": "",
+    "favicon": "https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748079240_YOURS%2520TV.png&w=1920&q=75",
     "stationuuid": "ac4b2ecd-6357-33b7-9574-865e9d8eac3a",
     "backup_url": ""
   },
@@ -22385,7 +22055,7 @@
     "language": "",
     "country": "India",
     "tags": "Entertainment",
-    "favicon": "",
+    "favicon": "https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png",
     "stationuuid": "7bd46437-0d41-3926-ad29-ea37e95f4396",
     "backup_url": ""
   },
@@ -22580,16 +22250,6 @@
     "backup_url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8"
   },
   {
-    "name": "Zee Cine Classic",
-    "stream_url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://i.imgur.com/QCRhS1n.png",
-    "stationuuid": "343684d3-26e4-31dd-8e16-f373289b6c3d",
-    "backup_url": ""
-  },
-  {
     "name": "Zee Cinema",
     "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
     "language": "Hindi",
@@ -22640,16 +22300,6 @@
     "backup_url": "http://103.178.78.151:7505/play/a16r/index.m3u8"
   },
   {
-    "name": "Zee Comedy Nation",
-    "stream_url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png",
-    "stationuuid": "8befdabb-746d-3323-b9de-82e9a472a716",
-    "backup_url": ""
-  },
-  {
     "name": "Zee Delhi NCR Haryana",
     "stream_url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8",
     "language": "Hindi",
@@ -22657,26 +22307,6 @@
     "tags": "News",
     "favicon": "https://dtil.tmsimg.com/assets/GNLZZGG0023166M.png?lock=720x540",
     "stationuuid": "b4054a13-bff4-3163-b44c-d695e3ead7d7",
-    "backup_url": ""
-  },
-  {
-    "name": "Zee Dil Se",
-    "stream_url": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
-    "stationuuid": "39d9030c-4ee3-312a-aa8a-61d84c5b198f",
-    "backup_url": ""
-  },
-  {
-    "name": "Zee Horror Nights",
-    "stream_url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Entertainment",
-    "favicon": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png",
-    "stationuuid": "54c45c8a-b2c5-3eb6-80ab-a8b69acd3772",
     "backup_url": ""
   },
   {
@@ -22827,16 +22457,6 @@
     "tags": "Entertainment",
     "favicon": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png",
     "stationuuid": "4bbd8d06-b6e6-395e-84bd-211da1df8094",
-    "backup_url": ""
-  },
-  {
-    "name": "Zee South Flix",
-    "stream_url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
-    "language": "Hindi",
-    "country": "India",
-    "tags": "Movies",
-    "favicon": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
-    "stationuuid": "8ae39265-c2c5-32cc-8899-fe5d533354de",
     "backup_url": ""
   },
   {
